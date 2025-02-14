@@ -177,7 +177,7 @@
     "sendInvites": "Uitnodigingen verzenden",
     "resendVerification": "De verificatie opnieuw verzenden",
     "updateMyInfo": "Mijn gegevens bijwerken",
-    "addMemberBtn": "{ device, select, desktop {Add Member} other {Member} }",
+    "addMemberBtn": "{ device, select, desktop {Lid toevoegen} other {Member} }",
     "skip": "Overslaan",
     "cancellationSurveyOption1": "Het is te duur voor mij",
     "cancellationSurveyOption2": "Ik verwachtte dat het gemakkelijker zou zijn & vond geen goede begeleiding online",

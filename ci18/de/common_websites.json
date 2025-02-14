@@ -419,7 +419,7 @@
     "frequentRequestsErrTitle": "Versuchen Sie es in 5 Minuten erneut.",
     "frequentRequestsErrText": "Sie müssen etwas warten, bevor Sie eine weitere Reihe von Einladungen senden können.",
     "okay": "Okay",
-    "support": "{isCloudUser, select, true {FAQ & Support} other {Support}}",
+    "support": "{isCloudUser, select, true {FAQ & Unterstützung} other {Support}}",
     "goToProfile": "Zu Mein Profil gehen",
     "disabledSiteCreationPopoverTitle": "Entschuldigung, das ist im Moment nicht verfügbar.",
     "disabledSiteCreationPopoverText": "Wenn Sie eine neue Website erstellen möchten, versuchen Sie es in ein paar Minuten erneut.",
