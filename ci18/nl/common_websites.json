@@ -209,7 +209,7 @@
     "deactivateConfirm": "Ja, deactiveren",
     "creatingSite": "Site maken...",
     "onBoardingLoaderText": "{stap, selecteer, 1 {Je website maken} 2 {Jouw speciale \nplaats op het internet} 3 {U instellen met 's werelds \nmeest populaire content management systeem (aka WordPress)} 4 {Het toevoegen van alle \nElementor's mogelijkheden} 5 {80+ basis\nen pro widgets} 6 {Drag & drop\n site maken} 7 {Volledige site bewerken} 8 {Website thema builder} 9 {Responsief ontwerp} 10 {Motion effecten} andere {Je ontvangt een e-mail \n zodra je \n site is opgezet}}",
-    "cloudPromoHighlights": "{item, select, 1 {10GB opslag} 2 25K Maandelijkse Bezoeken 3 {50GB Bandwitdth} 4 {SSL Security} 5 {Premuim Support} 6 {Content levering door Cloudflare} 7 {Breng je eigen domein} 8 {80+ Basis en Pro Widgets} 9 {Dynamische Inhoud} 10 {Thema Bouwer} 11 {Motion Effecten} 12 {Drag & Drop Editor} 13 {Full Site Editing} 14 {Responsive Design} }",
+    "cloudPromoHighlights": "{item, select, 1 {10GB opslag} 2 25K Maandelijkse Bezoeken 3 {50GB Bandwitdth} 4 {SSL Security} 5 {Premuim Support} 6 {Inhoud levering door Cloudflare} 7 {Neem je eigen domein op} 8 {80+ Basis en Pro Widgets} 9 {Dynamische inhoud} 10 {Thema Builder} 11 {Motion Effecten} 12 {Drag & Drop Editor} 13 {Full Site Editing} 14 {Responsive Design} }",
     "selectAllSubs": "Selecteer alle abonnementen",
     "includes": "Inclusief",
     "storage": "Opslag: {value}",
