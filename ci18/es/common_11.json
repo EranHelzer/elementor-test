@@ -1,0 +1,55 @@
+{
+	"page": {
+		"back": "Volver a usuarios",
+		"reload": "Recargar datos",
+		"info": {
+			"id": "ID {id}",
+			"emailVerified": "Correo electrónico verificado {value}",
+			"supportLevel": "Nivel de soporte {value}",
+			"newStore": "Nueva tienda {value}",
+			"registeredOn": "Registrado {date}"
+		},
+		"assets": {
+			"websites": "Sitios web",
+			"subscriptions": "Suscripciones"
+		},
+		"subscriptions": {
+			"title": "Suscripciones({value})",
+			"empty": "No se encontraron suscripciones"
+		},
+		"actions": {
+			"title": "Acciones",
+			"zuora": "Administrar en Zuora",
+			"kustomer": "Buscar en Kustomer",
+			"switch": "Cambiar a usuario",
+			"wp": "Abrir en WooCommerce"
+		},
+		"userDeletion": {
+			"title": "Zona de peligro",
+			"button": "Eliminar información del cliente...",
+			"description": "Esta acción anonimiza la información del cliente, cancela suscripciones, desasocia datos de soporte y elimina de forma segura todos los medios.",
+			"userDeletionInfoModal": {
+				"title": "¿Eliminar permanentemente los datos del cliente?",
+				"alertTitle": "Esta acción es permanente",
+				"alertDescription": "Proceder con esta eliminación eliminará permanentemente y anonimizará todos los datos relacionados con el cliente como se describe a continuación. Esto no se puede deshacer.",
+				"button": "Eliminar",
+				"infoTitle": "La eliminación de la información del cliente:",
+				"infoText1": "Toda la información personal como nombre y correo electrónico será reemplazada por datos anonimizados.",
+				"infoText2": "Cualquier suscripción activa y métodos de pago asociados serán cancelados permanentemente.",
+				"infoText3": "Los tickets de soporte, registros y otros metadatos ya no estarán vinculados al cliente.",
+				"infoText4": "Todos los medios almacenados, archivos y datos de respaldo relacionados con este cliente serán purgados o anonimizados.",
+				"checkboxLabel": "Entiendo que esta acción es irreversible y eliminará permanentemente todos los datos del cliente como se describe."
+			},
+			"userDeletionStepsModal": {
+				"title": "Eliminación de información del cliente en progreso...",
+				"button": "Hecho",
+				"step1": "Anonimizando datos del cliente",
+				"step2": "Cancelando suscripciones",
+				"successTitle": "Eliminación del cliente exitosa",
+				"successDescription": "Todos los procesos han sido completados.",
+				"errorTitle": "Algunas acciones de eliminación no se pudieron completar",
+				"errorDescription": "Por favor, reanude el proceso manualmente."
+			}
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"advancedSearch": "Erweiterte Suche",
+	"searchBar": {
+		"searchByBtn": "Suche nach {value}",
+		"searchBy": "Suche nach",
+		"search": "Suche",
+		"quickSearch": "Schnellsuche"
+	},
+    "searchState": {
+		"startSearchingTitle": "Suche starten",
+		"startSearching": "Wählen Sie einen Begriff aus, um {entity} zu finden!",
+		"noResults": "Wir konnten keine Ergebnisse für „{searchTerm}“ finden!",
+		"noResultsSuggestion": "Versuchen Sie, nach einem anderen Suchbegriff zu suchen oder entfernen Sie einige Filter.",
+		"validationError": "Die Suche nach „{searchTerm}“ ist fehlgeschlagen!",
+		"validationErrorSuggestion": "Fehler: „{error}“"
+	},
+	"user": {
+		"title": "Benutzer",
+		"subtitle": "",
+		"entityName": "benutzer",
+		"searchBy": {
+			"email": "E-Mail",
+			"id": "Benutzer-ID"
+		},
+		"quickSearch": "E-Mail-Adresse oder Benutzer-ID eingeben",
+		"recentActivityTitle": "Letzte Suchanfragen"
+	},
+	"subscription": {
+		"title": "Abonnement",
+		"subtitle": "",
+		"entityName": "abonnement",
+		"id": "Abonnement-ID",
+		"searchBy": {
+			"id": "Abonnement-ID",
+			"userId": "Benutzer-ID"
+		},
+		"quickSearch": "Abonnement-ID eingeben",
+		"recentActivityTitle": "Letzte Suchanfragen"
+	},
+	"recentSearchActivity": {
+		"title": "Letzte Suchaktivitäten"
+	}
+}

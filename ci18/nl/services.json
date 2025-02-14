@@ -1,0 +1,35 @@
+{
+    "title": "Diensten",
+    "subtitle": "Krijg praktische hulp van een echte persoon.\nOns ondersteuningsteam staat klaar om de functionaliteit en beveiliging van uw site te verbeteren.",
+    "myServices": "Mijn aankopen",
+    "availableServices": "Beschikbare diensten",
+    "servicesTermsLink": "Elementor Diensten Algemene Voorwaarden",
+    "servicesTerms": "Door een Elementor dienst aan te schaffen, gaat u akkoord met onze",
+    "filters": {
+        "all": "Alle ({count})",
+        "design": "Ontwerp ({count})",
+        "maintenance": "Siteonderhoud ({count})",
+        "training": "Training & Consultatie ({count})"
+    },
+    "price": {
+        "oneTime": "{price}/Eenmalig"
+    },
+    "actions": {
+        "claim": "Claimen",
+        "buyNow": "Nu kopen",
+        "buyAgain": "Opnieuw kopen",
+        "remove": "Verwijderen"
+    },
+    "status": {
+        "pending": "We zijn ermee bezig",
+        "no-show": "We zijn ermee bezig",
+        "completed": "Voltooid"
+    },
+    "noFilteredServices": "Hmm... Niets om te tonen.",
+    "noFilteredServicesSub": "Er zijn geen aanvullende diensten om te tonen.",
+    "readMore": "Lees meer",
+    "showMore": "Toon meer",
+    "showLess": "Toon minder",
+    "learnMore": "Meer informatie",
+    "comingSoon": "Binnenkort beschikbaar{extra}"
+}

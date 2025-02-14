@@ -1,0 +1,50 @@
+{
+    "billingInfoForm": {
+        "labels": {
+            "firstName": "Voornaam",
+            "lastName": "Achternaam",
+            "email": "E-mail om facturen te ontvangen",
+            "companyName": "Bedrijfsnaam",
+            "vatNumber": "BTW-nummer / Belasting-ID",
+            "countryCode": "Land / Regio",
+            "address1": "Adres 1",
+            "address2": "Adres 2",
+            "state": "Provincie",
+            "city": "Stad",
+            "zipCode": "Postcode"
+        },
+        "errors": {
+            "defaultErrorMessage": "Voer een geldige {fieldName} in.",
+            "firstName": {
+                "required": "Voer uw voornaam in.",
+                "invalid": "Gebruik alleen letters, koppeltekens en apostroffen"
+            },
+            "lastName": {
+                "required": "Voer uw achternaam in.",
+                "invalid": "Gebruik alleen letters, koppeltekens en apostroffen"
+            },
+            "address1": {
+                "required": "Voer uw primaire adres in.",
+                "invalid": "Adres kan alfanumerieke tekens en leestekens bevatten."
+            },
+            "address2": {
+                "invalid": "Adres kan alfanumerieke tekens en leestekens bevatten."
+            },
+            "countryCode": {
+                "required": "Selecteer een land uit de lijst."
+            },
+            "state": {
+                "required": "Selecteer een provincie uit de lijst."
+            },
+            "city": {
+                "required": "Voer een stadsnaam in.",
+                "invalid": "Stadsnaam mag alleen letters en apostroffen bevatten."
+            },
+            "zipCode": {
+                "required": "Voer een geldige postcode in.",
+                "invalid": "Voer een geldige postcode in."
+            }
+        },
+        "noMatch": "Geen overeenkomsten gevonden"
+    }
+}

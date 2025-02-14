@@ -1,0 +1,36 @@
+{
+	"title": "Disputas",
+	"table": {
+		"columns": {
+			"id": "ID",
+			"orderId": "ID de pedido",
+			"disputeId": "ID de disputa",
+			"customerId": "ID de cliente",
+			"agent": "Agente",
+			"status": "Estado",
+			"paymentMethod": "Método de pago",
+			"reason": "Motivo",
+			"amount": "Cantidad",
+			"acceptanceReason": "Motivo de aceptación",
+			"respondDueDate": "Fecha límite de respuesta",
+			"actions": "Acciones"
+		},
+		"actions": {
+			"accept": "Aceptar disputa",
+			"redirect": "Ir a la página de pago",
+			"export": "Exportar",
+			"downloadAsCSV": "Descargar como CSV"
+		},
+		"acceptDisputeDialog": {
+			"title": "#{rowId} Aceptar disputa",
+			"content": "¿Está seguro de que desea aceptar esta disputa?",
+			"accept": "Aceptar",
+			"cancel": "Cancelar"
+		},
+		"messages": {
+			"disputeAccepted": "Disputa aceptada",
+			"disputeAcceptanceFailed": "No se pudo aceptar la disputa"
+		}
+	},
+	"unknown": "Desconocido"
+}

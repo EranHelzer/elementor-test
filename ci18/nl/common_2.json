@@ -1,0 +1,35 @@
+{
+  "back": "Terug",
+  "backToLogIn": "Terug naar Inloggen",
+  "continue": "Doorgaan",
+  "signInWith": "Inloggen met {provider}",
+  "signUpWith": "Doorgaan met {provider}",
+  "signInWithEmail": "Inloggen met uw e-mail",
+  "signUpWithEmail": "Doorgaan met uw e-mail",
+  "signIn": "Inloggen",
+  "createAccount": "Een Account Aanmaken",
+  "email": "e-mail",
+  "or": "OF",
+  "whatsWrong": "Wat is er mis?",
+  "footer": {
+    "copyRights": "© {year} Alle rechten voorbehouden.",
+    "creatingAccountTerms": "Door een account aan te maken, gaat u ermee akkoord Elementor e-mails te ontvangen,{br} inclusief marketing e-mails, en met onze",
+    "terms": "Servicevoorwaarden",
+    "privacy": "Privacybeleid"
+  },
+  "errors": {
+    "emailFormat": "Het wachtwoord moet minimaal 8 tekens lang zijn en moet ten minste één hoofdletter, één cijfer en één speciaal teken bevatten.",
+    "accountExists": "Het lijkt erop dat u al een account heeft.",
+    "sessionExpired": "Uw sessie is verlopen. Log in om door te gaan",
+    "userExists": "Het lijkt erop dat u al een account heeft. Log in.",
+    "invalidCredentials": "Onjuiste gebruikersnaam of wachtwoord",
+    "userNotFound": "Sorry, we kunnen geen account vinden met dit e-mailadres. Maak een nieuw account aan.",
+    "invalidCode": "De code die u heeft ingevoerd is onjuist, probeer het opnieuw of zie",
+    "missingEmail": "Om door te gaan, moet u Elementor toestemming geven om toegang te krijgen tot uw e-mailadres.",
+    "tryAgain": "Probeer het over een paar minuten opnieuw.",
+    "expiredKey": "Sorry, die sleutel is verlopen. Probeer het opnieuw.",
+    "invalidKey": "Sorry, die sleutel lijkt niet geldig te zijn.",
+    "general": "Er is iets misgegaan, probeer het opnieuw.",
+    "serviceUnavailable": "We zijn bezig met onderhoud. Probeer het over een paar momenten opnieuw. Onze excuses voor het ongemak."
+  }
+}

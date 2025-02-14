@@ -1,0 +1,16 @@
+{
+    "filter": {
+        "all": "Alle ({count})",
+        "nonCloud": "Von Dritten gehostet ({count})",
+        "cloud": "Von Elementor gehostet ({count})",
+        "invited": "Eingeladen zu ({count})",
+        "favorites": "Favoriten ({count})"
+    },
+    "sort": {
+        "title": "Seitenname",
+        "date": "Erstellungsdatum",
+        "expire": "Ablaufdatum",
+        "asc": "Aufsteigend",
+        "desc": "Absteigend"
+    }
+}

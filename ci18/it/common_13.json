@@ -1,0 +1,18 @@
+{
+	"greeting": "Ciao {name}",
+	"navigation": {
+		"homepage": "Homepage",
+		"search": "Cerca",
+		"users": "Utenti",
+		"subscriptions": "Abbonamenti",
+		"products": "Prodotti",
+		"disputes": "Controversie"
+	},
+	"goHome": "Vai alla homepage",
+	"401": {
+		"message": "Non sei autorizzato ad accedere a questa pagina."
+	},
+	"404": {
+		"message": "Ops! La risorsa che stai cercando di accedere non è stata trovata."
+	}
+}

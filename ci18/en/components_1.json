@@ -1,0 +1,35 @@
+{
+	"alert": {
+		"title": "You've used {value, plural, =100 {all} other {#%}} of your {planName}",
+        "genericTitle": "You've almost maxed-out your resources.",
+        "message":{
+            "APP_AI": "Upgrade now to create with more credits.",
+            "APP_IO": "Upgrade now to optimize more images.",
+            "HOSTING": "Upgrade now to avoid service interruptions.",
+            "DEFAULT": "Upgrade now to keep using all of Elementor’s web creation tools."
+        }
+	},
+    "tooltip": {
+        "storage": "This is the amount of space you have for files and content.",
+        "bandwidth": "This is the amount of traffic your site can support."
+    },
+    "metricsType": {
+        "images": "Images",
+        "credits": "Credits",
+        "storage": "Storage",
+        "bandwidth": "Bandwidth"
+    },
+    "usageCard": {
+        "title": {
+            "HOSTING": "Resource Usage",
+            "APP_IO": "Content Created",
+            "APP_AI": "Content Created"
+        }
+    },
+	"general": {
+		"used": "{value}% used",
+		"available": "{left}{units} available of {total}{units}",
+		"upgrade": "Upgrade Now",
+		"totalPerPeriod": "{subName} includes {total}{units} {metricsType}{measurePeriod, select, yr {/yr} mo {/mo} other {}}"
+	}
+}

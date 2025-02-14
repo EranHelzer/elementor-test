@@ -1,0 +1,43 @@
+{
+	"advancedSearch": "Búsqueda avanzada",
+	"searchBar": {
+		"searchByBtn": "Buscar por {value}",
+		"searchBy": "Buscar por",
+		"search": "Buscar",
+		"quickSearch": "Búsqueda rápida"
+	},
+    "searchState": {
+		"startSearchingTitle": "Comenzar a buscar",
+		"startSearching": "Seleccione un término para encontrar el {entity}!",
+		"noResults": "No pudimos encontrar ningún resultado para “{searchTerm}”!",
+		"noResultsSuggestion": "Intente buscar un término diferente o elimine algunos filtros.",
+		"validationError": "La búsqueda de “{searchTerm}” falló!",
+		"validationErrorSuggestion": "Error: “{error}”"
+	},
+	"user": {
+		"title": "Usuarios",
+		"subtitle": "",
+		"entityName": "usuario",
+		"searchBy": {
+			"email": "Correo electrónico",
+			"id": "ID de usuario"
+		},
+		"quickSearch": "Ingrese dirección de correo electrónico o ID de usuario",
+		"recentActivityTitle": "Búsquedas recientes"
+	},
+	"subscription": {
+		"title": "Suscripción",
+		"subtitle": "",
+		"entityName": "suscripción",
+		"id": "ID de suscripción",
+		"searchBy": {
+			"id": "ID de suscripción",
+			"userId": "ID de usuario"
+		},
+		"quickSearch": "Ingrese ID de suscripción",
+		"recentActivityTitle": "Búsquedas recientes"
+	},
+	"recentSearchActivity": {
+		"title": "Actividad de búsqueda reciente"
+	}
+}

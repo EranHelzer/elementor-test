@@ -1,0 +1,16 @@
+{
+    "filter": {
+        "all": "Tutti ({count})",
+        "nonCloud": "Ospitato da terze parti ({count})",
+        "cloud": "Ospitato da Elementor ({count})",
+        "invited": "Invitato a ({count})",
+        "favorites": "Preferiti ({count})"
+    },
+    "sort": {
+        "title": "Nome del sito",
+        "date": "Data di creazione",
+        "expire": "Data di scadenza",
+        "asc": "Crescente",
+        "desc": "Decrescente"
+    }
+}

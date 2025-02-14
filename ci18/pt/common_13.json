@@ -1,0 +1,18 @@
+{
+	"greeting": "Olá {name}",
+	"navigation": {
+		"homepage": "Página Inicial",
+		"search": "Pesquisar",
+		"users": "Usuários",
+		"subscriptions": "Assinaturas",
+		"products": "Produtos",
+		"disputes": "Disputas"
+	},
+	"goHome": "Ir para a página inicial",
+	"401": {
+		"message": "Você não está autorizado a acessar esta página."
+	},
+	"404": {
+		"message": "Ops! O recurso que você está tentando acessar não pôde ser encontrado."
+	}
+}

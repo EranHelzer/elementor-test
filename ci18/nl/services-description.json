@@ -1,0 +1,182 @@
+{
+    "ELEMENTOR-SERVICES-SETUP-01": {
+        "name": "Initiële site-inrichting",
+        "summary": "Onze experts begeleiden u door Elementor, WordPress, sjablonen en meer.",
+        "description": "Hulp nodig bij het opzetten van uw website? Laat onze experts u begeleiden bij het gebruik van Elementor en WordPress, het aanpassen van sjablonen, het maken van pagina's, het gebruiken van widgets en meer.",
+        "extra": [
+            "Gepersonaliseerde onboarding voor Elementor & WordPress",
+            "Aangepaste sjablooninstellingen",
+            "Interactieve videotrainingsessie",
+            "Gebrandede sjabloonkit",
+            "Basistraining in Elementor-functionaliteiten",
+            "Revisies - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-MIGRATION-01": {
+        "name": "Site-migratie",
+        "summary": "Breng uw site naadloos over naar Elementor Hosting met deskundige hulp.",
+        "description": "Verplaats uw site van elke hostingprovider naar Elementor Hosting met betrouwbare ondersteuning en minimale downtime. Onze standaardservice dekt elke stap om een soepel overdrachtsproces te garanderen.",
+        "extra": [
+            "Pre-migratieplanning en compatibiliteitscontroles",
+            "Volledige overdracht van websitegegevens",
+            "Continue communicatie",
+            "Uitgebreide tests na migratie",
+            "Revisies - 1",
+            "Voltooiing binnen 3 werkdagen (voor snellere migratie zie Prioriteit Site-migratie)",
+            "Opmerking: Deze service is alleen beschikbaar voor Elementor Hosting websites."
+        ]
+    },
+    "ELEMENTOR-SERVICES-MALWARE-01": {
+        "name": "Malware-opruiming",
+        "summary": "Onze Elementor en WordPress experts helpen u bij het opruimen van malwarebedreigingen op uw site.",
+        "description": "Bent u bang dat uw site geïnfecteerd is door malware? Onze experts helpen u bij het opruimen van mogelijke bedreigingen. We identificeren snel risico's, implementeren site-vergrendelingen en voeren een grondige opruiming uit.",
+        "extra": [
+            "Identificatie en isolatie van malwarebedreigingen",
+            "Uitgebreide opruiming van geïnfecteerde bestanden en databases",
+            "Implementatie van beschermende maatregelen, inclusief site-vergrendelingen",
+            "Gedetailleerd rapport over malwareverwijdering",
+            "Revisies - 1",
+            "Opmerking: Deze service is ALLEEN beschikbaar voor Elementor Hosting websites"
+        ]
+    },
+    "ELEMENTOR-SERVICES-EXIT-01": {
+        "name": "Exit-Intent Popup",
+        "summary": "Creëer effectieve exit-intent popups om gebruikers op uw site te behouden.",
+        "description": "Exit-intent popups verschijnen wanneer een gebruiker op het punt staat uw site te verlaten. Onze experts helpen u bij het maken van effectieve popups met de juiste triggers.",
+        "extra": [
+            "Ontwerp en ontwikkeling van een visueel aantrekkelijke, merkconsistente popup",
+            "Aangepaste afbeeldingen, typografie en lay-out",
+            "Technische setup en website-integratie",
+            "Op maat gemaakte aanbevelingen om de effectiviteit van popups te verbeteren",
+            "Integratie van gebruikersgedragtriggers",
+            "Revisies - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-LEADS-01": {
+        "name": "Verbeter conversies",
+        "summary": "Bent u klaar om meer conversies te krijgen? Onze Boost Conversions service helpt u bij het opzetten van een site met hoge conversies die leads aantrekt en verkopen stimuleert.",
+        "description": "Klaar om meer conversies te krijgen? Ons team verbetert uw website met op maat gemaakte diensten - aantrekkelijke pop-ups, naadloze formulierintegraties of Google Analytics setup. Dit zorgt ervoor dat u effectief leads kunt genereren en datagestuurde beslissingen kunt nemen om uw conversiepercentages te verhogen. Kies een van deze diensten:",
+        "extra": [
+            "Exit Intent Popup",
+            "Lead-verzameling Popup",
+            "Formulierintegratie",
+            "Verbind Google Analytics"
+        ]
+    },
+    "ELEMENTOR-SERVICES-FORMS-01": {
+        "name": "Formulierintegratie",
+        "summary": "Integreer eenvoudig uw favoriete marketing- of CRM-platform met WordPress en Elementor.",
+        "description": "Krijg hulp bij het integreren van uw favoriete marketingplatform met WordPress en Elementor. De lijst van marketingplatforms omvat Mailchimp, MailerLite, ActiveCampaign, GetResponse, Google Sheets, Drip en Convertkit.",
+        "extra": [
+            "Integratie met grote e-mailmarketingplatforms",
+            "Instelling van geautomatiseerde e-mailreacties",
+            "Abonneesegmentatie voor gerichte campagnes",
+            "Gedetailleerde tests en kwaliteitscontrole",
+            "Formulier aanpassing",
+            "Revisies - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-GOOGLE-01": {
+        "name": "Google Analytics Setup",
+        "summary": "Krijg praktische, real-time hulp bij het integreren van Google Analytics in uw Elementor site.",
+        "description": "Krijg de inzichten die u nodig heeft om datagestuurde beslissingen te nemen met onze Google Analytics Setup service. We zorgen ervoor dat het correct is ingesteld zodat u kunt bijhouden wat het belangrijkst is.",
+        "extra": [
+            "Deskundige begeleiding",
+            "Gepersonaliseerde setup",
+            "Volledige integratie",
+            "Verbeterde data-inzichten"
+        ]
+    },
+    "ELEMENTOR-SERVICES-RESPONSIVE-01": {
+        "name": "Responsive ontwerp setup",
+        "summary": "Zorg ervoor dat uw Elementor site er geweldig uitziet op mobiel en tablet.",
+        "description": "Zorg ervoor dat uw Elementor site er geweldig uitziet op elk apparaat met onze Responsive Design Setup service. We optimaliseren tot 5 pagina's om een soepele, responsieve ervaring op mobiel en tablet te garanderen.",
+        "extra": [
+            "Verbeterde leesbaarheid",
+            "Geoptimaliseerde navigatie",
+            "Naadloze gebruikerservaring",
+            "Eenmalige revisie"
+        ]
+    },
+    "ELEMENTOR-SERVICES-CREATION-01": {
+        "name": "Landing Page Creatie",
+        "summary": "Verhoog conversies met een professioneel ontworpen landingspagina.",
+        "description": "Verhoog conversies met een professioneel ontworpen landingspagina. We passen een van onze prachtige sjablonen aan om bij uw merk te passen en uw publiek vanaf de eerste klik te boeien.",
+        "extra": [
+            "Professionele kwaliteit",
+            "Sjabloonselectie",
+            "Aangepaste branding",
+            "Mobiel-responsief",
+            "Eenmalige revisie"
+        ]
+    },
+    "ELEMENTOR-SERVICES-LINK-01": {
+        "name": "Link in Bio Setup",
+        "summary": "Vereenvoudig uw online aanwezigheid met een aangepaste “Link in Bio” pagina.",
+        "description": "Maak verbinding met uw publiek op alle platforms met een op maat ontworpen Link in Bio pagina. Het is uw one-stop hub, geoptimaliseerd voor elk apparaat.",
+        "extra": [
+            "Link integratie",
+            "Sjabloonselectie",
+            "Merkconsistentie",
+            "Verbeterde betrokkenheid",
+            "Eenmalige revisie"
+        ]
+    },
+    "ELEMENTOR-SERVICES-TRAINING-01": {
+        "name": "Op maat gemaakte Elementor Training",
+        "summary": "Verbeter uw Elementor vaardigheden met een gepersonaliseerde, praktijkgerichte trainingssessie van 60 minuten.",
+        "description": "Breng uw Elementor vaardigheden naar een hoger niveau met onze gepersonaliseerde, praktijkgerichte trainingssessies. Deze videogesprekken van een uur zijn speciaal voor u op maat gemaakt en helpen u de belangrijkste functies van Elementor te beheersen.",
+        "extra": [
+            "60 minuten durende trainingssessie",
+            "Deskundige begeleiding",
+            "Flexibele planning",
+            "Hulpbronnen na de sessie"
+        ]
+    },
+    "ELEMENTOR-SERVICES-UPDATE-01": {
+        "name": "Site Update",
+        "summary": "Zorg ervoor dat uw site soepel draait met de nieuwste WordPress, thema- en plugin-updates.",
+        "description": "Houd uw Elementor site soepel draaiend met onze allesomvattende update-service. We regelen alles, van back-ups tot live updates, zodat u zich geen zorgen hoeft te maken.",
+        "extra": [
+            "Up-to-date plugins en thema's",
+            "Volledige site back-up",
+            "Grondige testing",
+            "Eenmalige revisie"
+        ]
+    },
+    "ELEMENTOR-SERVICES-REMOVAL-01": {
+        "name": "Verwijdering van Spamreacties",
+        "summary": "Elimineer ongewenste spam en geniet van een schone reactiesectie.",
+        "description": "Zeg vaarwel tegen spam en houd uw website professioneel met onze Spam Verwijderingsservice. We ruimen uw reactiesectie op om de prestaties en gebruikerservaring te verbeteren.",
+        "extra": [
+            "Grondige opschoning",
+            "Verbeterde prestaties",
+            "Betere gebruikerservaring",
+            "Eenmalige revisie"
+        ]
+    },
+    "ELEMENTOR-SERVICES-CONSULTATION-01": {
+        "name": "Consultatie voor Specifieke Problemen",
+        "summary": "Krijg gepersonaliseerde ondersteuning via een één-op-één consultatie met een van onze experts.",
+        "description": "Krijg de antwoorden die u nodig heeft met een één-op-één videogesprek van 45 minuten. Onze experts staan klaar om u te helpen uw Elementor site te verbeteren en uw doelen te bereiken.",
+        "extra": [
+            "Toegewijde ondersteuning",
+            "Aanpassingstips",
+            "Expertinzichten",
+            "Op maat gemaakte aanbevelingen"
+        ]
+    },
+    "ELEMENTOR-SERVICES-PRIORITY-01": {
+        "name": "Prioriteit Site Migratie",
+        "summary": "Versnel uw site migratie met prioriteitsservice. Migratie voltooid binnen 1 werkdag.",
+        "description": "Onze Prioriteit Site Migratie service biedt een versnelde overdracht van uw site van elke hostingprovider naar Elementor Hosting met ondersteuning op expertniveau en minimale downtime. Geniet van een gestroomlijnd proces met:",
+        "extra": [
+            "Pre-migratie planning en compatibiliteitscontroles",
+            "Volledige overdracht van websitegegevens",
+            "Continue communicatie",
+            "Uitgebreide tests na migratie",
+            "Revisies - 1",
+            "Opmerking: Deze service is ALLEEN beschikbaar voor Elementor Hosting websites"
+        ]
+    }
+}

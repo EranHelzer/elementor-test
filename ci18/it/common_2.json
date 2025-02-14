@@ -1,0 +1,35 @@
+{
+  "back": "Indietro",
+  "backToLogIn": "Torna al Login",
+  "continue": "Continua",
+  "signInWith": "Accedi con {provider}",
+  "signUpWith": "Continua con {provider}",
+  "signInWithEmail": "Accedi con la tua email",
+  "signUpWithEmail": "Continua con la tua email",
+  "signIn": "Accedi",
+  "createAccount": "Crea un Account",
+  "email": "email",
+  "or": "OPPURE",
+  "whatsWrong": "Cosa c'è che non va?",
+  "footer": {
+    "copyRights": "© {year} Tutti i diritti riservati.",
+    "creatingAccountTerms": "Creando un account, accetti di ricevere Elementor email,{br} incluse email di marketing, e di accettare la nostra",
+    "terms": "Termini di Servizio",
+    "privacy": "Informativa sulla Privacy"
+  },
+  "errors": {
+    "emailFormat": "La password deve essere lunga almeno 8 caratteri e deve includere almeno una lettera maiuscola, un numero e un carattere speciale.",
+    "accountExists": "Sembra che tu abbia già un account.",
+    "sessionExpired": "La tua sessione è scaduta. Accedi per continuare",
+    "userExists": "Sembra che tu abbia già un account. Accedi.",
+    "invalidCredentials": "Nome utente o password non corretti",
+    "userNotFound": "Ci dispiace, non riusciamo a trovare un account con questo indirizzo email. Crea un nuovo account.",
+    "invalidCode": "Il codice inserito non è corretto, riprova o consulta",
+    "missingEmail": "Per continuare, devi concedere a Elementor il permesso di accedere al tuo indirizzo email.",
+    "tryAgain": "Riprova tra qualche minuto.",
+    "expiredKey": "Ci dispiace, quella chiave è scaduta. Riprova.",
+    "invalidKey": "Ci dispiace, quella chiave non sembra essere valida.",
+    "general": "Qualcosa è andato storto, riprova.",
+    "serviceUnavailable": "Stiamo effettuando una manutenzione. Riprova tra qualche momento. Ci scusiamo per l'inconveniente."
+  }
+}

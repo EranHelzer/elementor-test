@@ -1,0 +1,35 @@
+{
+  "back": "Voltar",
+  "backToLogIn": "Voltar para Entrar",
+  "continue": "Continuar",
+  "signInWith": "Entrar com {provider}",
+  "signUpWith": "Continuar com {provider}",
+  "signInWithEmail": "Entrar com seu e-mail",
+  "signUpWithEmail": "Continuar com seu e-mail",
+  "signIn": "Entrar",
+  "createAccount": "Criar uma Conta",
+  "email": "e-mail",
+  "or": "OU",
+  "whatsWrong": "O que há de errado?",
+  "footer": {
+    "copyRights": "© {year} Todos os Direitos Reservados.",
+    "creatingAccountTerms": "Ao criar uma conta, você concorda em receber Elementor e-mails,{br} incluindo e-mails de marketing, e com nossa",
+    "terms": "Termos de Serviço",
+    "privacy": "Política de Privacidade"
+  },
+  "errors": {
+    "emailFormat": "A senha deve ter pelo menos 8 caracteres e incluir pelo menos uma letra maiúscula, um número e um caractere especial.",
+    "accountExists": "Parece que você já tem uma conta.",
+    "sessionExpired": "Sua sessão expirou. Por favor, entre novamente para continuar",
+    "userExists": "Parece que você já tem uma conta. Entre.",
+    "invalidCredentials": "Nome de usuário ou senha incorretos",
+    "userNotFound": "Desculpe, não conseguimos encontrar uma conta com este endereço de e-mail. Por favor, crie uma nova conta.",
+    "invalidCode": "O código que você inseriu estava incorreto. Por favor, tente novamente ou veja",
+    "missingEmail": "Para continuar, você deve conceder permissão a Elementor para acessar seu endereço de e-mail.",
+    "tryAgain": "Por favor, tente novamente em alguns minutos.",
+    "expiredKey": "Desculpe, essa chave expirou. Por favor, tente novamente.",
+    "invalidKey": "Desculpe, essa chave não parece ser válida.",
+    "general": "Algo deu errado, por favor tente novamente.",
+    "serviceUnavailable": "Estamos em manutenção. Por favor, tente novamente em alguns momentos. Pedimos desculpas por qualquer inconveniente."
+  }
+}

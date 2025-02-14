@@ -1,0 +1,30 @@
+{
+	"greeting": "Hola, {user}!",
+	"downloads": "Descargas",
+	"myProfile": "Mi perfil",
+	"logOut": "Cerrar sesión",
+	"websites": "Sitios web",
+	"billing": "Facturación",
+	"services": "Servicios",
+	"teams": "Equipos",
+	"business": "Marca y negocio",
+	"support-center": "Centro de soporte",
+	"add-ons": "Complementos",
+	"affiliate": "Afiliados",
+	"new-nav": "Nuevo",
+	"beta-nav": "Beta",
+	"platinum-support": "Soporte platinum",
+	"support": "Soporte",
+	"userMenu": {
+		"settings": "Ajustes de cuenta",
+		"profile": "Mi perfil",
+		"billingDetails": "Detalles de facturación",
+		"subscriptions": "Suscripciones",
+		"languages": {
+			"en": "Inglés",
+			"es": "Español",
+			"fr": "Francés"
+		},
+		"logout": "Cerrar sesión"
+	}
+}

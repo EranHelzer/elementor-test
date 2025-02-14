@@ -1,0 +1,50 @@
+{
+    "billingInfoForm": {
+        "labels": {
+            "firstName": "Nome",
+            "lastName": "Cognome",
+            "email": "Email per ricevere le fatture",
+            "companyName": "Nome dell'azienda",
+            "vatNumber": "Partita IVA / Codice fiscale",
+            "countryCode": "Paese / Regione",
+            "address1": "Indirizzo 1",
+            "address2": "Indirizzo 2",
+            "state": "Stato",
+            "city": "Città",
+            "zipCode": "Codice postale / CAP"
+        },
+        "errors": {
+            "defaultErrorMessage": "Si prega di inserire un {fieldName} valido.",
+            "firstName": {
+                "required": "Si prega di inserire il nome.",
+                "invalid": "Si prega di utilizzare solo lettere, trattini e apostrofi"
+            },
+            "lastName": {
+                "required": "Si prega di inserire il cognome.",
+                "invalid": "Si prega di utilizzare solo lettere, trattini e apostrofi"
+            },
+            "address1": {
+                "required": "Si prega di inserire l'indirizzo principale.",
+                "invalid": "L'indirizzo può includere caratteri alfanumerici e punteggiatura."
+            },
+            "address2": {
+                "invalid": "L'indirizzo può includere caratteri alfanumerici e punteggiatura."
+            },
+            "countryCode": {
+                "required": "Si prega di selezionare un paese dall'elenco."
+            },
+            "state": {
+                "required": "Si prega di selezionare uno stato dall'elenco."
+            },
+            "city": {
+                "required": "Si prega di inserire il nome della città.",
+                "invalid": "Il nome della città deve contenere solo lettere e apostrofi."
+            },
+            "zipCode": {
+                "required": "Si prega di inserire un codice postale / CAP valido.",
+                "invalid": "Si prega di inserire un codice postale / CAP valido."
+            }
+        },
+        "noMatch": "Nessuna corrispondenza trovata"
+    }
+}

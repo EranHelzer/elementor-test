@@ -1,0 +1,13 @@
+{
+	"greeting": "Hallo {name}",
+	"footer": {
+		"copyRights": "© {year} Alle rechten voorbehouden.",
+		"terms": "Gebruiksvoorwaarden",
+		"privacy": "Privacybeleid"
+	},
+	"errorPage": {
+		"message": "Verdraaid! Je bent tegen een serverfout aangelopen.",
+		"hint": "Probeer opnieuw verbinding te maken",
+		"code": "Foutcode: {code}"
+	}
+}

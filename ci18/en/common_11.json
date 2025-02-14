@@ -1,0 +1,55 @@
+{
+	"page": {
+		"back": "Back to users",
+		"reload": "Reload data",
+		"info": {
+			"id": "ID {id}",
+			"emailVerified": "Email verified {value}",
+			"supportLevel": "Support level {value}",
+			"newStore": "New store {value}",
+			"registeredOn": "Registered {date}"
+		},
+		"assets": {
+			"websites": "Websites",
+			"subscriptions": "Subscriptions"
+		},
+		"subscriptions": {
+			"title": "Subscriptions({value})",
+			"empty": "No subscriptions found"
+		},
+		"actions": {
+			"title": "Actions",
+			"zuora": "Manage in Zuora",
+			"kustomer": "Find on Kustomer",
+			"switch": "Switch to user",
+			"wp": "Open in WooCommerce"
+		},
+		"userDeletion": {
+			"title": "Danger Zone",
+			"button": "Delete customer info...",
+			"description": "This action anonymizes customer info, cancels subscriptions, disassociates support data, and securely deletes all media.",
+			"userDeletionInfoModal": {
+				"title": "Permanently delete customer data?",
+				"alertTitle": "This Action is Permanent",
+				"alertDescription": "Proceeding with this deletion will permanently remove and anonymize all customer-related data as described below. This cannot be undone.",
+				"button": "Delete",
+				"infoTitle": "Deleting Customer Information Will:",
+				"infoText1": "All personal information such as name and email will be replaced with anonymized data.",
+				"infoText2": "Any active subscriptions and associated payment methods will be permanently canceled.",
+				"infoText3": "Support tickets, logs, and other metadata will no longer be linked to the customer.",
+				"infoText4": "All stored media, files, and backup data related to this customer will be purged or anonymized.",
+				"checkboxLabel": "I understand that this action is irreversible and will permanently delete all customer data as described."
+			},
+			"userDeletionStepsModal": {
+				"title": "Customer Info Deletion In Progress...",
+				"button": "Done",
+				"step1": "Anonymizing Customer Data",
+				"step2": "Canceling Subscriptions",
+				"successTitle": "Customer Deletion Successful",
+				"successDescription": "All processes have been completed.",
+				"errorTitle": "Some deletion actions failed to complete",
+				"errorDescription": "Please resume the process manually."
+			}
+		}
+	}
+}

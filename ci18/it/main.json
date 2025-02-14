@@ -1,0 +1,77 @@
+{
+  "signIn": {
+    "title": "Accedi a Elementor",
+    "titleKit": "Accedi a Elementor per creare un{br} nuovo sito web con questo Kit.",
+    "templateTitle": "{template, select, trial {Richiedi la tua prova gratuita di 7 giorni} other {}}",
+    "templateSubtitle": "{template, select, trial {Nessuna carta di credito richiesta. Registriamoti subito!} other {}}",
+    "question": "Nuovo su Elementor? ",
+    "question2": "Non hai un account? ",
+    "forgotPassword": "Hai dimenticato la password?",
+    "successMessage": "Hai effettuato l'accesso. Benvenuto!"
+  },
+  "signUp": {
+    "title": "Creiamo il tuo account {br} Elementor.",
+    "titleKit": "{isMobile, select, true {Ottima scelta! Crea un account per ottenere questo Kit.} other {Ci piace il tuo stile!{br} Crea un account Elementor per ottenere questo Kit.}}",
+    "subtitle": "Per la tua sicurezza, ti consigliamo di utilizzare un'email{br} a cui avrai facile accesso in futuro.",
+    "question": "Hai già un account? ",
+    "successMessage": "Ti sei registrato con successo."
+  },
+  "socialAuthAlert": {
+    "title": "Usa il tuo account social per saltare l'autenticazione",
+    "text": "Altrimenti, avrai bisogno di un codice di verifica ogni volta che accedi con la tua email.",
+    "fbBrowser": "Per la migliore esperienza, apri questa pagina nel tuo browser predefinito",
+    "fbBrowserTitle": "Completa l'accesso",
+    "copyLink": "Copia link"
+  },
+  "emailForm": {
+    "emailLabel": "Inserisci la tua email",
+    "passwordLabel": "Password",
+    "passwordValidationRule": "Deve contenere almeno 8 caratteri con un mix di maiuscole/minuscole, numeri e caratteri speciali.",
+    "createAccSubmitText": "Crea il mio account",
+    "emailHelperText": "Dovremo verificare il tuo account, quindi mantieni accessibile questa casella di posta.",
+    "invalidEmailFormat": "Inserisci un indirizzo email valido. Esempio: username@domain.com",
+    "invalidEmail": "Dopo averlo controllato, non possiamo inviare email a quell'indirizzo. Prova con uno diverso.",
+    "badEmail": "Puoi usare questo indirizzo, ma potremmo non essere in grado di verificarlo in seguito. Prova con uno diverso.",
+    "emailSuggestion": "Intendevi {suggestion}?",
+    "fieldRequired": "Il campo è obbligatorio."
+  },
+  "verifiedEmail": {
+    "success": {
+      "title": "Grazie per aver verificato la tua email",
+      "description": "Sei pronto per iniziare a creare siti fantastici con noi.",
+      "buttonText": "Vai a My Elementor"
+    },
+    "fail": {
+      "title": "Quel link non ha funzionato.",
+      "description": "Accedi nuovamente al tuo account per reinviare l'email di verifica o",
+      "buttonText": "contatta l'assistenza"
+    }
+  },
+  "forgotPassword": {
+    "title": "Reimposta la tua password",
+    "description": "Inserisci la tua email e ti invieremo un link per reimpostare la tua password.",
+    "emailField": "Email",
+    "resetButton": "Reimposta password",
+    "successAlert": "Ti abbiamo inviato un link per reimpostare la tua password.",
+    "failureAlert": "Nome utente o email non validi."
+  },
+  "resetPassword": {
+    "title": "Reimposta password",
+    "description": "Inserisci la tua nuova password e sei a posto.",
+    "passwordField": "Inserisci la nuova password",
+    "savePasswordButton": "Salva password",
+    "resetSuccess": "La tua password è stata reimpostata."
+  },
+  "totp": {
+    "title": "Verifichiamo il tuo account.",
+    "description": "Abbiamo inviato un codice di verifica all'indirizzo email associato a questo account Elementor.",
+    "verificationCode": "Inserisci il codice a 6 cifre:",
+    "verifyAccount": "Verifica il mio account",
+    "resendCode": "Reinvia il codice",
+    "sendToEmail": "Invia a un'email diversa",
+    "whereCode": "Dov'è il mio codice?",
+    "checkSpam": "Controlla la cartella spam.",
+    "emailDelay": "L'email potrebbe impiegare qualche minuto per apparire.",
+    "codeSent": "Codice di verifica inviato"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "downloadInvoice404": {
+        "title": "Su factura está siendo procesada",
+        "message": "Se la enviaremos por correo electrónico una vez que esté lista."
+    }
+}

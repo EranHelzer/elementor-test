@@ -1,0 +1,35 @@
+{
+  "back": "Atrás",
+  "backToLogIn": "Volver al inicio de sesión",
+  "continue": "Continuar",
+  "signInWith": "Iniciar sesión con {provider}",
+  "signUpWith": "Continuar con {provider}",
+  "signInWithEmail": "Iniciar sesión con tu correo electrónico",
+  "signUpWithEmail": "Continuar con tu correo electrónico",
+  "signIn": "Iniciar sesión",
+  "createAccount": "Crear una cuenta",
+  "email": "correo electrónico",
+  "or": "O",
+  "whatsWrong": "¿Qué ha salido mal?",
+  "footer": {
+    "copyRights": "© {year} Todos los derechos reservados.",
+    "creatingAccountTerms": "Al crear una cuenta, acepta recibir Elementor correos electrónicos,{br} incluidos los de marketing, y a nuestro",
+    "terms": "Términos de servicio",
+    "privacy": "Política de privacidad"
+  },
+  "errors": {
+    "emailFormat": "La contraseña debe tener al menos 8 caracteres de longitud e incluir al menos una letra mayúscula, un número y un carácter especial.",
+    "accountExists": "Parece que ya tienes una cuenta.",
+    "sessionExpired": "Tu sesión ha expirado. Por favor, inicia sesión para continuar",
+    "userExists": "Parece que ya tienes una cuenta. Inicia sesión.",
+    "invalidCredentials": "Nombre de usuario o contraseña incorrectos",
+    "userNotFound": "Lo sentimos, no podemos encontrar una cuenta con este correo electrónico. Por favor, crea una nueva cuenta.",
+    "invalidCode": "El código que ingresaste es incorrecto, por favor intenta de nuevo o consulta",
+    "missingEmail": "Para continuar, debes conceder a Elementor permiso para acceder a tu dirección de correo electrónico.",
+    "tryAgain": "Por favor, inténtalo de nuevo en unos minutos.",
+    "expiredKey": "Lo sentimos, esa clave ha expirado. Por favor, inténtalo de nuevo.",
+    "invalidKey": "Lo sentimos, esa clave no parece ser válida.",
+    "general": "Algo salió mal, por favor inténtalo de nuevo.",
+    "serviceUnavailable": "Estamos en mantenimiento. Por favor, inténtalo de nuevo en unos momentos. Nos disculpamos por cualquier inconveniente."
+  }
+}

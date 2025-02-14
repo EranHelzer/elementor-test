@@ -1,0 +1,32 @@
+{
+	"header": {
+		"title": {
+			"app_mailer": "Klaar om {app} te gebruiken?",
+			"app_empma": "Klaar voor {app}?",
+			"default": "Klaar om {app} te gebruiken door Elementor?"
+		},
+		"subtitle": {
+			"app_mailer": "Verbind je WordPress site zodat deze e-mails kan beginnen te verzenden",
+			"app_empma": "Verbind uw WordPress site met {app}.",
+			"default": "{activate, select, true {Verbind je WordPress-site en activeer je licentie om alle functies van {app} te gebruiken.} other {Verbind je WordPress-site om alle functies van {app} te gebruiken.}}"
+		}
+	},
+	"switchUser": "Wissel van gebruiker",
+	"chooseSubscription": "Kies een abonnement...",
+	"subscriptionName": "{name}",
+	"subscriptionExpireDate": "Vervaldatum: {date}",
+	"shareUsageData": "Deel mijn gebruiksgegevens (anoniem) om de ervaring voor mijzelf en anderen te helpen verbeteren.",
+	"submit": {
+		"app_empma": "Verbinden",
+		"default": "Verbinden & Doorgaan"
+	},
+	"customer": {
+		"firstName": "Voornaam",
+		"lastName": "Achternaam",
+		"postcode": "Postcode",
+		"message": {
+			"firstPart": "Voeg je gegevens toe om je gratis proefperiode te activeren.",
+			"secondPart": "Maak je geen zorgen, we slaan geen betalingsgegevens op en er worden geen kosten in rekening gebracht."
+		}
+	}
+}

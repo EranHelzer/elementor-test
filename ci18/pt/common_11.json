@@ -1,0 +1,55 @@
+{
+	"page": {
+		"back": "Voltar para usuários",
+		"reload": "Recarregar dados",
+		"info": {
+			"id": "ID {id}",
+			"emailVerified": "E-mail verificado {value}",
+			"supportLevel": "Nível de suporte {value}",
+			"newStore": "Nova loja {value}",
+			"registeredOn": "Registrado {date}"
+		},
+		"assets": {
+			"websites": "Sites",
+			"subscriptions": "Assinaturas"
+		},
+		"subscriptions": {
+			"title": "Assinaturas({value})",
+			"empty": "Nenhuma assinatura encontrada"
+		},
+		"actions": {
+			"title": "Ações",
+			"zuora": "Gerenciar no Zuora",
+			"kustomer": "Encontrar no Kustomer",
+			"switch": "Mudar para usuário",
+			"wp": "Abrir no WooCommerce"
+		},
+		"userDeletion": {
+			"title": "Zona de Perigo",
+			"button": "Excluir informações do cliente...",
+			"description": "Esta ação anonimiza as informações do cliente, cancela assinaturas, desassocia dados de suporte e exclui com segurança todas as mídias.",
+			"userDeletionInfoModal": {
+				"title": "Excluir permanentemente os dados do cliente?",
+				"alertTitle": "Esta Ação é Permanente",
+				"alertDescription": "Prosseguir com esta exclusão removerá e anonimizará permanentemente todos os dados relacionados ao cliente, conforme descrito abaixo. Isso não pode ser desfeito.",
+				"button": "Excluir",
+				"infoTitle": "A Exclusão das Informações do Cliente Irá:",
+				"infoText1": "Todas as informações pessoais, como nome e e-mail, serão substituídas por dados anonimizados.",
+				"infoText2": "Quaisquer assinaturas ativas e métodos de pagamento associados serão cancelados permanentemente.",
+				"infoText3": "Tickets de suporte, registros e outros metadados não serão mais vinculados ao cliente.",
+				"infoText4": "Todas as mídias armazenadas, arquivos e dados de backup relacionados a este cliente serão eliminados ou anonimizados.",
+				"checkboxLabel": "Eu entendo que esta ação é irreversível e excluirá permanentemente todos os dados do cliente conforme descrito."
+			},
+			"userDeletionStepsModal": {
+				"title": "Exclusão de Informações do Cliente em Andamento...",
+				"button": "Concluído",
+				"step1": "Anonimizando Dados do Cliente",
+				"step2": "Cancelando Assinaturas",
+				"successTitle": "Exclusão do Cliente Bem-sucedida",
+				"successDescription": "Todos os processos foram concluídos.",
+				"errorTitle": "Algumas ações de exclusão não foram concluídas",
+				"errorDescription": "Por favor, retome o processo manualmente."
+			}
+		}
+	}
+}

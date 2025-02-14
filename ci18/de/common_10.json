@@ -1,0 +1,218 @@
+{
+	"page": {
+		"back": "Zurück zu Abonnements",
+		"reload": "Daten neu laden",
+		"info": {
+			"id": "ID {id}",
+			"internalId": "Interne ID {id}",
+			"startDate": "Startdatum {value}",
+			"nextPaymentDate": "Nächste Zahlung {value}",
+			"order": "Bestellnummer {value}"
+		},
+		"actions": {
+			"title": "Aktionen",
+			"zuora": "In Zuora verwalten",
+			"switch": "Produkt/Plan wechseln",
+			"refund": "Abonnement erstatten"
+		}
+	},
+	"userInfo": {
+		"title": "Abonnementinhaber"
+	},
+	"activationKey": {
+		"title": "Aktivierungsschlüssel",
+		"copy": "Kopieren",
+		"regenerate": {
+			"title": "Aktivierungsschlüssel neu generieren",
+			"confirm": "Sind Sie sicher, dass Sie den Aktivierungsschlüssel für dieses Abonnement neu generieren möchten?",
+			"action": "Neu generieren",
+			"yes": "Ja",
+			"no": "Nein"
+		}
+	},
+	"activations": {
+		"title": "Aktivierungen({value})",
+		"noData": "Keine Daten verfügbar",
+		"header": {
+			"domain": "Domain",
+			"activationDate": "Aktivierungsdatum",
+			"deactivationDate": "Deaktivierungsdatum",
+			"local": "Lokal",
+			"actions": "Aktionen"
+		},
+		"deactivate": {
+			"title": "Deaktivieren {value}",
+			"confirm": "Sind Sie sicher, dass Sie diese Aktivierung deaktivieren möchten?",
+			"action": "Deaktivieren",
+			"yes": "Ja",
+			"no": "Nein"
+		},
+		"deactivateAll": {
+			"title": "Alle deaktivieren",
+			"confirm": "Sind Sie sicher, dass Sie alle Aktivierungen deaktivieren möchten?",
+			"action": "Alle deaktivieren",
+			"yes": "Ja",
+			"no": "Nein"
+		}
+	},
+	"sitesActivations": {
+		"title": "Website-Aktivierungen({value})",
+		"noData": "Keine Daten verfügbar",
+		"header": {
+			"url": "Website-URL",
+			"connectedDate": "Verbindungsdatum",
+			"actions": "Aktionen"
+		},
+		"deactivate": {
+			"title": "Deaktivieren {value}",
+			"confirm": "Sind Sie sicher, dass Sie diese Website deaktivieren möchten?",
+			"action": "Deaktivieren",
+			"yes": "Ja",
+			"no": "Nein"
+		}
+	},
+	"downloadHistory": {
+		"title": "Download-Verlauf({value})",
+		"noData": "Keine Daten verfügbar",
+		"header": {
+			"timestamp": "Zeitstempel",
+			"version": "Version",
+			"ip": "IP-Adresse"
+		}
+	},
+	"hostingWebsites": {
+		"title": "Websites({value})",
+		"noData": "Keine Daten verfügbar",
+		"header": {
+			"id": "Website-ID",
+			"slug": "Slug",
+			"url": "Website-URL",
+			"status": "Status",
+			"created": "Erstellt",
+			"updated": "Aktualisiert",
+			"deleted": "Gelöscht",
+			"actions": "Aktionen"
+		},
+		"delete": {
+			"title": "Löschen {value}",
+			"confirm": "Sind Sie sicher, dass Sie diese Website löschen möchten?",
+			"action": "Löschen",
+			"yes": "Ja",
+			"no": "Nein"
+		}
+	},
+	"notes": {
+		"title": "Notizen({value})",
+		"noData": "Keine Daten verfügbar",
+		"infoAuthor": "Hinzugefügt von {author} am {date}",
+		"info": "{date}",
+		"add": "Notiz hinzufügen",
+		"update": "Notiz aktualisieren",
+		"delete": "Notiz löschen",
+		"dialog": {
+			"addTitle": "Notiz hinzufügen",
+			"add": "Hinzufügen",
+			"updateTitle": "Notiz aktualisieren",
+			"update": "Aktualisieren"
+		}
+	},
+	"refundModal": {
+		"title": "Sind Sie sicher, dass Sie dieses Abonnement erstatten möchten?",
+		"buttons": {
+			"confirmRefund": "Erstattung bestätigen"
+		},
+		"refundText": {
+			"CurrentSubscription": "Aktuelles Abonnement:",
+			"SubscriptionAge": "Abonnementalter:",
+			"Since": "Seit:",
+			"ConfirmingThisProcessWill": "Die Bestätigung dieses Vorgangs wird:",
+			"UnapplyThepaymentFromTheInvoice": "Die Zahlung von der Rechnung entfernen",
+			"CreateA": "Erstellen einer",
+			"refundOnZuoraAndACreditMemo": "rückerstattung auf Zuora und einer Gutschrift",
+			"CancelTheSupbscription": "Das Abonnement kündigen",
+			"ReapplyThePaymentToInvoice": "Die Zahlung erneut auf die Rechnung anwenden",
+			"ApplyTheInvoiceToTheCreditMemo": "Die Rechnung auf die Gutschrift anwenden",
+			"Days": "tage"
+		}
+	},
+	"switch": {
+		"title": "Dieses Abonnement auf ein anderes Produkt/Plan umstellen",
+		"info": {
+			"current": "Aktuelles Abonnement:",
+			"id": "Abonnement-ID: {id}",
+			"sku": "SKU: {sku}",
+			"age": "Abonnementalter:",
+			"days": "({count, plural, one {# Tag} other {# Tage}})"
+		},
+		"alerts": {
+			"missingData": "Einige für den Wechsel erforderliche Daten fehlen! Versuchen Sie, die Seite zu aktualisieren.",
+			"subCanceled": "Das Abonnement ist gekündigt und kann nicht gewechselt werden.",
+			"over30": "Ein Abonnement über 30 Tage kann nicht gewechselt werden. Die Geld-zurück-Frist ist abgelaufen.",
+			"version2": "Das Abonnement wurde bereits gewechselt/aktualisiert. Nur Version 1 Abonnements können gewechselt werden. Überprüfen Sie Zuora für weitere Details.",
+			"previewFailed": "Die Berechnung einer Wechselvorschau ist fehlgeschlagen. Bitte versuchen Sie es in Kürze erneut.",
+			"manyActivation": "Der Plan, zu dem Sie wechseln möchten, bietet weniger Aktivierungen/Websites als der aktuelle Plan. ({current}/{available})",
+			"manyTeamMembers": "Der Plan, zu dem Sie wechseln möchten, bietet weniger Teammitglieder als der aktuelle Plan. ({current}/{available})",
+			"indeterminateQuota": "Kontingent für dieses Abonnement konnte nicht ermittelt werden! Überprüfen Sie die aktuellen Aktivierungen und das neue Limit vor dem Wechsel!",
+			"missingPaymentMethod": "Dem Abonnementinhaber fehlen die Informationen zur Standard-Zahlungsmethode. Versuchen Sie es erneut, sobald der Benutzer seine Standardzahlung festgelegt hat.",
+			"generic": "Etwas ist schief gelaufen. Bitte versuchen Sie es in Kürze erneut."
+		},
+		"switchResponse": {
+			"title": "Wechselantwort",
+			"success": {
+				"planMsg": "Abonnementplan erfolgreich von {from} auf {to} umgestellt.",
+				"productMsg": "Abonnementprodukt erfolgreich von {from} auf {to} umgestellt."
+			},
+			"error": {
+				"title": "Wechselfehler",
+				"msg": "Der Umstellungsprozess ist um {step} fehlgeschlagen. Bitte fahren Sie den Prozess manuell fort.",
+				"steps": {
+					"plan": {
+						"generic_error": "Während des Planwechselprozesses ist ein Fehler aufgetreten",
+						"get_subscription_refund_data": "Zahlungsinformationen des Abonnements abrufen",
+						"change_subscription_plan": "Den Abonnementplan ändern",
+						"update_invoice": "Die Rechnungsposten aktualisieren",
+						"get_required_data": "Erforderliche Daten für die Rückerstattung vorbereiten",
+						"unapply_payment": "Die Zahlung von der Rechnung entfernen",
+						"refund_payment": "Die Rückerstattung erstellen",
+						"apply_payment": "Die Zahlung erneut auf die Rechnung anwenden",
+						"apply_credit_memo": "Die Rechnung auf die Gutschrift anwenden"
+					},
+					"product": {
+						"generic_error": "Während des Planwechselprozesses ist ein Fehler aufgetreten",
+						"cancel_subscription": "Das aktuelle Abonnement kündigen und erstatten",
+						"create_subscription": "Ein neues Abonnement erstellen",
+						"update_invoice": "Die Rechnung aktualisieren"
+					}
+				}
+			},
+			"msg": "Aufgrund des Plan-/Produktwechsels wird empfohlen, das Backoffice neu zu laden.",
+			"actions": {
+				"refresh": "Aktualisieren",
+				"close": "Schließen"
+			}
+		},
+		"selectLabel": "Wählen Sie die auszuführende Aktion",
+		"refund": "Vollständige Rückerstattung (eine vollständige Rückerstattung für die letzte Bestellung ausstellen)",
+		"summary": {
+			"title": "Zusammenfassung",
+			"from": "Wechsel von",
+			"to": "Wechsel zu",
+			"refund": "Erstattungsbetrag",
+			"charge": "Belastungsbetrag"
+		},
+		"product": {
+			"switchOption": "Produkt wechseln",
+			"selectLabel": "Produkt",
+			"submit": "Produkt wechseln",
+			"itemText": "{productName} - {name} [{sku}]"
+		},
+		"plan": {
+			"switchOption": "Plan wechseln",
+			"selectLabel": "Plan",
+			"submit": "Plan wechseln",
+			"itemText": "{isDowngrade, select, true { Downgrade } other { Upgrade }} auf {name} [{sku}]",
+			"quota": "({um}: {current}/{max})",
+			"quotaOverInfo": "Dieser Plan kann aufgrund der Überschreitung des Kontingentlimits nicht verwendet werden!"
+		}
+	}
+}

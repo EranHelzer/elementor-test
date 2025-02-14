@@ -1,0 +1,13 @@
+{
+	"greeting": "Hola {name}",
+	"footer": {
+		"copyRights": "© {year} Todos los derechos reservados.",
+		"terms": "Términos de servicio",
+		"privacy": "Política de privacidad"
+	},
+	"errorPage": {
+		"message": "¡Caramba! Te has topado con un error del servidor.",
+		"hint": "Intenta conectarte de nuevo",
+		"code": "Código de error: {code}"
+	}
+}

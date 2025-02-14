@@ -1,0 +1,13 @@
+{
+	"greeting": "Olá {name}",
+	"footer": {
+		"copyRights": "© {year} Todos os Direitos Reservados.",
+		"terms": "Termos de Serviço",
+		"privacy": "Política de Privacidade"
+	},
+	"errorPage": {
+		"message": "Caramba! Você esbarrou em um erro de servidor.",
+		"hint": "Tente conectar novamente",
+		"code": "Código de Erro: {code}"
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"title": "Produkte",
+	"apps": {
+		"hosting": "Hosting",
+		"ai": "KI",
+		"io": "Bildoptimierer",
+		"siteMailer": "Site-Mailer",
+		"plugin": "Elementor Pro",
+		"platinumSupport": "Platin-Support"
+	},
+	"plan": "Plan",
+	"generalFetchError": "Beim Abrufen der Daten ist etwas schiefgelaufen",
+	"generalErrorMessage": "Etwas ist schiefgelaufen",
+	"groupRules": {
+		"title": "Gruppenregeln",
+		"noGroupRulesTitle": "Es wurden keine Gruppenregeln gefunden",
+		"activeSubsOnly": "Nur aktive Abonnements",
+		"maxActivations": "maximale Aktivierungen",
+		"customerRules": "kundenregeln",
+		"backButton": "Zurück",
+		"noRule": "Keine Regel gefunden"
+	},
+	"buttons": {
+		"cancelButton": "Abbrechen",
+		"deleteButton": "Löschen",
+		"editButton": "Bearbeiten",
+		"saveButton": "Speichern",
+		"createButton": "Erstellen"
+	},
+	"entitlementRules": {
+		"title": "Berechtigungsregeln",
+		"createRuleButton": "Regel erstellen",
+		"updateRuleButton": "Aktualisieren",
+		"group": "Gruppe",
+		"toasterMessages": {
+			"ruleDeletedSuccessfully": "Regel erfolgreich gelöscht",
+			"ruleUpdatedSuccessfully": "Regel erfolgreich aktualisiert"
+		},
+		"deleteRuleDialog": {
+			"title": "Regel löschen",
+			"message": "Diese Aktion löscht alle Regeln für dieses {appType, select, app_type {Produkt} group {Gruppe} plan {Plan} other {Produkt}} und kann nicht rückgängig gemacht werden. Bist du sicher, dass du weitermachen willst?"
+		},
+		"noRuleTitle": "Keine Regel gefunden",
+		"noRuleDescription": "Dieses {appType, select, app_type {Produkt} group {Gruppe} plan {Plan} other {Produkt}} hat derzeit keine zugeordnete Berechtigungsregel. Bitte erstelle eine neue.",
+		"productSectionTitle": "Produktregeln",
+		"planSectionTitle": "Planregeln",
+		"form": {
+			"name": "Name",
+			"max": "Max",
+			"activeOnly": "Nur aktive",
+			"customerRules": "Kundenregeln",
+			"bypassElementorEmployees": "Elementor-Mitarbeiter umgehen",
+			"customerFields": {
+				"elementorId": "Elementor-ID",
+				"email": "E-Mail",
+				"firstName": "Vorname",
+				"lastName": "Nachname",
+				"countryCode": "Ländercode",
+				"city": "Stadt",
+				"state": "Bundesland",
+				"zipCode": "Postleitzahl",
+				"address1": "Adresse 1",
+				"address2": "Adresse 2",
+				"companyName": "Firmenname",
+				"vatNumber": "Umsatzsteuer-ID"
+			},
+			"errors": {
+				"customerFieldRequired": "Kundenfeld ist erforderlich",
+				"regexRuleRequired": "Regex-Regel ist erforderlich",
+				"nameFieldRequired": "Name ist erforderlich"
+			}
+		},
+		"tooltips": {
+			"addCustomerRule": "Kundenregel hinzufügen",
+			"deleteCustomerRule": "Kundenregel löschen"
+		}
+	},
+	"features": {
+		"title": "Funktionen",
+		"toasterMessages": {
+			"featureDeletedSuccessfully": "Funktion erfolgreich gelöscht",
+			"featureUpdatedSuccessfully": "Funktion erfolgreich aktualisiert"
+		},
+		"deleteFeatureDialog": {
+			"title": "Funktion löschen",
+			"message": "Diese Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie fortfahren möchten?"
+		},
+		"valueTypes": {
+			"string": "Text",
+			"number": "Numerisch",
+			"boolean": "Schalter"
+		},
+		"createFeatureButton": "Funktion erstellen",
+		"noFeaturesTitle": "Keine Funktionen gefunden",
+		"noFeaturesDescription": "Diesem Plan sind derzeit keine Funktionen zugeordnet. Bitte erstellen Sie zuerst eine neue.",
+		"form": {
+			"valueType": "Werttyp",
+			"featureKey": "Funktionsschlüssel",
+			"featureValue": "Funktionswert",
+			"errors": {
+				"featureKeyRequired": "Funktionsschlüssel ist erforderlich",
+				"featureKeyExists": "Schlüssel existiert bereits",
+				"featureValueRequired": "Funktionswert ist erforderlich"
+			}
+		}
+	}
+}

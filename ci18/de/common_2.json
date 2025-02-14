@@ -1,0 +1,35 @@
+{
+  "back": "Zurück",
+  "backToLogIn": "Zurück zur Anmeldung",
+  "continue": "Weiter",
+  "signInWith": "Anmelden mit {provider}",
+  "signUpWith": "Fortfahren mit {provider}",
+  "signInWithEmail": "Mit Ihrer E-Mail-Adresse anmelden",
+  "signUpWithEmail": "Mit Ihrer E-Mail-Adresse fortfahren",
+  "signIn": "Anmelden",
+  "createAccount": "Konto erstellen",
+  "email": "e-Mail",
+  "or": "ODER",
+  "whatsWrong": "Was stimmt nicht?",
+  "footer": {
+    "copyRights": "© {year} Alle Rechte vorbehalten.",
+    "creatingAccountTerms": "Durch die Erstellung eines Kontos stimmen Sie zu, Elementor E-Mails,{br} einschließlich Marketing-E-Mails, zu erhalten und unseren",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzrichtlinie"
+  },
+  "errors": {
+    "emailFormat": "Das Passwort sollte mindestens 8 Zeichen lang sein und mindestens einen Großbuchstaben, eine Zahl und ein Sonderzeichen enthalten.",
+    "accountExists": "Es scheint, Sie haben bereits ein Konto.",
+    "sessionExpired": "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an, um fortzufahren",
+    "userExists": "Es scheint, Sie haben bereits ein Konto. Melden Sie sich an.",
+    "invalidCredentials": "Falscher Benutzername oder falsches Passwort",
+    "userNotFound": "Entschuldigung, wir können kein Konto mit dieser E-Mail-Adresse finden. Bitte erstellen Sie ein neues Konto.",
+    "invalidCode": "Der von Ihnen eingegebene Code war falsch. Bitte versuchen Sie es erneut oder siehe",
+    "missingEmail": "Um fortzufahren, müssen Sie Elementor die Erlaubnis erteilen, auf Ihre E-Mail-Adresse zuzugreifen.",
+    "tryAgain": "Bitte versuchen Sie es in ein paar Minuten erneut.",
+    "expiredKey": "Entschuldigung, dieser Schlüssel ist abgelaufen. Bitte versuchen Sie es erneut.",
+    "invalidKey": "Entschuldigung, dieser Schlüssel scheint nicht gültig zu sein.",
+    "general": "Etwas ist schiefgelaufen, bitte versuchen Sie es erneut.",
+    "serviceUnavailable": "Wir führen gerade Wartungsarbeiten durch. Bitte versuchen Sie es in wenigen Augenblicken erneut. Wir entschuldigen uns für etwaige Unannehmlichkeiten."
+  }
+}

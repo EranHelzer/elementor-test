@@ -1,0 +1,20 @@
+{
+	"alertError": {
+		"defaultTitle": "Er is iets misgegaan!",
+		"defaultMessage": "Vernieuw deze pagina alstublieft.",
+		"refreshBtn": "Vernieuwen",
+		"okBtn": "Ok"
+	},
+	"errorBoundary": {
+		"default": {
+			"title": "Er is iets misgegaan!",
+			"message": "Vernieuw deze pagina alstublieft.",
+			"btn": "Vernieuwen"
+		},
+		"newVersion": {
+			"title": "Nieuwe versie beschikbaar!",
+			"message": "Vernieuw deze pagina alstublieft.",
+			"btn": "Vernieuwen"
+		}
+	}
+}

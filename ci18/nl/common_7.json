@@ -1,0 +1,107 @@
+{
+	"title": "Producten",
+	"apps": {
+		"hosting": "Hosting",
+		"ai": "AI",
+		"io": "Afbeeldingsoptimalisator",
+		"siteMailer": "Site-mailer",
+		"plugin": "Elementor Pro",
+		"platinumSupport": "Platinum ondersteuning"
+	},
+	"plan": "Plan",
+	"generalFetchError": "Er is iets misgegaan bij het ophalen van de gegevens",
+	"generalErrorMessage": "Er is iets misgegaan",
+	"groupRules": {
+		"title": "Groepsregels",
+		"noGroupRulesTitle": "Er zijn geen groepsregels gevonden",
+		"activeSubsOnly": "Alleen actieve abonnementen",
+		"maxActivations": "maximale activeringen",
+		"customerRules": "klantregels",
+		"backButton": "Ga terug",
+		"noRule": "Er is geen regel gevonden"
+	},
+	"buttons": {
+		"cancelButton": "Annuleren",
+		"deleteButton": "Verwijderen",
+		"editButton": "Bewerken",
+		"saveButton": "Opslaan",
+		"createButton": "Aanmaken"
+	},
+	"entitlementRules": {
+		"title": "Machtigingsregels",
+		"createRuleButton": "Regel aanmaken",
+		"updateRuleButton": "Bijwerken",
+		"group": "Groep",
+		"toasterMessages": {
+			"ruleDeletedSuccessfully": "Regel succesvol verwijderd",
+			"ruleUpdatedSuccessfully": "Regel succesvol bijgewerkt"
+		},
+		"deleteRuleDialog": {
+			"title": "Regel verwijderen",
+			"message": "Deze actie zal alle regels verwijderen die gerelateerd zijn aan dit {appType, select, app_type {product} group {groep} plan {plan} other {product}} en kan niet ongedaan worden gemaakt. Weet je zeker dat je door wilt gaan?"
+		},
+		"noRuleTitle": "Er is geen regel gevonden",
+		"noRuleDescription": "Dit {appType, select, app_type {product} group {groep} plan {plan} other {product}} heeft momenteel geen rechtenregel. Maak er alsjeblieft een nieuwe aan.",
+		"productSectionTitle": "Productregels",
+		"planSectionTitle": "Planregels",
+		"form": {
+			"name": "Naam",
+			"max": "Max",
+			"activeOnly": "Alleen actief",
+			"customerRules": "Klantregels",
+			"bypassElementorEmployees": "Elementor medewerkers overslaan",
+			"customerFields": {
+				"elementorId": "Elementor ID",
+				"email": "E-mail",
+				"firstName": "Voornaam",
+				"lastName": "Achternaam",
+				"countryCode": "Landcode",
+				"city": "Stad",
+				"state": "Staat",
+				"zipCode": "Postcode",
+				"address1": "Adres 1",
+				"address2": "Adres 2",
+				"companyName": "Bedrijfsnaam",
+				"vatNumber": "BTW-nummer"
+			},
+			"errors": {
+				"customerFieldRequired": "Klantveld is verplicht",
+				"regexRuleRequired": "Regex regel is verplicht",
+				"nameFieldRequired": "Naam is verplicht"
+			}
+		},
+		"tooltips": {
+			"addCustomerRule": "Klantregel toevoegen",
+			"deleteCustomerRule": "Klantregel verwijderen"
+		}
+	},
+	"features": {
+		"title": "Functies",
+		"toasterMessages": {
+			"featureDeletedSuccessfully": "Functie succesvol verwijderd",
+			"featureUpdatedSuccessfully": "Functie succesvol bijgewerkt"
+		},
+		"deleteFeatureDialog": {
+			"title": "Functie verwijderen",
+			"message": "Deze actie kan niet ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+		},
+		"valueTypes": {
+			"string": "Tekst",
+			"number": "Numeriek",
+			"boolean": "Schakelaar"
+		},
+		"createFeatureButton": "Functie aanmaken",
+		"noFeaturesTitle": "Er zijn geen functies gevonden",
+		"noFeaturesDescription": "Dit plan heeft momenteel geen functies. Maak eerst een nieuwe aan.",
+		"form": {
+			"valueType": "Waardetype",
+			"featureKey": "Functie-sleutel",
+			"featureValue": "Functiewaarde",
+			"errors": {
+				"featureKeyRequired": "Functie-sleutel is verplicht",
+				"featureKeyExists": "Sleutel bestaat al",
+				"featureValueRequired": "Functiewaarde is verplicht"
+			}
+		}
+	}
+}

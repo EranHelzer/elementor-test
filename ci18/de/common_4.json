@@ -1,0 +1,7 @@
+{
+    "payment": {
+        "paymentText": "{type, select, cc {{provider, select, visa {Visa} mastercard {Mastercard} american_express {American Express} americanexpress {American Express} diners_club {Diners Club} diners {Diners Club} discover {Discover} jcb {JCB} unionpay {UnionPay} other {Karte}} •••• {last4}} other {{email}}}",
+        "paymentDefaultToast": "{paymentText} ist jetzt Ihre Standard-Zahlungsmethode.",
+        "paymentDeleteToast": "{paymentText} wurde aus Ihren Zahlungsmethoden entfernt."
+    }
+}

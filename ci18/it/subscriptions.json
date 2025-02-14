@@ -1,0 +1,29 @@
+{
+    "filter": {
+        "all": "Tutti ({count})",
+        "plugin": "Plugin Pro ({count})",
+        "hosting": "Hosting ({count})",
+        "appBkp": "Backup del sito ({count})",
+        "appAI": "IA ({count})",
+        "appIO": "Ottimizzatore di immagini ({count})",
+        "appMailer": "Mailer del sito ({count})"
+    },
+    "sort": {
+        "name": "Nome",
+        "status": "Stato",
+        "dateCreated": "Data di creazione",
+        "upcomingPayment": "Pagamento imminente",
+        "asc": "Crescente",
+        "desc": "Decrescente"
+    },
+    "billing": {
+        "title": "Fatturazione",
+        "billingUsdTooltip": "Se non diversamente specificato,\n tutti i prezzi in $ sono in USD",
+        "buyNewSubscription": "Acquista un nuovo abbonamento",
+        "tabs": {
+            "subscriptions": "Abbonamenti",
+            "billing-details": "Dettagli di fatturazione",
+            "services": "Servizi"
+        }
+    }
+}

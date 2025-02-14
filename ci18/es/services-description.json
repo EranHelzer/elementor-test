@@ -1,0 +1,182 @@
+{
+    "ELEMENTOR-SERVICES-SETUP-01": {
+        "name": "Configuración inicial del sitio",
+        "summary": "Nuestros expertos le guían a través de Elementor, WordPress, plantillas y más.",
+        "description": "¿Necesita ayuda para configurar su sitio web? Deje que nuestros expertos le guíen en el uso de Elementor y WordPress, la personalización de plantillas, la creación de páginas, la utilización de widgets y mucho más.",
+        "extra": [
+            "Incorporación personalizada para Elementor y WordPress",
+            "Configuración de plantillas personalizadas",
+            "Sesión de formación interactiva por vídeo",
+            "Kit de plantillas con marca",
+            "Formación básica sobre las funcionalidades de Elementor",
+            "Revisiones - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-MIGRATION-01": {
+        "name": "Migración del sitio",
+        "summary": "Transfiera sin problemas su sitio a Elementor Hosting con asistencia experta.",
+        "description": "Traslade su sitio desde cualquier proveedor de alojamiento a Elementor Hosting con soporte confiable y tiempo de inactividad mínimo. Nuestro servicio estándar cubre cada paso para garantizar un proceso de transferencia sin problemas.",
+        "extra": [
+            "Planificación previa a la migración y comprobaciones de compatibilidad",
+            "Transferencia completa de datos del sitio web",
+            "Comunicación continua",
+            "Pruebas exhaustivas después de la migración",
+            "Revisiones - 1",
+            "Finalización en 3 días hábiles (para una migración más rápida, consulte Migración prioritaria del sitio)",
+            "Nota: Este servicio solo está disponible para sitios web de Elementor Hosting."
+        ]
+    },
+    "ELEMENTOR-SERVICES-MALWARE-01": {
+        "name": "Limpieza de malware",
+        "summary": "Nuestros expertos en Elementor y WordPress le ayudarán a limpiar cualquier amenaza de malware en su sitio.",
+        "description": "¿Le preocupa que su sitio haya sido infectado por malware? Nuestros expertos le ayudarán a limpiar cualquier posible amenaza. Identificamos rápidamente los riesgos, implementamos bloqueos de sitio y realizamos una limpieza exhaustiva.",
+        "extra": [
+            "Identificación y aislamiento de amenazas de malware",
+            "Limpieza completa de archivos y bases de datos infectados",
+            "Implementación de medidas de protección, incluidos bloqueos de sitio",
+            "Informe detallado sobre la eliminación de malware",
+            "Revisiones - 1",
+            "Nota: Este servicio SOLO está disponible para sitios web de Elementor Hosting"
+        ]
+    },
+    "ELEMENTOR-SERVICES-EXIT-01": {
+        "name": "Ventana emergente de intención de salida",
+        "summary": "Cree ventanas emergentes efectivas de intención de salida para retener a los usuarios en su sitio.",
+        "description": "Las ventanas emergentes de intención de salida aparecen cuando un usuario está a punto de abandonar su sitio. Nuestros expertos le ayudarán a crear ventanas emergentes efectivas con los activadores adecuados.",
+        "extra": [
+            "Diseño y desarrollo de una ventana emergente visualmente atractiva y alineada con la marca",
+            "Gráficos, tipografía y diseño personalizados",
+            "Configuración técnica e integración en el sitio web",
+            "Recomendaciones personalizadas para mejorar la efectividad de la ventana emergente",
+            "Integración de activadores de comportamiento del usuario",
+            "Revisiones - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-LEADS-01": {
+        "name": "Impulsar conversiones",
+        "summary": "¿Está listo para obtener más conversiones? Nuestro servicio Boost Conversions le ayuda a configurar un sitio de alta conversión que atrae leads e impulsa las ventas.",
+        "description": "¿Listo para obtener más conversiones? Nuestro equipo mejorará su sitio web con servicios personalizados: ventanas emergentes atractivas, integraciones de formularios sin problemas o configuración de Google Analytics. Esto asegura que pueda capturar leads de manera efectiva y tomar decisiones basadas en datos para aumentar sus tasas de conversión. Elija uno de estos servicios:",
+        "extra": [
+            "Ventana emergente de intención de salida",
+            "Ventana emergente de recopilación de leads",
+            "Integración de formularios",
+            "Conectar Google Analytics"
+        ]
+    },
+    "ELEMENTOR-SERVICES-FORMS-01": {
+        "name": "Integración de formularios",
+        "summary": "Integre fácilmente su plataforma de marketing o CRM favorita con WordPress y Elementor.",
+        "description": "Obtenga ayuda para integrar su plataforma de marketing favorita a WordPress y Elementor. La lista de plataformas de marketing incluye Mailchimp, MailerLite, ActiveCampaign, GetResponse, Google Sheets, Drip y Convertkit.",
+        "extra": [
+            "Integración con las principales plataformas de email marketing",
+            "Configuración de respuestas automáticas por correo electrónico",
+            "Segmentación de suscriptores para campañas dirigidas",
+            "Pruebas detalladas y control de calidad",
+            "Personalización de formularios",
+            "Revisiones - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-GOOGLE-01": {
+        "name": "Configuración de Google Analytics",
+        "summary": "Obtenga asistencia práctica en tiempo real para integrar Google Analytics en su sitio de Elementor.",
+        "description": "Obtenga las perspectivas que necesita para tomar decisiones basadas en datos con nuestro servicio Google Analytics Setup. Nos aseguraremos de que esté configurado correctamente para que pueda realizar un seguimiento de lo que más importa.",
+        "extra": [
+            "Orientación experta",
+            "Configuración personalizada",
+            "Integración completa",
+            "Mejora de las perspectivas de datos"
+        ]
+    },
+    "ELEMENTOR-SERVICES-RESPONSIVE-01": {
+        "name": "Configuración de diseño responsivo",
+        "summary": "Asegúrate de que tu sitio Elementor se vea genial en móviles y tabletas.",
+        "description": "Asegúrate de que tu sitio Elementor se vea genial en cualquier dispositivo con nuestro servicio de Configuración de Diseño Responsivo. Optimizamos hasta 5 páginas para garantizar una experiencia fluida y responsiva en móviles y tabletas.",
+        "extra": [
+            "Mejor legibilidad",
+            "Navegación optimizada",
+            "Experiencia de usuario perfecta",
+            "Una revisión"
+        ]
+    },
+    "ELEMENTOR-SERVICES-CREATION-01": {
+        "name": "Creación de Página de Aterrizaje",
+        "summary": "Aumenta las conversiones con una página de aterrizaje diseñada profesionalmente.",
+        "description": "Aumenta las conversiones con una página de aterrizaje diseñada profesionalmente. Personalizaremos una de nuestras impresionantes plantillas para que coincida con tu marca y cautive a tu audiencia desde el primer clic.",
+        "extra": [
+            "Calidad profesional",
+            "Selección de plantilla",
+            "Marca personalizada",
+            "Responsivo para móviles",
+            "Una revisión"
+        ]
+    },
+    "ELEMENTOR-SERVICES-LINK-01": {
+        "name": "Configuración de Link in Bio",
+        "summary": "Simplifica tu presencia en línea con una página personalizada de “Link in Bio”.",
+        "description": "Conéctate con tu audiencia en todas las plataformas con una página de Link in Bio diseñada a medida. Es tu centro único, optimizado para cada dispositivo.",
+        "extra": [
+            "Integración de enlaces",
+            "Selección de plantilla",
+            "Consistencia de marca",
+            "Engagement mejorado",
+            "Una revisión"
+        ]
+    },
+    "ELEMENTOR-SERVICES-TRAINING-01": {
+        "name": "Capacitación Personalizada en Elementor",
+        "summary": "Mejora tus habilidades en Elementor con una sesión de capacitación personalizada de 60 minutos.",
+        "description": "Lleva tus habilidades en Elementor al siguiente nivel con nuestras sesiones de capacitación personalizadas y prácticas. Estas videollamadas de una hora están personalizadas solo para ti, ayudándote a dominar las características clave de Elementor.",
+        "extra": [
+            "Sesión de capacitación de 60 minutos",
+            "Orientación experta",
+            "Programación flexible",
+            "Recursos post-sesión"
+        ]
+    },
+    "ELEMENTOR-SERVICES-UPDATE-01": {
+        "name": "Actualización del Sitio",
+        "summary": "Asegúrate de que tu sitio funcione sin problemas con las últimas actualizaciones de WordPress, tema y plugins.",
+        "description": "Mantén tu sitio Elementor funcionando sin problemas con nuestro servicio de actualización todo incluido. Nos encargamos de todo, desde copias de seguridad hasta actualizaciones en vivo, para que no tengas que preocuparte.",
+        "extra": [
+            "Plugins y temas actualizados",
+            "Copia de seguridad completa del sitio",
+            "Pruebas exhaustivas",
+            "Una revisión"
+        ]
+    },
+    "ELEMENTOR-SERVICES-REMOVAL-01": {
+        "name": "Eliminación de Spam en Comentarios",
+        "summary": "Elimina el spam no deseado y disfruta de una sección de comentarios limpia.",
+        "description": "Dile adiós al spam y mantén tu sitio web con aspecto profesional con nuestro servicio de Eliminación de Spam. Limpiamos tu sección de comentarios para mejorar el rendimiento y la experiencia del usuario.",
+        "extra": [
+            "Limpieza exhaustiva",
+            "Rendimiento mejorado",
+            "Mejor experiencia de usuario",
+            "Una revisión"
+        ]
+    },
+    "ELEMENTOR-SERVICES-CONSULTATION-01": {
+        "name": "Consulta de Problemas Específicos",
+        "summary": "Obtén soporte personalizado a través de una consulta individual con uno de nuestros expertos.",
+        "description": "Obtén las respuestas que necesitas con una videollamada individual de 45 minutos. Nuestros expertos están aquí para ayudarte a elevar tu sitio Elementor y alcanzar tus objetivos.",
+        "extra": [
+            "Soporte dedicado",
+            "Consejos de personalización",
+            "Insights de expertos",
+            "Recomendaciones personalizadas"
+        ]
+    },
+    "ELEMENTOR-SERVICES-PRIORITY-01": {
+        "name": "Migración Prioritaria del Sitio",
+        "summary": "Acelera la migración de tu sitio con servicio prioritario. Migración completada en 1 día hábil.",
+        "description": "Nuestro servicio de Migración Prioritaria del Sitio ofrece una transferencia acelerada de tu sitio desde cualquier proveedor de alojamiento a Elementor Hosting con soporte de nivel experto y tiempo de inactividad mínimo. Disfruta de un proceso optimizado con:",
+        "extra": [
+            "Planificación previa a la migración y verificaciones de compatibilidad",
+            "Transferencia completa de datos del sitio web",
+            "Comunicación continua",
+            "Pruebas exhaustivas post-migración",
+            "Revisiones - 1",
+            "Nota: Este servicio SOLO está disponible para sitios web de Elementor Hosting"
+        ]
+    }
+}

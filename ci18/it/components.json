@@ -1,0 +1,20 @@
+{
+	"alertError": {
+		"defaultTitle": "Qualcosa è andato storto!",
+		"defaultMessage": "Si prega di aggiornare questa pagina.",
+		"refreshBtn": "Aggiorna",
+		"okBtn": "Ok"
+	},
+	"errorBoundary": {
+		"default": {
+			"title": "Qualcosa è andato storto!",
+			"message": "Si prega di aggiornare questa pagina.",
+			"btn": "Aggiorna"
+		},
+		"newVersion": {
+			"title": "Nuova versione disponibile!",
+			"message": "Si prega di aggiornare questa pagina.",
+			"btn": "Aggiorna"
+		}
+	}
+}

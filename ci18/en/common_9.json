@@ -1,0 +1,36 @@
+{
+	"title": "Disputes",
+	"table": {
+		"columns": {
+			"id": "ID",
+			"orderId": "Order ID",
+			"disputeId": "Dispute ID",
+			"customerId": "Customer ID",
+			"agent": "Agent",
+			"status": "Status",
+			"paymentMethod": "Payment Method",
+			"reason": "Reason",
+			"amount": "Amount",
+			"acceptanceReason": "Acceptance Reason",
+			"respondDueDate": "Respond Due Date",
+			"actions": "Actions"
+		},
+		"actions": {
+			"accept": "Accept dispute",
+			"redirect": "Go to payment page",
+			"export": "Export",
+			"downloadAsCSV": "Download as CSV"
+		},
+		"acceptDisputeDialog": {
+			"title": "#{rowId} Accept dispute",
+			"content": "Are you sure you want to accept this dispute?",
+			"accept": "Accept",
+			"cancel": "Cancel"
+		},
+		"messages": {
+			"disputeAccepted": "Dispute accepted",
+			"disputeAcceptanceFailed": "Failed to accept dispute"
+		}
+	},
+	"unknown": "Unknown"
+}

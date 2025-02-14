@@ -1,0 +1,94 @@
+{
+    "dialog": {
+        "title": "Account settings"
+    },
+    "nav": {
+        "profile": "My profile",
+        "billingDetails": "Billing details",
+        "subscriptions": "Subscriptions"
+    },
+    "myProfile": {
+        "title": "My profile",
+        "emailChangeExpiredAlertTitle": "We couldn't change your account's email.",
+        "emailChangeExpiredAlertText": "New emails must be verified within 7 days of the update. Your account's current email is still {email}.",
+        "nameForm": {
+            "firstName": "First name",
+            "lastName": "Last name",
+            "validation": {
+                "invalidFormat": "Invalid format",
+                "fieldRequired": "{field, select, firstName {First name} lastName {Last name} other {This field} } is required"
+            },
+            "success": "Name updated successfully",
+            "error": "Failed to update name"
+        },
+        "emailForm": {
+            "email": "{change, select, true {Current email} other {Email} }",
+            "newEmail": "New email",
+            "change": "Change email",
+            "chip": {
+                "verified": "Email verified",
+                "unverified": "Not verified"
+            },
+            "modal": {
+                "title": "Update your email",
+                "email": "Enter a new email",
+                "emailConfirmation": "Confirm the new email",
+                "tosAgreement": "I've read and understood these terms.",
+                "updateEmailFormNote": "What will happen after changing the email address?",
+                "updateEmailChanges": "<li>As the owner of the new email address, you will grant full access to the new email address's owner to all of the information on the \"My Elementor\" dashboard and the support conversations history.</li><li>The old email account will no longer receive system reminders and notices. those will be redirected to new email address.</li><li>You must validate your new email address by confirming the validation email.</li><li>You won't have access to your account with the former email address once the validation process is completed.</li>",
+                "confirmationStatement": "I hereby confirm that:",
+                "updateEmailToS": "<li>I am the owner of the new email address (according to <btn>Elementor's T&C's</btn>)</li><li>I am the owner of this Elementor account and request to change the account's email address.</li>",
+                "save": "Save",
+                "cancel": "Cancel",
+                "success": {
+                    "emailChangeSuccessTitle": "You're almost done!",
+                    "emailChangeSuccessText": "We sent a verification email to <strongText>{email}</strongText>.<break/> It might take a few minutes for it to appear, or check your spam folder.",
+                    "whatsNext": "What's next:",
+                    "updateEmailNextSteps": "<li>Go to your inbox and verify your new email. Once you're done you'll be able to use the new email address.</li><li>The email update will be canceled if you don't verify the new email within 7 days.</li><li>Did you sign up with your social media account? You might need to update your password.</li>",
+                    "done": "Done",
+                    "resendEmail": "Resend email"
+                }
+            },
+            "validation": {
+                "invalidFormat": "Invalid email",
+                "fieldRequired": "{field, select, email {New email} emailConfirmation {Confirm new email} other {This field} } is required",
+                "emailsDontMatch": "These email addresses don’t match. Try again."
+            }
+        },
+        "passwordForm": {
+            "password": "Password",
+            "change": "Change password",
+            "modal": {
+                "title": "Change your password",
+                "oldPassword": "Current password",
+                "newPassword": "New password",
+                "confirmPassword": "Confirm new password",
+                "save": "Save",
+                "cancel": "Cancel",
+                "success": "Password updated successfully",
+                "error": "Failed to update password"
+            },
+            "validation": {
+                "fieldRequired": "{field, select, oldPassword {Current password} newPassword {New password} confirmPassword {Confirm new password} other {This field} } is required",
+                "passwordsDoNotMatch": "Passwords do not match",
+                "userPasswordRule": "Password must be at least eight characters long and contain at least one uppercase, one lowercase, one digit and one special character.",
+                "oldAsNewPassword": "New password must be different from the current password"
+            }
+        }
+    },
+    "billingDetails": {
+        "title": "Billing details",
+        "empty": "No billing details found"
+    },
+    "subscriptions": {
+        "title": "Subscriptions",
+        "tabs": {
+            "subscriptions": "Subscriptions",
+            "services": "Services"
+        }
+    },
+    "common": {
+        "billingUsdTooltip": "Unless specified otherwise,\n all $ prices are in USD",
+        "buyNewSubscription": "Buy a new subscription"
+    }
+}

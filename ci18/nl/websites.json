@@ -1,0 +1,16 @@
+{
+    "filter": {
+        "all": "Alle ({count})",
+        "nonCloud": "Gehost door derden ({count})",
+        "cloud": "Gehost door Elementor ({count})",
+        "invited": "Uitgenodigd voor ({count})",
+        "favorites": "Favorieten ({count})"
+    },
+    "sort": {
+        "title": "Sitenaam",
+        "date": "Aanmaakdatum",
+        "expire": "Vervaldatum",
+        "asc": "Oplopend",
+        "desc": "Aflopend"
+    }
+}

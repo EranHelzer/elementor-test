@@ -1,0 +1,130 @@
+{
+    "mainTitle": {
+        "title": "Completemos tu compra",
+        "subtitle": "¡Casi listo! Revisa tu información de facturación y los detalles del método de pago."
+    },
+    "checkoutAccordion": {
+        "signedIn": "Sesión iniciada",
+        "confirmYourPlan": "Confirma tu plan",
+        "enterBillingInfo": "Ingresa tu dirección de facturación",
+        "enterBillingInfoSubtitle": "Esta es la información que utilizamos para calcular impuestos y enviar facturas para todas tus suscripciones.",
+        "choosePaymentMethod": "Elige un método de pago"
+    },
+    "billingInfoForm": {
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "email": "Correo electrónico para recibir facturas",
+        "companyName": "Nombre de la empresa",
+        "vatNumber": "Número de IVA / Identificación fiscal",
+        "countryCode": "País / Región",
+        "address1": "Dirección 1",
+        "address2": "Dirección 2",
+        "state": "Estado",
+        "city": "Ciudad",
+        "zipCode": "Código postal",
+        "continue": "Continuar",
+        "errors": {
+            "defaultErrorMessage": "Por favor, ingresa un {fieldName} válido.",
+            "firstName": {
+                "required": "Por favor, ingresa tu nombre.",
+                "invalid": "Por favor, usa solo letras, guiones y apóstrofes"
+            },
+            "lastName": {
+                "required": "Por favor, ingresa tu apellido.",
+                "invalid": "Por favor, usa solo letras, guiones y apóstrofes"
+            },
+            "address1": {
+                "required": "Por favor, ingresa tu dirección principal.",
+                "invalid": "La dirección puede incluir caracteres alfanuméricos y signos de puntuación."
+            },
+            "address2": {
+                "invalid": "La dirección puede incluir caracteres alfanuméricos y signos de puntuación."
+            },
+            "countryCode": {
+                "required": "Por favor, selecciona un país de la lista."
+            },
+            "state": {
+                "required": "Por favor, selecciona un estado de la lista."
+            },
+            "city": {
+                "required": "Por favor, ingresa un nombre de ciudad.",
+                "invalid": "El nombre de la ciudad solo debe contener letras y apóstrofes."
+            },
+            "zipCode": {
+                "required": "Por favor, ingresa un código postal válido.",
+                "invalid": "Por favor, ingresa un código postal válido."
+            },
+            "vatNumber": {
+                "invalid": "Por favor, ingresa un número de IVA / Identificación fiscal válido."
+            }
+        }
+    },
+    "paymentMethods": {
+        "addPaymentMethod": "Agregar método de pago"
+    },
+    "summary": {
+        "title": "Resumen",
+        "total": "Total",
+        "subtotal": "Subtotal",
+        "vat": "IVA",
+        "payNow": "Pagar ahora",
+        "yearlyInterval": "{price}/mes x 12 meses",
+        "upgradeBalance": "Saldo de actualización",
+        "upgradeSubtractedCost": "Hemos restado el valor restante de tu plan actual del costo de esta actualización.",
+        "upgradeNextCycleAmount": "Tu nuevo ciclo de facturación comienza hoy, en tu próximo ciclo de facturación pagarás el total de {amount} / año + impuestos de venta / IVA.",
+        "legalText": "Al realizar la compra, reconoces que tu suscripción se renovará anualmente, a menos que cambies a renovación manual.",
+        "ioLegalText": "Al comprar Image Optimizer de Elementor, aceptas nuestros <0>Términos y condiciones de Image Optimizer</0>",
+        "siteMailerLegalText": "Al comprar Site Mailer de Elementor, aceptas nuestros <0>Términos y condiciones de Site Mailer</0>",
+        "appAccessLegalText": "Al comprar Accessibility de Elementor, aceptas nuestros <0>Términos y condiciones de Accessibility</0> y <1>Política de privacidad</1>",
+        "priceDisclaimerText": "A menos que se especifique lo contrario, todos los precios en $ están en USD",
+        "ILSLegalText": "Si tu suscripción se compró originalmente en USD, puedes cambiar a ILS contactando con soporte. Los precios actuales en ILS están en nuestra <0>página de precios.</0>",
+        "footer": {
+            "securePayment": "Pago seguro encriptado SSL",
+            "moneyBack": "Garantía de devolución de dinero de 30 días solo para planes Pro o de Hosting",
+            "mobileLinks": "Se aplican la <0>Política de privacidad</0> y los <1>Términos de servicio</1>."
+        }
+    },
+    "footer": {
+        "securePayment": "Pago seguro encriptado SSL",
+        "moneyBack": "Garantía de devolución de dinero de 30 días solo para planes Pro o de Hosting",
+        "protectedBy": "Este sitio está protegido por reCAPTCHA y se aplican la <0>Política de privacidad</0> y los <1>Términos de servicio</1> de Google."
+    },
+    "paymentFailed": {
+        "title": "Pago fallido.",
+        "subtitle": "Lo sentimos, no podemos procesar tu pago en este momento. Por favor, inténtalo de nuevo más tarde."
+    },
+    "promoCodes": {
+        "invalid": "El código promocional que ingresaste no es válido.",
+        "generalError": "Hubo un problema con el código promocional. Por favor, inténtalo de nuevo o contacta con soporte.",
+        "duplicate": "Código promocional ya aplicado."
+    },
+    "thankYou": {
+        "title": "¡Gracias por tu compra {firstName}!",
+        "subtitle": "Una vez que el recibo esté listo, lo enviaremos a {email} con los siguientes pasos.",
+        "transactionComplete": "La transacción {invoiceNumber} está completa.",
+        "purchaseDate": "fecha de compra",
+        "renewalDate": "fecha de renovación",
+        "vat": "IVA",
+        "subtotal": "subtotal",
+        "discount": "descuento",
+        "total": "total",
+        "cta": {
+            "primary": {
+                "PLUGIN": "Descargar Elementor Pro",
+                "APP_IO": "Descargar Image Optimizer",
+                "APP_AI": "Empieza a crear con IA",
+                "HOSTING": "Empieza a crear tu sitio web",
+                "APP_STRATTIC": "Empieza a crear tu sitio web",
+                "APP_BKP": "Descargar el plugin de copia de seguridad del sitio",
+                "APP_MAILER": "Descargar Zip",
+                "APP_ACCESS": "Descargar Zip",
+                "APP_SUPPORT": "Centro de soporte",
+                "HOSTING_TRANSFER_SITE": "Completar la transferencia",
+                "default": "Empieza a crear tu sitio web"
+            },
+            "secondary": {
+                "APP_SUPPORT": "Enviar un ticket"
+            }
+        }
+    }
+}

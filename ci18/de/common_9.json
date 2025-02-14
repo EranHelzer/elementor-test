@@ -1,0 +1,36 @@
+{
+	"title": "Streitigkeiten",
+	"table": {
+		"columns": {
+			"id": "ID",
+			"orderId": "Bestellnummer",
+			"disputeId": "Streitfall-ID",
+			"customerId": "Kunden-ID",
+			"agent": "Agent",
+			"status": "Status",
+			"paymentMethod": "Zahlungsmethode",
+			"reason": "Grund",
+			"amount": "Betrag",
+			"acceptanceReason": "Akzeptanzgrund",
+			"respondDueDate": "Antwortfrist",
+			"actions": "Aktionen"
+		},
+		"actions": {
+			"accept": "Streitfall akzeptieren",
+			"redirect": "Zur Zahlungsseite gehen",
+			"export": "Exportieren",
+			"downloadAsCSV": "Als CSV herunterladen"
+		},
+		"acceptDisputeDialog": {
+			"title": "#{rowId} Streit akzeptieren",
+			"content": "Sind Sie sicher, dass Sie diesen Streitfall akzeptieren möchten?",
+			"accept": "Akzeptieren",
+			"cancel": "Abbrechen"
+		},
+		"messages": {
+			"disputeAccepted": "Streitfall akzeptiert",
+			"disputeAcceptanceFailed": "Fehler beim Akzeptieren des Streitfalls"
+		}
+	},
+	"unknown": "Unbekannt"
+}

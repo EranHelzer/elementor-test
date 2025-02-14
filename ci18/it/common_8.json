@@ -1,0 +1,43 @@
+{
+	"advancedSearch": "Ricerca avanzata",
+	"searchBar": {
+		"searchByBtn": "Cerca per {value}",
+		"searchBy": "Cerca per",
+		"search": "Cerca",
+		"quickSearch": "Ricerca rapida"
+	},
+    "searchState": {
+		"startSearchingTitle": "Inizia la ricerca",
+		"startSearching": "Seleziona un termine per trovare il {entity}!",
+		"noResults": "Non abbiamo trovato alcun risultato per “{searchTerm}”!",
+		"noResultsSuggestion": "Prova a cercare un termine diverso o rimuovi alcuni filtri.",
+		"validationError": "La ricerca di “{searchTerm}” non ha prodotto risultati!",
+		"validationErrorSuggestion": "Errore: “{error}”"
+	},
+	"user": {
+		"title": "Utenti",
+		"subtitle": "",
+		"entityName": "utente",
+		"searchBy": {
+			"email": "Email",
+			"id": "ID utente"
+		},
+		"quickSearch": "Inserisci indirizzo email o ID utente",
+		"recentActivityTitle": "Ricerche recenti"
+	},
+	"subscription": {
+		"title": "Abbonamento",
+		"subtitle": "",
+		"entityName": "abbonamento",
+		"id": "ID abbonamento",
+		"searchBy": {
+			"id": "ID abbonamento",
+			"userId": "ID utente"
+		},
+		"quickSearch": "Inserisci ID abbonamento",
+		"recentActivityTitle": "Ricerche recenti"
+	},
+	"recentSearchActivity": {
+		"title": "Attività di ricerca recente"
+	}
+}

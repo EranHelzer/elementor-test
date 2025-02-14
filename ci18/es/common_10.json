@@ -1,0 +1,218 @@
+{
+	"page": {
+		"back": "Volver a suscripciones",
+		"reload": "Recargar datos",
+		"info": {
+			"id": "ID {id}",
+			"internalId": "ID interno {id}",
+			"startDate": "Fecha de inicio {value}",
+			"nextPaymentDate": "Próximo pago {value}",
+			"order": "Número de pedido {value}"
+		},
+		"actions": {
+			"title": "Acciones",
+			"zuora": "Gestionar en Zuora",
+			"switch": "Cambiar producto/plan",
+			"refund": "Reembolsar suscripción"
+		}
+	},
+	"userInfo": {
+		"title": "Propietario de la suscripción"
+	},
+	"activationKey": {
+		"title": "Clave de activación",
+		"copy": "Copiar",
+		"regenerate": {
+			"title": "Regenerar clave de activación",
+			"confirm": "¿Está seguro de que desea regenerar la clave de activación para esta suscripción?",
+			"action": "Regenerar",
+			"yes": "Sí",
+			"no": "No"
+		}
+	},
+	"activations": {
+		"title": "Activaciones({value})",
+		"noData": "No hay datos disponibles",
+		"header": {
+			"domain": "Dominio",
+			"activationDate": "Fecha de activación",
+			"deactivationDate": "Fecha de desactivación",
+			"local": "Local",
+			"actions": "Acciones"
+		},
+		"deactivate": {
+			"title": "Desactivar {value}",
+			"confirm": "¿Está seguro de que desea desactivar esta activación?",
+			"action": "Desactivar",
+			"yes": "Sí",
+			"no": "No"
+		},
+		"deactivateAll": {
+			"title": "Desactivar todas",
+			"confirm": "¿Está seguro de que desea desactivar todas las activaciones?",
+			"action": "Desactivar todas",
+			"yes": "Sí",
+			"no": "No"
+		}
+	},
+	"sitesActivations": {
+		"title": "Activaciones de sitios web({value})",
+		"noData": "No hay datos disponibles",
+		"header": {
+			"url": "URL del sitio",
+			"connectedDate": "Fecha de conexión",
+			"actions": "Acciones"
+		},
+		"deactivate": {
+			"title": "Desactivar {value}",
+			"confirm": "¿Está seguro de que desea desactivar este sitio?",
+			"action": "Desactivar",
+			"yes": "Sí",
+			"no": "No"
+		}
+	},
+	"downloadHistory": {
+		"title": "Historial de descargas({value})",
+		"noData": "No hay datos disponibles",
+		"header": {
+			"timestamp": "Marca de tiempo",
+			"version": "Versión",
+			"ip": "Dirección IP"
+		}
+	},
+	"hostingWebsites": {
+		"title": "Sitios web({value})",
+		"noData": "No hay datos disponibles",
+		"header": {
+			"id": "ID del sitio",
+			"slug": "Slug",
+			"url": "URL del sitio",
+			"status": "Estado",
+			"created": "Creado",
+			"updated": "Actualizado",
+			"deleted": "Eliminado",
+			"actions": "Acciones"
+		},
+		"delete": {
+			"title": "Eliminar {value}",
+			"confirm": "¿Está seguro de que desea eliminar este sitio web?",
+			"action": "Eliminar",
+			"yes": "Sí",
+			"no": "No"
+		}
+	},
+	"notes": {
+		"title": "Notas({value})",
+		"noData": "No hay datos disponibles",
+		"infoAuthor": "Agregado por {author} el {date}",
+		"info": "{date}",
+		"add": "Añadir nota",
+		"update": "Actualizar nota",
+		"delete": "Eliminar nota",
+		"dialog": {
+			"addTitle": "Añadir nota",
+			"add": "Añadir",
+			"updateTitle": "Actualizar nota",
+			"update": "Actualizar"
+		}
+	},
+	"refundModal": {
+		"title": "¿Está seguro de que desea reembolsar esta suscripción?",
+		"buttons": {
+			"confirmRefund": "Confirmar reembolso"
+		},
+		"refundText": {
+			"CurrentSubscription": "Suscripción actual:",
+			"SubscriptionAge": "Antigüedad de la suscripción:",
+			"Since": "Desde:",
+			"ConfirmingThisProcessWill": "Al confirmar este proceso se:",
+			"UnapplyThepaymentFromTheInvoice": "Desaplicará el pago de la factura",
+			"CreateA": "Creará un",
+			"refundOnZuoraAndACreditMemo": "reembolso en Zuora y una nota de crédito",
+			"CancelTheSupbscription": "Cancelará la suscripción",
+			"ReapplyThePaymentToInvoice": "Reaplicará el pago a la factura",
+			"ApplyTheInvoiceToTheCreditMemo": "Aplicará la factura a la nota de crédito",
+			"Days": "días"
+		}
+	},
+	"switch": {
+		"title": "Cambiar esta suscripción a otro producto/plan",
+		"info": {
+			"current": "Suscripción actual:",
+			"id": "ID de suscripción: {id}",
+			"sku": "SKU: {sku}",
+			"age": "Antigüedad de la suscripción:",
+			"days": "({count, plural, one {# Día} other {# Días}})"
+		},
+		"alerts": {
+			"missingData": "¡Faltan algunos datos necesarios para el cambio! Intente refrescar la página.",
+			"subCanceled": "La suscripción está cancelada y no se puede cambiar.",
+			"over30": "Una suscripción de más de 30 días no se puede cambiar. El período de devolución ha terminado.",
+			"version2": "La suscripción ya ha sido cambiada/actualizada. Solo se pueden cambiar las suscripciones de versión 1. Verifique Zuora para más detalles.",
+			"previewFailed": "Falló el cálculo de una vista previa del cambio. Por favor, inténtelo de nuevo en un momento.",
+			"manyActivation": "El plan al que intenta cambiar ofrece menos activaciones/sitios web que el plan actual. ({current}/{available})",
+			"manyTeamMembers": "El plan al que intenta cambiar ofrece menos miembros de equipo que el plan actual. ({current}/{available})",
+			"indeterminateQuota": "¡No se pudo determinar la cuota para esta suscripción! ¡Verifique las activaciones actuales y el nuevo límite antes de cambiar!",
+			"missingPaymentMethod": "Al propietario de la suscripción le falta la información del método de pago predeterminado. Inténtelo de nuevo una vez que el usuario establezca su pago predeterminado.",
+			"generic": "Algo salió mal. Por favor, inténtelo de nuevo en un momento."
+		},
+		"switchResponse": {
+			"title": "Respuesta del cambio",
+			"success": {
+				"planMsg": "Plan de suscripción cambiado exitosamente de {from} a {to}.",
+				"productMsg": "Producto de suscripción cambiado exitosamente de {from} a {to}."
+			},
+			"error": {
+				"title": "Error de cambio",
+				"msg": "El proceso de cambio falló en {step}. Por favor, reanude el proceso manualmente.",
+				"steps": {
+					"plan": {
+						"generic_error": "Ocurrió un error durante el proceso de cambio de plan",
+						"get_subscription_refund_data": "Obtener la información de pago de la suscripción",
+						"change_subscription_plan": "Cambiar el plan de suscripción",
+						"update_invoice": "Actualizar los elementos de la factura",
+						"get_required_data": "Preparar los datos necesarios para el reembolso",
+						"unapply_payment": "Desaplicar el Pago de la Factura",
+						"refund_payment": "Crear el Reembolso",
+						"apply_payment": "Reaplicar el Pago a la Factura",
+						"apply_credit_memo": "Aplicar la Factura a la Nota de Crédito"
+					},
+					"product": {
+						"generic_error": "Ocurrió un error durante el proceso de cambio de plan",
+						"cancel_subscription": "Cancelar y reembolsar la suscripción actual",
+						"create_subscription": "Crear una nueva suscripción",
+						"update_invoice": "Actualizar la factura"
+					}
+				}
+			},
+			"msg": "Debido al cambio de plan/producto, se recomienda recargar el backoffice.",
+			"actions": {
+				"refresh": "Refrescar",
+				"close": "Cerrar"
+			}
+		},
+		"selectLabel": "Seleccione la acción a realizar",
+		"refund": "Reembolso completo (emitir un reembolso completo para el último pedido)",
+		"summary": {
+			"title": "Resumen",
+			"from": "Cambiar de",
+			"to": "Cambiar a",
+			"refund": "Monto del reembolso",
+			"charge": "Monto del cargo"
+		},
+		"product": {
+			"switchOption": "Cambiar producto",
+			"selectLabel": "Producto",
+			"submit": "Cambiar producto",
+			"itemText": "{productName} - {name} [{sku}]"
+		},
+		"plan": {
+			"switchOption": "Cambiar plan",
+			"selectLabel": "Plan",
+			"submit": "Cambiar plan",
+			"itemText": "{isDowngrade, select, true { Bajar de nivel } other { Mejorar }} a {name} [{sku}]",
+			"quota": "({um}: {current}/{max})",
+			"quotaOverInfo": "¡Este plan no puede ser utilizado debido a que supera el límite de cuota!"
+		}
+	}
+}

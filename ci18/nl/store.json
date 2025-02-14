@@ -1,0 +1,130 @@
+{
+    "mainTitle": {
+        "title": "Laten we uw aankoop afronden",
+        "subtitle": "Bijna klaar! Controleer uw factuurgegevens en betalingsmethode."
+    },
+    "checkoutAccordion": {
+        "signedIn": "Ingelogd",
+        "confirmYourPlan": "Bevestig uw abonnement",
+        "enterBillingInfo": "Voer uw factuuradres in",
+        "enterBillingInfoSubtitle": "Dit is de informatie die we gebruiken om belasting te berekenen en facturen te sturen voor al uw abonnementen.",
+        "choosePaymentMethod": "Kies een betalingsmethode"
+    },
+    "billingInfoForm": {
+        "firstName": "Voornaam",
+        "lastName": "Achternaam",
+        "email": "E-mail om facturen te ontvangen",
+        "companyName": "Bedrijfsnaam",
+        "vatNumber": "BTW-nummer / Belastingnummer",
+        "countryCode": "Land / Regio",
+        "address1": "Adres 1",
+        "address2": "Adres 2",
+        "state": "Staat",
+        "city": "Stad",
+        "zipCode": "Postcode",
+        "continue": "Doorgaan",
+        "errors": {
+            "defaultErrorMessage": "Voer een geldige {fieldName} in.",
+            "firstName": {
+                "required": "Voer uw voornaam in.",
+                "invalid": "Gebruik alleen letters, koppeltekens en apostroffen"
+            },
+            "lastName": {
+                "required": "Voer uw achternaam in.",
+                "invalid": "Gebruik alleen letters, koppeltekens en apostroffen"
+            },
+            "address1": {
+                "required": "Voer uw hoofdadres in.",
+                "invalid": "Adres kan alfanumerieke tekens en leestekens bevatten."
+            },
+            "address2": {
+                "invalid": "Adres kan alfanumerieke tekens en leestekens bevatten."
+            },
+            "countryCode": {
+                "required": "Selecteer een land uit de lijst."
+            },
+            "state": {
+                "required": "Selecteer een staat uit de lijst."
+            },
+            "city": {
+                "required": "Voer een stadsnaam in.",
+                "invalid": "Stadsnaam mag alleen letters en apostroffen bevatten."
+            },
+            "zipCode": {
+                "required": "Voer een geldige postcode in.",
+                "invalid": "Voer een geldige postcode in."
+            },
+            "vatNumber": {
+                "invalid": "Voer een geldig BTW-nummer / Belastingnummer in."
+            }
+        }
+    },
+    "paymentMethods": {
+        "addPaymentMethod": "Betalingsmethode toevoegen"
+    },
+    "summary": {
+        "title": "Samenvatting",
+        "total": "Totaal",
+        "subtotal": "Subtotaal",
+        "vat": "BTW",
+        "payNow": "Nu betalen",
+        "yearlyInterval": "{price}/mnd x 12 maanden",
+        "upgradeBalance": "Upgrade-saldo",
+        "upgradeSubtractedCost": "We hebben de resterende waarde van uw huidige abonnement afgetrokken van de kosten van deze upgrade.",
+        "upgradeNextCycleAmount": "Uw nieuwe facturatiecyclus begint vandaag, in uw volgende facturatiecyclus betaalt u de volledige {amount} / jaar + verkoopbelasting / BTW.",
+        "legalText": "Door aan te kopen, erkent u dat uw abonnement jaarlijks wordt verlengd, tenzij u overschakelt naar handmatige verlenging.",
+        "ioLegalText": "Door Image Optimizer van Elementor aan te schaffen, gaat u akkoord met onze <0>Image Optimizer Algemene Voorwaarden</0>",
+        "siteMailerLegalText": "Door Site Mailer van Elementor aan te schaffen, gaat u akkoord met onze <0>Site Mailer Algemene Voorwaarden</0>",
+        "appAccessLegalText": "Door Accessibility van Elementor aan te schaffen, gaat u akkoord met onze <0>Accessibility Algemene Voorwaarden</0> en <1>Privacybeleid</1>",
+        "priceDisclaimerText": "Tenzij anders aangegeven, zijn alle $ prijzen in USD",
+        "ILSLegalText": "Als uw abonnement oorspronkelijk in USD is gekocht, kunt u overschakelen naar ILS door contact op te nemen met de klantenservice. De huidige ILS-prijzen staan op onze <0>prijspagina.</0>",
+        "footer": {
+            "securePayment": "Beveiligde SSL-gecodeerde betaling",
+            "moneyBack": "30 dagen geld-terug-garantie alleen voor Pro of Hosting abonnementen",
+            "mobileLinks": "<0>Privacybeleid</0> en <1>Servicevoorwaarden</1> zijn van toepassing."
+        }
+    },
+    "footer": {
+        "securePayment": "Beveiligde SSL-gecodeerde betaling",
+        "moneyBack": "30 dagen geld-terug-garantie alleen voor Pro of Hosting abonnementen",
+        "protectedBy": "Deze site wordt beschermd door reCAPTCHA en het Google <0>Privacybeleid</0> en de <1>Servicevoorwaarden</1> zijn van toepassing."
+    },
+    "paymentFailed": {
+        "title": "Betaling mislukt.",
+        "subtitle": "Sorry, we kunnen uw betaling op dit moment niet verwerken. Probeer het later opnieuw."
+    },
+    "promoCodes": {
+        "invalid": "De door u ingevoerde promotiecode is ongeldig.",
+        "generalError": "Er is een probleem met de promotiecode. Probeer het opnieuw of neem contact op met de klantenservice.",
+        "duplicate": "Promotiecode is al toegepast."
+    },
+    "thankYou": {
+        "title": "Bedankt voor uw aankoop {firstName}!",
+        "subtitle": "Zodra de ontvangstbevestiging klaar is, sturen we deze naar {email} met de volgende stappen.",
+        "transactionComplete": "Transactie {invoiceNumber} is voltooid.",
+        "purchaseDate": "aankoopdatum",
+        "renewalDate": "verlengingsdatum",
+        "vat": "BTW",
+        "subtotal": "subtotaal",
+        "discount": "korting",
+        "total": "totaal",
+        "cta": {
+            "primary": {
+                "PLUGIN": "Elementor Pro downloaden",
+                "APP_IO": "Image Optimizer downloaden",
+                "APP_AI": "Begin met creëren met AI",
+                "HOSTING": "Begin met het maken van uw website",
+                "APP_STRATTIC": "Begin met het maken van uw website",
+                "APP_BKP": "Site back-up plugin downloaden",
+                "APP_MAILER": "Zip downloaden",
+                "APP_ACCESS": "Zip downloaden",
+                "APP_SUPPORT": "Ondersteuningscentrum",
+                "HOSTING_TRANSFER_SITE": "Voltooi de overdracht",
+                "default": "Begin met het maken van uw website"
+            },
+            "secondary": {
+                "APP_SUPPORT": "Dien een ticket in"
+            }
+        }
+    }
+}

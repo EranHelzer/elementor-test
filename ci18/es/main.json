@@ -1,0 +1,77 @@
+{
+  "signIn": {
+    "title": "Iniciar sesión en Elementor",
+    "titleKit": "Inicia sesión en Elementor para crear un{br} nuevo sitio web con este Kit.",
+    "templateTitle": "{template, select, trial {Reclama tu prueba gratis de 7 días} other {}}",
+    "templateSubtitle": "{template, select, trial {No se necesita tarjeta de crédito. ¡Vamos a registrarte!} other {}}",
+    "question": "¿Nuevo en Elementor?",
+    "question2": "¿No tienes una cuenta?",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "successMessage": "Has iniciado sesión. ¡Bienvenido!"
+  },
+  "signUp": {
+    "title": "Vamos a crear tu cuenta de {br} Elementor.",
+    "titleKit": "{isMobile, select, true {¡Buena elección! Crea una cuenta para conseguir este Kit.} other {¡Nos gusta tu estilo!{br} Crea una cuenta de Elementor para conseguir este Kit.}}",
+    "subtitle": "Por tu seguridad, recomendamos usar un correo electrónico{br} al que tendrás fácil acceso en el futuro.",
+    "question": "¿Ya tienes una cuenta?",
+    "successMessage": "Te has registrado exitosamente."
+  },
+  "socialAuthAlert": {
+    "title": "Usa tu cuenta social para saltar la autenticación",
+    "text": "De lo contrario, necesitarás un código de verificación cada vez que inicies sesión con tu correo electrónico.",
+    "fbBrowser": "Para la mejor experiencia, abre esta página en tu navegador predeterminado",
+    "fbBrowserTitle": "Finalizar inicio de sesión",
+    "copyLink": "Copiar enlace"
+  },
+  "emailForm": {
+    "emailLabel": "Ingresa tu correo electrónico",
+    "passwordLabel": "Contraseña",
+    "passwordValidationRule": "Debe tener al menos 8 caracteres con una combinación de mayúsculas/minúsculas, números y caracteres especiales.",
+    "createAccSubmitText": "Crear mi cuenta",
+    "emailHelperText": "Necesitaremos verificar tu cuenta, así que mantén accesible esta bandeja de entrada.",
+    "invalidEmailFormat": "Por favor, introduce una dirección de correo electrónico válida. Ejemplo: username@domain.com",
+    "invalidEmail": "Después de revisarlo, no podemos enviar correos electrónicos a esa dirección. Intenta con una diferente.",
+    "badEmail": "Puedes usar esta dirección, pero es posible que no podamos verificarla más tarde. Intenta con una diferente.",
+    "emailSuggestion": "¿Quisiste decir {suggestion}?",
+    "fieldRequired": "Este campo es obligatorio."
+  },
+  "verifiedEmail": {
+    "success": {
+      "title": "Gracias por verificar tu correo electrónico",
+      "description": "Ya estás listo para empezar a crear sitios increíbles con nosotros.",
+      "buttonText": "Ir a Mi Elementor"
+    },
+    "fail": {
+      "title": "Ese enlace no funcionó.",
+      "description": "Vuelve a iniciar sesión en tu cuenta para reenviar el correo de verificación o",
+      "buttonText": "contacta con soporte"
+    }
+  },
+  "forgotPassword": {
+    "title": "Restablecer tu contraseña",
+    "description": "Por favor, introduce tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña.",
+    "emailField": "Correo electrónico",
+    "resetButton": "Restablecer contraseña",
+    "successAlert": "Te hemos enviado un enlace para restablecer tu contraseña.",
+    "failureAlert": "Nombre de usuario o correo electrónico no válido."
+  },
+  "resetPassword": {
+    "title": "Restablecer contraseña",
+    "description": "Introduce tu nueva contraseña y listo.",
+    "passwordField": "Introduce la nueva contraseña",
+    "savePasswordButton": "Guardar contraseña",
+    "resetSuccess": "Tu contraseña ha sido restablecida."
+  },
+  "totp": {
+    "title": "Vamos a verificar tu cuenta.",
+    "description": "Hemos enviado un código de verificación al correo electrónico asociado a esta cuenta de Elementor.",
+    "verificationCode": "Introduce el código de 6 dígitos:",
+    "verifyAccount": "Verificar mi cuenta",
+    "resendCode": "Reenviar el código",
+    "sendToEmail": "Enviar a un correo electrónico diferente",
+    "whereCode": "¿Dónde está mi código?",
+    "checkSpam": "Revisa tu carpeta de spam.",
+    "emailDelay": "El correo electrónico puede tardar unos minutos en aparecer.",
+    "codeSent": "Código de verificación enviado"
+  }
+}

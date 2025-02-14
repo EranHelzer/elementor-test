@@ -1,0 +1,32 @@
+{
+	"header": {
+		"title": {
+			"app_mailer": "Ready to use {app}?",
+			"app_empma": "Ready to {app}?",
+			"default": "Ready to use {app} by Elementor?"
+		},
+		"subtitle": {
+			"app_mailer": "Connect your WordPress site so it can start sending emails",
+			"app_empma": "Connect your WordPress site to {app}.",
+			"default": "{activate, select, true {Connect your WordPress site and activate your license \n to use all the features of {app}.} other {Connect your WordPress site to use \n all the features of {app}.}}"
+		}
+	},
+	"switchUser": "Switch User",
+	"chooseSubscription": "Choose a subscription...",
+	"subscriptionName": "{name}",
+	"subscriptionExpireDate": "Expiration Date: {date}",
+	"shareUsageData": "Share my usage data (anonymously) to help improve the experience for myself and others.",
+	"submit": {
+		"app_empma": "Connect",
+		"default": "Connect & Continue"
+	},
+	"customer": {
+		"firstName": "First name",
+		"lastName": "Last name",
+		"postcode": "Postcode / ZIP",
+		"message": {
+			"firstPart": "Add your details to activate your free trial.",
+			"secondPart": "Don’t worry, we’re not saving any payment info and you won’t be charged."
+		}
+	}
+}

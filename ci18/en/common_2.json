@@ -1,0 +1,35 @@
+{
+  "back": "Back",
+  "backToLogIn": "Back to Log In",
+  "continue": "Continue",
+  "signInWith": "Sign in with {provider}",
+  "signUpWith": "Continue with {provider}",
+  "signInWithEmail": "Sign in with your email",
+  "signUpWithEmail": "Continue with your email",
+  "signIn": "Sign in",
+  "createAccount": "Create an Account",
+  "email": "email",
+  "or": "OR",
+  "whatsWrong": "What's wrong?",
+  "footer": {
+    "copyRights": "© {year} All Rights Reserved.",
+    "creatingAccountTerms": "By creating an account, you agree to receive Elementor emails,{br} including marketing emails, and to our",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "errors": {
+    "emailFormat": "Password should be at least 8 characters in length and should include at least one upper case letter, one number, and one special character.",
+    "accountExists": "Looks like you already have an account.",
+    "sessionExpired": "Your session has expired. Please sign in to continue",
+    "userExists": "Looks like you already have an account. Sign in.",
+    "invalidCredentials": "Incorrect username or password",
+    "userNotFound": "Sorry, we can't find an account with this email address. Please create a new account.",
+    "invalidCode": "The code you entered was incorrect, please try again, or see",
+    "missingEmail": "To continue, you must grant Elementor permission to access your email address.",
+    "tryAgain": "Please try again in a few minutes.",
+    "expiredKey": "Sorry, that key has expired. Please try again.",
+    "invalidKey": "Sorry, that key does not appear to be valid.",
+    "general": "Something went wrong, please try again.",
+    "serviceUnavailable": "We're undergoing maintenance. Please try again in a few moments. We apologize for any inconvenience."
+  }
+}

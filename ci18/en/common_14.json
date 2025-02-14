@@ -1,0 +1,13 @@
+{
+	"greeting": "Hi {name}",
+	"footer": {
+		"copyRights": "© {year} All Rights Reserved.",
+		"terms": "Terms of Service",
+		"privacy": "Privacy Policy"
+	},
+	"errorPage": {
+		"message": "Blimey! You bumped into a server error.",
+		"hint": "Try to connect again",
+		"code": "Error Code: {code}"
+	}
+}

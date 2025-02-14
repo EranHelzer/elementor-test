@@ -1,0 +1,43 @@
+{
+	"advancedSearch": "Geavanceerd zoeken",
+	"searchBar": {
+		"searchByBtn": "Zoeken op {value}",
+		"searchBy": "Zoeken op",
+		"search": "Zoeken",
+		"quickSearch": "Snel zoeken"
+	},
+    "searchState": {
+		"startSearchingTitle": "Begin met zoeken",
+		"startSearching": "Selecteer een term om de {entity} te vinden!",
+		"noResults": "We konden geen resultaten vinden voor “{searchTerm}”!",
+		"noResultsSuggestion": "Probeer te zoeken naar een andere zoekterm of verwijder enkele filters.",
+		"validationError": "De zoekopdracht voor “{searchTerm}” is mislukt!",
+		"validationErrorSuggestion": "Fout: “{error}”"
+	},
+	"user": {
+		"title": "Gebruikers",
+		"subtitle": "",
+		"entityName": "gebruiker",
+		"searchBy": {
+			"email": "E-mail",
+			"id": "Gebruikers-ID"
+		},
+		"quickSearch": "Voer e-mailadres of gebruikers-ID in",
+		"recentActivityTitle": "Recente zoekopdrachten"
+	},
+	"subscription": {
+		"title": "Abonnement",
+		"subtitle": "",
+		"entityName": "abonnement",
+		"id": "Abonnements-ID",
+		"searchBy": {
+			"id": "Abonnements-ID",
+			"userId": "Gebruikers-ID"
+		},
+		"quickSearch": "Voer abonnements-ID in",
+		"recentActivityTitle": "Recente zoekopdrachten"
+	},
+	"recentSearchActivity": {
+		"title": "Recente zoekactiviteit"
+	}
+}

@@ -1,0 +1,218 @@
+{
+	"page": {
+		"back": "Torna agli abbonamenti",
+		"reload": "Ricarica dati",
+		"info": {
+			"id": "ID {id}",
+			"internalId": "ID interno {id}",
+			"startDate": "Data di inizio {value}",
+			"nextPaymentDate": "Prossimo pagamento {value}",
+			"order": "Numero d'ordine {value}"
+		},
+		"actions": {
+			"title": "Azioni",
+			"zuora": "Gestisci in Zuora",
+			"switch": "Cambia prodotto/piano",
+			"refund": "Rimborsa abbonamento"
+		}
+	},
+	"userInfo": {
+		"title": "Proprietario dell'abbonamento"
+	},
+	"activationKey": {
+		"title": "Chiave di attivazione",
+		"copy": "Copia",
+		"regenerate": {
+			"title": "Rigenera chiave di attivazione",
+			"confirm": "Sei sicuro di voler rigenerare la chiave di attivazione per questo abbonamento?",
+			"action": "Rigenera",
+			"yes": "Sì",
+			"no": "No"
+		}
+	},
+	"activations": {
+		"title": "Attivazioni({value})",
+		"noData": "Nessun dato disponibile",
+		"header": {
+			"domain": "Dominio",
+			"activationDate": "Data di attivazione",
+			"deactivationDate": "Data di disattivazione",
+			"local": "Locale",
+			"actions": "Azioni"
+		},
+		"deactivate": {
+			"title": "Disattiva {value}",
+			"confirm": "Sei sicuro di voler disattivare questa attivazione?",
+			"action": "Disattiva",
+			"yes": "Sì",
+			"no": "No"
+		},
+		"deactivateAll": {
+			"title": "Disattiva tutto",
+			"confirm": "Sei sicuro di voler disattivare tutte le attivazioni?",
+			"action": "Disattiva tutto",
+			"yes": "Sì",
+			"no": "No"
+		}
+	},
+	"sitesActivations": {
+		"title": "Attivazioni siti web({value})",
+		"noData": "Nessun dato disponibile",
+		"header": {
+			"url": "URL del sito",
+			"connectedDate": "Data di connessione",
+			"actions": "Azioni"
+		},
+		"deactivate": {
+			"title": "Disattiva {value}",
+			"confirm": "Sei sicuro di voler disattivare questo sito?",
+			"action": "Disattiva",
+			"yes": "Sì",
+			"no": "No"
+		}
+	},
+	"downloadHistory": {
+		"title": "Cronologia download({value})",
+		"noData": "Nessun dato disponibile",
+		"header": {
+			"timestamp": "Timestamp",
+			"version": "Versione",
+			"ip": "Indirizzo IP"
+		}
+	},
+	"hostingWebsites": {
+		"title": "Siti web({value})",
+		"noData": "Nessun dato disponibile",
+		"header": {
+			"id": "ID sito",
+			"slug": "Slug",
+			"url": "URL del sito",
+			"status": "Stato",
+			"created": "Creato",
+			"updated": "Aggiornato",
+			"deleted": "Eliminato",
+			"actions": "Azioni"
+		},
+		"delete": {
+			"title": "Elimina {value}",
+			"confirm": "Sei sicuro di voler eliminare questo sito web?",
+			"action": "Elimina",
+			"yes": "Sì",
+			"no": "No"
+		}
+	},
+	"notes": {
+		"title": "Note({value})",
+		"noData": "Nessun dato disponibile",
+		"infoAuthor": "Aggiunto da {author} il {date}",
+		"info": "{date}",
+		"add": "Aggiungi nota",
+		"update": "Aggiorna nota",
+		"delete": "Elimina nota",
+		"dialog": {
+			"addTitle": "Aggiungi nota",
+			"add": "Aggiungi",
+			"updateTitle": "Aggiorna nota",
+			"update": "Aggiorna"
+		}
+	},
+	"refundModal": {
+		"title": "Sei sicuro di voler rimborsare questo abbonamento?",
+		"buttons": {
+			"confirmRefund": "Conferma rimborso"
+		},
+		"refundText": {
+			"CurrentSubscription": "Abbonamento attuale:",
+			"SubscriptionAge": "Età dell'abbonamento:",
+			"Since": "Dal:",
+			"ConfirmingThisProcessWill": "Confermando questo processo:",
+			"UnapplyThepaymentFromTheInvoice": "Disapplicherà il pagamento dalla fattura",
+			"CreateA": "Creerà un",
+			"refundOnZuoraAndACreditMemo": "rimborso su Zuora e una nota di credito",
+			"CancelTheSupbscription": "Cancellerà l'abbonamento",
+			"ReapplyThePaymentToInvoice": "Riapplicherà il pagamento alla fattura",
+			"ApplyTheInvoiceToTheCreditMemo": "Applicherà la fattura alla nota di credito",
+			"Days": "giorni"
+		}
+	},
+	"switch": {
+		"title": "Passa questo abbonamento a un altro prodotto/piano",
+		"info": {
+			"current": "Abbonamento attuale:",
+			"id": "ID abbonamento: {id}",
+			"sku": "SKU: {sku}",
+			"age": "Età dell'abbonamento:",
+			"days": "({count, plural, one {# Giorno} other {# Giorni}})"
+		},
+		"alerts": {
+			"missingData": "Alcuni dati necessari per il cambio mancano! Prova a ricaricare la pagina.",
+			"subCanceled": "L'abbonamento è cancellato e non può essere cambiato.",
+			"over30": "Un abbonamento di oltre 30 giorni non può essere cambiato. Il periodo di rimborso è terminato.",
+			"version2": "L'abbonamento è già stato cambiato/aggiornato. Solo gli abbonamenti versione 1 possono essere cambiati. Controlla Zuora per maggiori dettagli.",
+			"previewFailed": "Il calcolo dell'anteprima del cambio è fallito. Riprova tra poco.",
+			"manyActivation": "Il piano a cui stai cercando di passare offre meno attivazioni/siti web rispetto al piano attuale. ({current}/{available})",
+			"manyTeamMembers": "Il piano a cui stai cercando di passare offre meno membri del team rispetto al piano attuale. ({current}/{available})",
+			"indeterminateQuota": "Impossibile determinare la quota per questo abbonamento! Ricontrolla le attivazioni attuali e il nuovo limite prima di cambiare!",
+			"missingPaymentMethod": "Al proprietario dell'abbonamento mancano le informazioni sul metodo di pagamento predefinito. Riprova dopo che l'utente avrà impostato il suo pagamento predefinito.",
+			"generic": "Qualcosa è andato storto. Riprova tra poco."
+		},
+		"switchResponse": {
+			"title": "Risposta al cambio",
+			"success": {
+				"planMsg": "Piano di abbonamento cambiato con successo da {from} a {to}.",
+				"productMsg": "Prodotto dell'abbonamento cambiato con successo da {from} a {to}."
+			},
+			"error": {
+				"title": "Errore di cambio",
+				"msg": "Il processo di cambio è fallito il {step}. Si prega di riprendere il processo manualmente.",
+				"steps": {
+					"plan": {
+						"generic_error": "Si è verificato un errore durante il processo di cambio del piano",
+						"get_subscription_refund_data": "Ottieni le informazioni di pagamento dell'abbonamento",
+						"change_subscription_plan": "Cambia il piano di abbonamento",
+						"update_invoice": "Aggiorna gli elementi della fattura",
+						"get_required_data": "Prepara i dati richiesti per il rimborso",
+						"unapply_payment": "Rimuovi il pagamento dalla fattura",
+						"refund_payment": "Crea il rimborso",
+						"apply_payment": "Riapplica il pagamento alla fattura",
+						"apply_credit_memo": "Applica la fattura alla nota di credito"
+					},
+					"product": {
+						"generic_error": "Si è verificato un errore durante il processo di cambio piano",
+						"cancel_subscription": "Annulla e rimborsa l'abbonamento attuale",
+						"create_subscription": "Crea un nuovo abbonamento",
+						"update_invoice": "Aggiorna la fattura"
+					}
+				}
+			},
+			"msg": "A causa del cambio di piano/prodotto, si consiglia di ricaricare il backoffice.",
+			"actions": {
+				"refresh": "Aggiorna",
+				"close": "Chiudi"
+			}
+		},
+		"selectLabel": "Seleziona l'azione da eseguire",
+		"refund": "Rimborso completo (emetti un rimborso completo per l'ultimo ordine)",
+		"summary": {
+			"title": "Riepilogo",
+			"from": "Passa da",
+			"to": "Passa a",
+			"refund": "Importo del rimborso",
+			"charge": "Importo dell'addebito"
+		},
+		"product": {
+			"switchOption": "Cambia prodotto",
+			"selectLabel": "Prodotto",
+			"submit": "Cambia prodotto",
+			"itemText": "{productName} - {name} [{sku}]"
+		},
+		"plan": {
+			"switchOption": "Cambia piano",
+			"selectLabel": "Piano",
+			"submit": "Cambia piano",
+			"itemText": "{isDowngrade, select, true { Passa a piano inferiore } other { Passa a piano superiore }} a {name} [{sku}]",
+			"quota": "({um}: {current}/{max})",
+			"quotaOverInfo": "Questo piano non può essere utilizzato a causa del superamento del limite di quota!"
+		}
+	}
+}

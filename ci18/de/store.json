@@ -1,0 +1,130 @@
+{
+    "mainTitle": {
+        "title": "Lass uns deinen Kauf abschließen",
+        "subtitle": "Fast geschafft! Überprüfe deine Rechnungsinformationen und Zahlungsmethodendetails."
+    },
+    "checkoutAccordion": {
+        "signedIn": "Angemeldet",
+        "confirmYourPlan": "Bestätige deinen Plan",
+        "enterBillingInfo": "Gib deine Rechnungsadresse ein",
+        "enterBillingInfoSubtitle": "Dies sind die Informationen, die wir zur Berechnung der Steuern und zum Versenden von Rechnungen für alle deine Abonnements verwenden.",
+        "choosePaymentMethod": "Wähle eine Zahlungsmethode"
+    },
+    "billingInfoForm": {
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "email": "E-Mail für Rechnungsempfang",
+        "companyName": "Firmenname",
+        "vatNumber": "Umsatzsteuer-ID / Steuernummer",
+        "countryCode": "Land / Region",
+        "address1": "Adresse 1",
+        "address2": "Adresse 2",
+        "state": "Bundesland",
+        "city": "Stadt",
+        "zipCode": "Postleitzahl",
+        "continue": "Weiter",
+        "errors": {
+            "defaultErrorMessage": "Bitte geben Sie eine gültige {fieldName} ein.",
+            "firstName": {
+                "required": "Bitte geben Sie Ihren Vornamen ein.",
+                "invalid": "Bitte verwenden Sie nur Buchstaben, Bindestriche und Apostrophe"
+            },
+            "lastName": {
+                "required": "Bitte geben Sie Ihren Nachnamen ein.",
+                "invalid": "Bitte verwenden Sie nur Buchstaben, Bindestriche und Apostrophe"
+            },
+            "address1": {
+                "required": "Bitte geben Sie Ihre Hauptadresse ein.",
+                "invalid": "Die Adresse kann alphanumerische Zeichen und Satzzeichen enthalten."
+            },
+            "address2": {
+                "invalid": "Die Adresse kann alphanumerische Zeichen und Satzzeichen enthalten."
+            },
+            "countryCode": {
+                "required": "Bitte wählen Sie ein Land aus der Liste aus."
+            },
+            "state": {
+                "required": "Bitte wählen Sie ein Bundesland aus der Liste aus."
+            },
+            "city": {
+                "required": "Bitte geben Sie einen Stadtnamen ein.",
+                "invalid": "Der Stadtname sollte nur Buchstaben und Apostrophe enthalten."
+            },
+            "zipCode": {
+                "required": "Bitte geben Sie eine gültige Postleitzahl ein.",
+                "invalid": "Bitte geben Sie eine gültige Postleitzahl ein."
+            },
+            "vatNumber": {
+                "invalid": "Bitte geben Sie eine gültige Umsatzsteuer-ID / Steuernummer ein."
+            }
+        }
+    },
+    "paymentMethods": {
+        "addPaymentMethod": "Zahlungsmethode hinzufügen"
+    },
+    "summary": {
+        "title": "Zusammenfassung",
+        "total": "Gesamt",
+        "subtotal": "Zwischensumme",
+        "vat": "Mehrwertsteuer",
+        "payNow": "Jetzt bezahlen",
+        "yearlyInterval": "{price}/Monat x 12 Monate",
+        "upgradeBalance": "Upgrade-Guthaben",
+        "upgradeSubtractedCost": "Wir haben den verbleibenden Wert deines aktuellen Plans von den Kosten dieses Upgrades abgezogen.",
+        "upgradeNextCycleAmount": "Dein neuer Abrechnungszyklus beginnt heute. In deinem nächsten Abrechnungszyklus zahlst du den vollen Betrag von {amount} / Jahr + Umsatzsteuer / Mehrwertsteuer.",
+        "legalText": "Mit dem Kauf bestätigst du, dass dein Abonnement jährlich erneuert wird, es sei denn, du wechselst zur manuellen Erneuerung.",
+        "ioLegalText": "Mit dem Kauf des Image Optimizer von Elementor stimmst du unseren <0>Image Optimizer Nutzungsbedingungen</0> zu",
+        "siteMailerLegalText": "Mit dem Kauf von Site Mailer von Elementor stimmst du unseren <0>Site Mailer Nutzungsbedingungen</0> zu",
+        "appAccessLegalText": "Mit dem Kauf von Accessibility von Elementor stimmst du unseren <0>Accessibility Nutzungsbedingungen</0> und <1>Datenschutzrichtlinien</1> zu",
+        "priceDisclaimerText": "Sofern nicht anders angegeben, verstehen sich alle $-Preise in USD",
+        "ILSLegalText": "Wenn dein Abonnement ursprünglich in USD gekauft wurde, kannst du durch Kontaktaufnahme mit dem Support auf ILS umstellen. Die aktuellen ILS-Preise findest du auf unserer <0>Preisseite.</0>",
+        "footer": {
+            "securePayment": "Sichere SSL-verschlüsselte Zahlung",
+            "moneyBack": "30-Tage-Geld-zurück-Garantie nur für Pro- oder Hosting-Pläne",
+            "mobileLinks": "Es gelten die <0>Datenschutzrichtlinie</0> und die <1>Nutzungsbedingungen</1>."
+        }
+    },
+    "footer": {
+        "securePayment": "Sichere SSL-verschlüsselte Zahlung",
+        "moneyBack": "30-Tage-Geld-zurück-Garantie nur für Pro- oder Hosting-Pläne",
+        "protectedBy": "Diese Seite wird durch reCAPTCHA geschützt und es gelten die Google <0>Datenschutzrichtlinie</0> und <1>Nutzungsbedingungen</1>."
+    },
+    "paymentFailed": {
+        "title": "Zahlung fehlgeschlagen.",
+        "subtitle": "Entschuldigung, wir können Ihre Zahlung derzeit nicht verarbeiten. Bitte versuchen Sie es später erneut."
+    },
+    "promoCodes": {
+        "invalid": "Der eingegebene Promo-Code ist ungültig.",
+        "generalError": "Es gab ein Problem mit dem Promo-Code. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
+        "duplicate": "Promo-Code bereits angewendet."
+    },
+    "thankYou": {
+        "title": "Vielen Dank für deinen Kauf {firstName}!",
+        "subtitle": "Sobald die Quittung fertig ist, senden wir sie mit den nächsten Schritten an {email}.",
+        "transactionComplete": "Transaktion {invoiceNumber} ist abgeschlossen.",
+        "purchaseDate": "kaufdatum",
+        "renewalDate": "verlängerungsdatum",
+        "vat": "Mehrwertsteuer",
+        "subtotal": "zwischensumme",
+        "discount": "rabatt",
+        "total": "gesamt",
+        "cta": {
+            "primary": {
+                "PLUGIN": "Elementor Pro herunterladen",
+                "APP_IO": "Image Optimizer herunterladen",
+                "APP_AI": "Beginne mit KI zu erstellen",
+                "HOSTING": "Beginne mit der Erstellung deiner Website",
+                "APP_STRATTIC": "Beginne mit der Erstellung deiner Website",
+                "APP_BKP": "Website-Backup-Plugin herunterladen",
+                "APP_MAILER": "Zip herunterladen",
+                "APP_ACCESS": "Zip herunterladen",
+                "APP_SUPPORT": "Support-Center",
+                "HOSTING_TRANSFER_SITE": "Transfer abschließen",
+                "default": "Beginne mit der Erstellung deiner Website"
+            },
+            "secondary": {
+                "APP_SUPPORT": "Ticket einreichen"
+            }
+        }
+    }
+}

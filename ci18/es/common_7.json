@@ -1,0 +1,107 @@
+{
+	"title": "Productos",
+	"apps": {
+		"hosting": "Alojamiento",
+		"ai": "IA",
+		"io": "Optimizador de imágenes",
+		"siteMailer": "Correo del sitio",
+		"plugin": "Elementor Pro",
+		"platinumSupport": "Soporte Platinum"
+	},
+	"plan": "Plan",
+	"generalFetchError": "Algo salió mal al obtener los datos",
+	"generalErrorMessage": "Algo salió mal",
+	"groupRules": {
+		"title": "Reglas de grupo",
+		"noGroupRulesTitle": "No se encontraron reglas de grupo",
+		"activeSubsOnly": "Solo suscripciones activas",
+		"maxActivations": "activaciones máximas",
+		"customerRules": "reglas de cliente",
+		"backButton": "Volver",
+		"noRule": "No se encontró ninguna regla"
+	},
+	"buttons": {
+		"cancelButton": "Cancelar",
+		"deleteButton": "Eliminar",
+		"editButton": "Editar",
+		"saveButton": "Guardar",
+		"createButton": "Crear"
+	},
+	"entitlementRules": {
+		"title": "Reglas de derechos",
+		"createRuleButton": "Crear regla",
+		"updateRuleButton": "Actualizar",
+		"group": "Grupo",
+		"toasterMessages": {
+			"ruleDeletedSuccessfully": "Regla eliminada con éxito",
+			"ruleUpdatedSuccessfully": "Regla actualizada con éxito"
+		},
+		"deleteRuleDialog": {
+			"title": "Eliminar regla",
+			"message": "Esta acción borrará todas las reglas relacionadas con este {appType, select, app_type {producto} group {grupo} plan {plan} other {producto}} y no se puede deshacer. ¿Seguro que quieres continuar?"
+		},
+		"noRuleTitle": "No se encontró ninguna regla",
+		"noRuleDescription": "Este {appType, select, app_type {producto} group {grupo} plan {plan} other {producto}} no tiene ninguna regla de autorización asociada ahora mismo. Anda, crea una nueva.",
+		"productSectionTitle": "Reglas de producto",
+		"planSectionTitle": "Reglas de plan",
+		"form": {
+			"name": "Nombre",
+			"max": "Máximo",
+			"activeOnly": "Solo activos",
+			"customerRules": "Reglas de cliente",
+			"bypassElementorEmployees": "Omitir empleados de Elementor",
+			"customerFields": {
+				"elementorId": "ID de Elementor",
+				"email": "Correo electrónico",
+				"firstName": "Nombre",
+				"lastName": "Apellido",
+				"countryCode": "Código de país",
+				"city": "Ciudad",
+				"state": "Estado",
+				"zipCode": "Código postal",
+				"address1": "Dirección 1",
+				"address2": "Dirección 2",
+				"companyName": "Nombre de la empresa",
+				"vatNumber": "Número de IVA"
+			},
+			"errors": {
+				"customerFieldRequired": "El campo de cliente es obligatorio",
+				"regexRuleRequired": "La regla Regex es obligatoria",
+				"nameFieldRequired": "El nombre es obligatorio"
+			}
+		},
+		"tooltips": {
+			"addCustomerRule": "Agregar regla de cliente",
+			"deleteCustomerRule": "Eliminar regla de cliente"
+		}
+	},
+	"features": {
+		"title": "Características",
+		"toasterMessages": {
+			"featureDeletedSuccessfully": "Característica eliminada con éxito",
+			"featureUpdatedSuccessfully": "Característica actualizada con éxito"
+		},
+		"deleteFeatureDialog": {
+			"title": "Eliminar característica",
+			"message": "Esta acción no se puede revertir. ¿Estás seguro de que quieres continuar?"
+		},
+		"valueTypes": {
+			"string": "Texto",
+			"number": "Numérico",
+			"boolean": "Interruptor"
+		},
+		"createFeatureButton": "Crear característica",
+		"noFeaturesTitle": "No se encontraron características",
+		"noFeaturesDescription": "Este plan actualmente no tiene características asociadas. Por favor, crea una nueva primero.",
+		"form": {
+			"valueType": "Tipo de valor",
+			"featureKey": "Clave de característica",
+			"featureValue": "Valor de característica",
+			"errors": {
+				"featureKeyRequired": "La clave de característica es obligatoria",
+				"featureKeyExists": "La clave ya existe",
+				"featureValueRequired": "El valor de característica es obligatorio"
+			}
+		}
+	}
+}

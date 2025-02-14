@@ -1,0 +1,55 @@
+{
+	"page": {
+		"back": "Zurück zu Benutzern",
+		"reload": "Daten neu laden",
+		"info": {
+			"id": "ID {id}",
+			"emailVerified": "E-Mail bestätigt {value}",
+			"supportLevel": "Support-Level {value}",
+			"newStore": "Neuer Shop {value}",
+			"registeredOn": "Registriert {date}"
+		},
+		"assets": {
+			"websites": "Websites",
+			"subscriptions": "Abonnements"
+		},
+		"subscriptions": {
+			"title": "Abonnements({value})",
+			"empty": "Keine Abonnements gefunden"
+		},
+		"actions": {
+			"title": "Aktionen",
+			"zuora": "In Zuora verwalten",
+			"kustomer": "In Kustomer finden",
+			"switch": "Zu Benutzer wechseln",
+			"wp": "In WooCommerce öffnen"
+		},
+		"userDeletion": {
+			"title": "Gefahrenzone",
+			"button": "Kundeninformationen löschen...",
+			"description": "Diese Aktion anonymisiert Kundeninformationen, kündigt Abonnements, trennt Support-Daten und löscht alle Medien sicher.",
+			"userDeletionInfoModal": {
+				"title": "Kundendaten endgültig löschen?",
+				"alertTitle": "Diese Aktion ist dauerhaft",
+				"alertDescription": "Wenn Sie mit dieser Löschung fortfahren, werden alle kundenbezogenen Daten, wie unten beschrieben, dauerhaft entfernt und anonymisiert. Dies kann nicht rückgängig gemacht werden.",
+				"button": "Löschen",
+				"infoTitle": "Das Löschen von Kundeninformationen wird:",
+				"infoText1": "Alle persönlichen Informationen wie Name und E-Mail werden durch anonymisierte Daten ersetzt.",
+				"infoText2": "Alle aktiven Abonnements und zugehörigen Zahlungsmethoden werden dauerhaft gekündigt.",
+				"infoText3": "Support-Tickets, Protokolle und andere Metadaten werden nicht mehr mit dem Kunden verknüpft.",
+				"infoText4": "Alle gespeicherten Medien, Dateien und Sicherungsdaten zu diesem Kunden werden gelöscht oder anonymisiert.",
+				"checkboxLabel": "Ich verstehe, dass diese Aktion unumkehrbar ist und alle Kundendaten wie beschrieben dauerhaft löscht."
+			},
+			"userDeletionStepsModal": {
+				"title": "Löschung der Kundeninformationen läuft...",
+				"button": "Fertig",
+				"step1": "Anonymisierung der Kundendaten",
+				"step2": "Kündigung der Abonnements",
+				"successTitle": "Kundenlöschung erfolgreich",
+				"successDescription": "Alle Prozesse wurden abgeschlossen.",
+				"errorTitle": "Einige Löschvorgänge konnten nicht abgeschlossen werden",
+				"errorDescription": "Bitte setzen Sie den Vorgang manuell fort."
+			}
+		}
+	}
+}

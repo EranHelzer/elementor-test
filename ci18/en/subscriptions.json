@@ -1,0 +1,29 @@
+{
+    "filter": {
+        "all": "All ({count})",
+        "plugin": "Pro plugin ({count})",
+        "hosting": "Hosting ({count})",
+        "appBkp": "Site backup ({count})",
+        "appAI": "AI ({count})",
+        "appIO": "Image optimizer ({count})",
+        "appMailer": "Site mailer ({count})"
+    },
+    "sort": {
+        "name": "Name",
+        "status": "Status",
+        "dateCreated": " Date created",
+        "upcomingPayment": "Upcoming payment",
+        "asc": "Ascending",
+        "desc": "Descending"
+    },
+    "billing": {
+        "title": "Billing",
+        "billingUsdTooltip": "Unless specified otherwise,\n all $ prices are in USD",
+        "buyNewSubscription": "Buy a new subscription",
+        "tabs": {
+            "subscriptions": "Subscriptions",
+            "billing-details": "Billing details",
+            "services": "Services"
+        }
+    }
+}

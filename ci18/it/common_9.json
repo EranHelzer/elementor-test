@@ -1,0 +1,36 @@
+{
+	"title": "Controversie",
+	"table": {
+		"columns": {
+			"id": "ID",
+			"orderId": "ID Ordine",
+			"disputeId": "ID Controversia",
+			"customerId": "ID Cliente",
+			"agent": "Agente",
+			"status": "Stato",
+			"paymentMethod": "Metodo di Pagamento",
+			"reason": "Motivo",
+			"amount": "Importo",
+			"acceptanceReason": "Motivo di Accettazione",
+			"respondDueDate": "Data di Scadenza per la Risposta",
+			"actions": "Azioni"
+		},
+		"actions": {
+			"accept": "Accetta controversia",
+			"redirect": "Vai alla pagina di pagamento",
+			"export": "Esporta",
+			"downloadAsCSV": "Scarica come CSV"
+		},
+		"acceptDisputeDialog": {
+			"title": "#{rowId} Accetta contestazione",
+			"content": "Sei sicuro di voler accettare questa controversia?",
+			"accept": "Accetta",
+			"cancel": "Annulla"
+		},
+		"messages": {
+			"disputeAccepted": "Controversia accettata",
+			"disputeAcceptanceFailed": "Impossibile accettare la controversia"
+		}
+	},
+	"unknown": "Sconosciuto"
+}

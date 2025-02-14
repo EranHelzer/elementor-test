@@ -1,0 +1,18 @@
+{
+	"greeting": "Hallo {name}",
+	"navigation": {
+		"homepage": "Startpagina",
+		"search": "Zoeken",
+		"users": "Gebruikers",
+		"subscriptions": "Abonnementen",
+		"products": "Producten",
+		"disputes": "Geschillen"
+	},
+	"goHome": "Ga naar startpagina",
+	"401": {
+		"message": "U bent niet gemachtigd om deze pagina te openen."
+	},
+	"404": {
+		"message": "Oeps! De bron die u probeert te benaderen kon niet worden gevonden."
+	}
+}

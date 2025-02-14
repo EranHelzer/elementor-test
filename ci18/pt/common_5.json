@@ -1,0 +1,25 @@
+{
+	"addons": {
+		"title": "Complementos",
+		"subtitle": "Aprimore seu fluxo de trabalho e libere sua criatividade com estes complementos e plugins.",
+		"elementorSection": "Feito pela Elementor",
+		"partnerSection": "Complementos que recomendamos",
+		"filters": {
+			"all": "Todos",
+			"appearance": "Aparência do Site ({count})",
+			"functionality": "Funcionalidade ({count})",
+			"performance": "Desempenho ({count})",
+			"security": "Segurança ({count})",
+			"compliance": "Conformidade ({count})",
+			"marketing": "Ferramentas de Marketing ({count})",
+			"other": "Outro ({count})"
+		},
+		"noFilteredAddons": "Nenhum complemento encontrado",
+		"noFilteredAddonsSub": "",
+		"card": {
+			"by": "Por {author}",
+			"letsgo": "Vamos lá",
+			"comingSoon": "Em breve..."
+		}
+	}
+}

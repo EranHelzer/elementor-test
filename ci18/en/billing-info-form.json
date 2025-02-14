@@ -1,0 +1,50 @@
+{
+    "billingInfoForm": {
+        "labels": {
+            "firstName": "First name",
+            "lastName": "Last name",
+            "email": "Email to receive invoices",
+            "companyName": "Company name",
+            "vatNumber": "VAT number / Tax ID",
+            "countryCode": "Country / Region",
+            "address1": "Address 1",
+            "address2": "Address 2",
+            "state": "State",
+            "city": "City",
+            "zipCode": "Postal / ZIP code"
+        },
+        "errors": {
+            "defaultErrorMessage": "Please enter a valid {fieldName}.",
+            "firstName": {
+                "required": "Please enter your first name.",
+                "invalid": "Please use only letters, hyphens, and apostrophes"
+            },
+            "lastName": {
+                "required": "Please enter your last name.",
+                "invalid": "Please use only letters, hyphens, and apostrophes"
+            },
+            "address1": {
+                "required": "Please enter your primary address.",
+                "invalid": "Address can include alphanumeric characters and punctuation."
+            },
+            "address2": {
+                "invalid": "Address can include alphanumeric characters and punctuation."
+            },
+            "countryCode": {
+                "required": "Please select a country from the list."
+            },
+            "state": {
+                "required": "Please select a state from the list."
+            },
+            "city": {
+                "required": "Please enter a city name.",
+                "invalid": "City name should only contain letters and apostrophes."
+            },
+            "zipCode": {
+                "required": "Please enter a valid postal / Zip code.",
+                "invalid": "Please enter a valid postal / Zip code."
+            }
+        },
+        "noMatch": "No matches found"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "filter": {
+        "all": "Alle ({count})",
+        "plugin": "Pro-plugin ({count})",
+        "hosting": "Hosting ({count})",
+        "appBkp": "Site-backup ({count})",
+        "appAI": "AI ({count})",
+        "appIO": "Afbeeldingsoptimalisatie ({count})",
+        "appMailer": "Site-mailer ({count})"
+    },
+    "sort": {
+        "name": "Naam",
+        "status": "Status",
+        "dateCreated": "Aanmaakdatum",
+        "upcomingPayment": "Volgende betaling",
+        "asc": "Oplopend",
+        "desc": "Aflopend"
+    },
+    "billing": {
+        "title": "Facturering",
+        "billingUsdTooltip": "Tenzij anders vermeld,\n zijn alle $ prijzen in USD",
+        "buyNewSubscription": "Koop een nieuw abonnement",
+        "tabs": {
+            "subscriptions": "Abonnementen",
+            "billing-details": "Factuurgegevens",
+            "services": "Diensten"
+        }
+    }
+}

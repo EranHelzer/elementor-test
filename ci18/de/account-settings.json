@@ -1,0 +1,94 @@
+{
+    "dialog": {
+        "title": "Kontoeinstellungen"
+    },
+    "nav": {
+        "profile": "Mein Profil",
+        "billingDetails": "Rechnungsdetails",
+        "subscriptions": "Abonnements"
+    },
+    "myProfile": {
+        "title": "Mein Profil",
+        "emailChangeExpiredAlertTitle": "Wir konnten die E-Mail-Adresse Ihres Kontos nicht ändern.",
+        "emailChangeExpiredAlertText": "Neue E-Mails müssen innerhalb von 7 Tagen nach der Aktualisierung verifiziert werden. Die aktuelle E-Mail-Adresse Ihres Kontos ist weiterhin {email}.",
+        "nameForm": {
+            "firstName": "Vorname",
+            "lastName": "Nachname",
+            "validation": {
+                "invalidFormat": "Ungültiges Format",
+                "fieldRequired": "{field, select, firstName {Vorname} lastName {Nachname} other {Dieses Feld} } ist erforderlich"
+            },
+            "success": "Name erfolgreich aktualisiert",
+            "error": "Fehler beim Aktualisieren des Namens"
+        },
+        "emailForm": {
+            "email": "{change, select, true {Aktuelle E-Mail} other {E-Mail} }",
+            "newEmail": "Neue E-Mail",
+            "change": "E-Mail ändern",
+            "chip": {
+                "verified": "E-Mail verifiziert",
+                "unverified": "Nicht verifiziert"
+            },
+            "modal": {
+                "title": "Aktualisieren Sie Ihre E-Mail",
+                "email": "Geben Sie eine neue E-Mail-Adresse ein",
+                "emailConfirmation": "Bestätigen Sie die neue E-Mail-Adresse",
+                "tosAgreement": "Ich habe diese Bedingungen gelesen und verstanden.",
+                "updateEmailFormNote": "Was passiert nach der Änderung der E-Mail-Adresse?",
+                "updateEmailChanges": "<li>Als Inhaber der neuen E-Mail-Adresse gewähren Sie dem Besitzer der neuen E-Mail-Adresse vollen Zugriff auf alle Informationen im Dashboard „Mein Elementor“ und den Verlauf der Support-Gespräche.</li><li>Das alte E-Mail-Konto wird keine Systembenachrichtigungen und Hinweise mehr erhalten. Diese werden an die neue E-Mail-Adresse weitergeleitet.</li><li>Sie müssen Ihre neue E-Mail-Adresse validieren, indem Sie die Bestätigungs-E-Mail bestätigen.</li><li>Sie haben keinen Zugriff mehr auf Ihr Konto mit der alten E-Mail-Adresse, sobald der Validierungsprozess abgeschlossen ist.</li>",
+                "confirmationStatement": "Ich bestätige hiermit, dass:",
+                "updateEmailToS": "<li>Ich bin der Besitzer der neuen E-Mail-Adresse (gemäß <btn>Elementors AGB</btn>)</li><li>Ich bin der Besitzer dieses Elementor-Kontos und beantrage die Änderung der E-Mail-Adresse des Kontos.</li>",
+                "save": "Speichern",
+                "cancel": "Abbrechen",
+                "success": {
+                    "emailChangeSuccessTitle": "Sie sind fast fertig!",
+                    "emailChangeSuccessText": "Wir haben eine Verifizierungs-E-Mail an <strongText>{email}</strongText> gesendet.<break/> Es kann einige Minuten dauern, bis sie erscheint, oder überprüfen Sie Ihren Spam-Ordner.",
+                    "whatsNext": "Was als Nächstes zu tun ist:",
+                    "updateEmailNextSteps": "<li>Gehen Sie zu Ihrem Posteingang und verifizieren Sie Ihre neue E-Mail-Adresse. Sobald Sie fertig sind, können Sie die neue E-Mail-Adresse verwenden.</li><li>Die E-Mail-Aktualisierung wird storniert, wenn Sie die neue E-Mail-Adresse nicht innerhalb von 7 Tagen verifizieren.</li><li>Haben Sie sich mit Ihrem Social-Media-Konto angemeldet? Möglicherweise müssen Sie Ihr Passwort aktualisieren.</li>",
+                    "done": "Fertig",
+                    "resendEmail": "E-Mail erneut senden"
+                }
+            },
+            "validation": {
+                "invalidFormat": "Ungültige E-Mail",
+                "fieldRequired": "{field, select, email {Neue E-Mail} emailConfirmation {Neue E-Mail bestätigen} other {Dieses Feld} } ist erforderlich",
+                "emailsDontMatch": "Diese E-Mail-Adressen stimmen nicht überein. Versuchen Sie es erneut."
+            }
+        },
+        "passwordForm": {
+            "password": "Passwort",
+            "change": "Passwort ändern",
+            "modal": {
+                "title": "Ändern Sie Ihr Passwort",
+                "oldPassword": "Aktuelles Passwort",
+                "newPassword": "Neues Passwort",
+                "confirmPassword": "Neues Passwort bestätigen",
+                "save": "Speichern",
+                "cancel": "Abbrechen",
+                "success": "Passwort erfolgreich aktualisiert",
+                "error": "Fehler beim Aktualisieren des Passworts"
+            },
+            "validation": {
+                "fieldRequired": "{field, select, oldPassword {Aktuelles Passwort} newPassword {Neues Passwort} confirmPassword {Neues Passwort bestätigen} other {Dieses Feld} } ist erforderlich",
+                "passwordsDoNotMatch": "Passwörter stimmen nicht überein",
+                "userPasswordRule": "Das Passwort muss mindestens acht Zeichen lang sein und mindestens einen Großbuchstaben, einen Kleinbuchstaben, eine Ziffer und ein Sonderzeichen enthalten.",
+                "oldAsNewPassword": "Das neue Passwort muss sich vom aktuellen Passwort unterscheiden"
+            }
+        }
+    },
+    "billingDetails": {
+        "title": "Rechnungsdetails",
+        "empty": "Keine Rechnungsdetails gefunden"
+    },
+    "subscriptions": {
+        "title": "Abonnements",
+        "tabs": {
+            "subscriptions": "Abonnements",
+            "services": "Dienstleistungen"
+        }
+    },
+    "common": {
+        "billingUsdTooltip": "Sofern nicht anders angegeben,\n sind alle $-Preise in USD",
+        "buyNewSubscription": "Neues Abonnement kaufen"
+    }
+}

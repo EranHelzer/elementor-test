@@ -1,0 +1,77 @@
+{
+  "signIn": {
+    "title": "Bei Elementor anmelden",
+    "titleKit": "Melden Sie sich bei Elementor an, um eine{br} neue Website mit diesem Kit zu erstellen.",
+    "templateTitle": "{template, select, trial {Hol dir deine 7-tägige kostenlose Testversion} other {}}",
+    "templateSubtitle": "{template, select, trial {Keine Kreditkarte erforderlich. Lass uns dich anmelden!} other {}}",
+    "question": "Neu bei Elementor? ",
+    "question2": "Haben Sie noch kein Konto? ",
+    "forgotPassword": "Passwort vergessen?",
+    "successMessage": "Sie sind angemeldet. Willkommen!"
+  },
+  "signUp": {
+    "title": "Lassen Sie uns Ihr {br} Elementor-Konto erstellen.",
+    "titleKit": "{isMobile, select, true {Gute Wahl! Erstelle ein Konto, um dieses Kit zu erhalten.} other {Wir mögen deinen Stil!{br} Erstelle ein Elementor-Konto, um dieses Kit zu erhalten.}}",
+    "subtitle": "Zu Ihrer Sicherheit empfehlen wir die Verwendung einer E-Mail-Adresse{br}, auf die Sie in Zukunft leicht zugreifen können.",
+    "question": "Haben Sie bereits ein Konto? ",
+    "successMessage": "Sie haben sich erfolgreich registriert."
+  },
+  "socialAuthAlert": {
+    "title": "Verwenden Sie Ihr Social-Media-Konto, um die Authentifizierung zu überspringen",
+    "text": "Andernfalls benötigen Sie bei jeder Anmeldung mit Ihrer E-Mail-Adresse einen Verifizierungscode.",
+    "fbBrowser": "Öffnen Sie diese Seite für die beste Erfahrung in Ihrem Standard-Browser",
+    "fbBrowserTitle": "Anmeldung abschließen",
+    "copyLink": "Link kopieren"
+  },
+  "emailForm": {
+    "emailLabel": "Geben Sie Ihre E-Mail-Adresse ein",
+    "passwordLabel": "Passwort",
+    "passwordValidationRule": "Muss mindestens 8 Zeichen lang sein und eine Mischung aus Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen enthalten.",
+    "createAccSubmitText": "Mein Konto erstellen",
+    "emailHelperText": "Wir müssen Ihr Konto verifizieren, also halten Sie diesen Posteingang zugänglich.",
+    "invalidEmailFormat": "Bitte geben Sie eine gültige E-Mail-Adresse ein. Beispiel: username@domain.com",
+    "invalidEmail": "Nach unserer Überprüfung können wir keine E-Mails an diese Adresse senden. Versuchen Sie es mit einer anderen.",
+    "badEmail": "Sie können diese Adresse verwenden, aber wir können sie möglicherweise später nicht verifizieren. Versuchen Sie eine andere.",
+    "emailSuggestion": "Meinten Sie {suggestion}?",
+    "fieldRequired": "Dieses Feld ist erforderlich."
+  },
+  "verifiedEmail": {
+    "success": {
+      "title": "Danke für die Verifizierung Ihrer E-Mail-Adresse",
+      "description": "Sie sind bereit, mit uns großartige Websites zu erstellen.",
+      "buttonText": "Zu Meinem Elementor gehen"
+    },
+    "fail": {
+      "title": "Dieser Link hat nicht funktioniert.",
+      "description": "Melden Sie sich erneut in Ihrem Konto an, um die Verifizierungs-E-Mail erneut zu senden, oder",
+      "buttonText": "kontaktieren Sie den Support"
+    }
+  },
+  "forgotPassword": {
+    "title": "Passwort zurücksetzen",
+    "description": "Bitte geben Sie Ihre E-Mail-Adresse ein, und wir senden Ihnen einen Link zum Zurücksetzen Ihres Passworts.",
+    "emailField": "E-Mail",
+    "resetButton": "Passwort zurücksetzen",
+    "successAlert": "Wir haben Ihnen einen Link zum Zurücksetzen Ihres Passworts gesendet.",
+    "failureAlert": "Ungültiger Benutzername oder E-Mail-Adresse."
+  },
+  "resetPassword": {
+    "title": "Passwort zurücksetzen",
+    "description": "Geben Sie Ihr neues Passwort ein, und Sie können loslegen.",
+    "passwordField": "Neues Passwort eingeben",
+    "savePasswordButton": "Passwort speichern",
+    "resetSuccess": "Ihr Passwort wurde zurückgesetzt."
+  },
+  "totp": {
+    "title": "Lassen Sie uns Ihr Konto verifizieren.",
+    "description": "Wir haben einen Verifizierungscode an die E-Mail-Adresse gesendet, die mit diesem Elementor Konto verbunden ist.",
+    "verificationCode": "Geben Sie den 6-stelligen Code ein:",
+    "verifyAccount": "Mein Konto verifizieren",
+    "resendCode": "Code erneut senden",
+    "sendToEmail": "An eine andere E-Mail-Adresse senden",
+    "whereCode": "Wo ist mein Code?",
+    "checkSpam": "Überprüfen Sie Ihren Spam-Ordner.",
+    "emailDelay": "Es kann einige Minuten dauern, bis die E-Mail angezeigt wird.",
+    "codeSent": "Verifizierungscode gesendet"
+  }
+}

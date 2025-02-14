@@ -1,0 +1,55 @@
+{
+	"page": {
+		"back": "Torna agli utenti",
+		"reload": "Ricarica dati",
+		"info": {
+			"id": "ID {id}",
+			"emailVerified": "Email verificato {value}",
+			"supportLevel": "Livello di supporto {value}",
+			"newStore": "Nuovo negozio {value}",
+			"registeredOn": "Registrato {date}"
+		},
+		"assets": {
+			"websites": "Siti web",
+			"subscriptions": "Abbonamenti"
+		},
+		"subscriptions": {
+			"title": "Abbonamenti({value})",
+			"empty": "Nessun abbonamento trovato"
+		},
+		"actions": {
+			"title": "Azioni",
+			"zuora": "Gestisci in Zuora",
+			"kustomer": "Trova su Kustomer",
+			"switch": "Passa all'utente",
+			"wp": "Apri in WooCommerce"
+		},
+		"userDeletion": {
+			"title": "Zona pericolosa",
+			"button": "Elimina informazioni cliente...",
+			"description": "Questa azione rende anonime le informazioni del cliente, cancella gli abbonamenti, dissocia i dati di supporto ed elimina in modo sicuro tutti i media.",
+			"userDeletionInfoModal": {
+				"title": "Eliminare definitivamente i dati del cliente?",
+				"alertTitle": "Questa azione è permanente",
+				"alertDescription": "Procedere con questa eliminazione rimuoverà permanentemente e renderà anonimi tutti i dati relativi al cliente come descritto di seguito. Questa azione non può essere annullata.",
+				"button": "Elimina",
+				"infoTitle": "L'eliminazione delle informazioni del cliente:",
+				"infoText1": "Tutte le informazioni personali come nome ed email saranno sostituite con dati anonimi.",
+				"infoText2": "Qualsiasi abbonamento attivo e metodo di pagamento associato sarà cancellato permanentemente.",
+				"infoText3": "I ticket di supporto, i log e altri metadati non saranno più collegati al cliente.",
+				"infoText4": "Tutti i media, i file e i dati di backup relativi a questo cliente saranno eliminati o resi anonimi.",
+				"checkboxLabel": "Comprendo che questa azione è irreversibile e cancellerà permanentemente tutti i dati del cliente come descritto."
+			},
+			"userDeletionStepsModal": {
+				"title": "Eliminazione delle informazioni del cliente in corso...",
+				"button": "Fatto",
+				"step1": "Anonimizzazione dei dati del cliente",
+				"step2": "Cancellazione degli abbonamenti",
+				"successTitle": "Eliminazione del cliente completata con successo",
+				"successDescription": "Tutti i processi sono stati completati.",
+				"errorTitle": "Alcune azioni di eliminazione non sono state completate",
+				"errorDescription": "Si prega di riprendere il processo manualmente."
+			}
+		}
+	}
+}

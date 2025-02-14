@@ -1,0 +1,43 @@
+{
+	"advancedSearch": "Pesquisa avançada",
+	"searchBar": {
+		"searchByBtn": "Pesquisar por {value}",
+		"searchBy": "Pesquisar por",
+		"search": "Pesquisar",
+		"quickSearch": "Pesquisa rápida"
+	},
+    "searchState": {
+		"startSearchingTitle": "Iniciar pesquisa",
+		"startSearching": "Selecione um termo para encontrar o {entity}!",
+		"noResults": "Não encontramos nenhum resultado para “{searchTerm}”!",
+		"noResultsSuggestion": "Tente pesquisar por um termo diferente ou remova alguns filtros.",
+		"validationError": "A pesquisa por “{searchTerm}” falhou!",
+		"validationErrorSuggestion": "Erro: “{error}”"
+	},
+	"user": {
+		"title": "Usuários",
+		"subtitle": "",
+		"entityName": "usuário",
+		"searchBy": {
+			"email": "E-mail",
+			"id": "ID do usuário"
+		},
+		"quickSearch": "Digite o endereço de e-mail ou ID do usuário",
+		"recentActivityTitle": "Pesquisas recentes"
+	},
+	"subscription": {
+		"title": "Assinatura",
+		"subtitle": "",
+		"entityName": "assinatura",
+		"id": "ID da assinatura",
+		"searchBy": {
+			"id": "ID da assinatura",
+			"userId": "ID do usuário"
+		},
+		"quickSearch": "Digite o ID da assinatura",
+		"recentActivityTitle": "Pesquisas recentes"
+	},
+	"recentSearchActivity": {
+		"title": "Atividade de pesquisa recente"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"addons": {
+		"title": "Add-ons",
+		"subtitle": "Enhance your workflow and unleash your creativity with these add-ons and plugins.",
+		"elementorSection": "Made by Elementor",
+		"partnerSection": "Add-ons we recommend",
+		"filters": {
+			"all": "All",
+			"appearance": "Site Appearance ({count})",
+			"functionality": "Functionality ({count})",
+			"performance": "Performance ({count})",
+			"security": "Security ({count})",
+			"compliance": "Compliance ({count})",
+			"marketing": "Marketing Tools ({count})",
+			"other": "Other ({count})"
+		},
+		"noFilteredAddons": "No add-ons found",
+		"noFilteredAddonsSub": "",
+		"card": {
+			"by": "By {author}",
+			"letsgo": "Let's go",
+			"comingSoon": "Coming soon..."
+		}
+	}
+}

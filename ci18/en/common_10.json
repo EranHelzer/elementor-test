@@ -1,0 +1,218 @@
+{
+	"page": {
+		"back": "Back to subscriptions",
+		"reload": "Reload data",
+		"info": {
+			"id": "ID {id}",
+			"internalId": "Internal ID {id}",
+			"startDate": "Start date {value}",
+			"nextPaymentDate": "Next payment {value}",
+			"order": "Order number {value}"
+		},
+		"actions": {
+			"title": "Actions",
+			"zuora": "Manage in Zuora",
+			"switch": "Switch product/plan",
+			"refund": "Refund subscription"
+		}
+	},
+	"userInfo": {
+		"title": "Subscription owner"
+	},
+	"activationKey": {
+		"title": "Activation key",
+		"copy": "Copy",
+		"regenerate": {
+			"title": "Regenerate activation key",
+			"confirm": "Are you sure you want to regenerate the activation key for this subscription?",
+			"action": "Regenerate",
+			"yes": "Yes",
+			"no": "No"
+		}
+	},
+	"activations": {
+		"title": "Activations({value})",
+		"noData": "No data available",
+		"header": {
+			"domain": "Domain",
+			"activationDate": "Activation date",
+			"deactivationDate": "Deactivation date",
+			"local": "Local",
+			"actions": "Actions"
+		},
+		"deactivate": {
+			"title": "Deactivate {value}",
+			"confirm": "Are you sure you want to deactivate this activation?",
+			"action": "Deactivate",
+			"yes": "Yes",
+			"no": "No"
+		},
+		"deactivateAll": {
+			"title": "Deactivate all",
+			"confirm": "Are you sure you want to deactivate all activations?",
+			"action": "Deactivate all",
+			"yes": "Yes",
+			"no": "No"
+		}
+	},
+	"sitesActivations": {
+		"title": "Websites Activations({value})",
+		"noData": "No data available",
+		"header": {
+			"url": "Site URL",
+			"connectedDate": "Connected date",
+			"actions": "Actions"
+		},
+		"deactivate": {
+			"title": "Deactivate {value}",
+			"confirm": "Are you sure you want to deactivate this site?",
+			"action": "Deactivate",
+			"yes": "Yes",
+			"no": "No"
+		}
+	},
+	"downloadHistory": {
+		"title": "Download history({value})",
+		"noData": "No data available",
+		"header": {
+			"timestamp": "Timestamp",
+			"version": "Version",
+			"ip": "IP address"
+		}
+	},
+	"hostingWebsites": {
+		"title": "Websites({value})",
+		"noData": "No data available",
+		"header": {
+			"id": "Site ID",
+			"slug": "Slug",
+			"url": "Site URL",
+			"status": "Status",
+			"created": "Created",
+			"updated": "Updated",
+			"deleted": "Deleted",
+			"actions": "Actions"
+		},
+		"delete": {
+			"title": "Delete {value}",
+			"confirm": "Are you sure you want to delete this website?",
+			"action": "Delete",
+			"yes": "Yes",
+			"no": "No"
+		}
+	},
+	"notes": {
+		"title": "Notes({value})",
+		"noData": "No data available",
+		"infoAuthor": "Added by {author} at {date}",
+		"info": "{date}",
+		"add": "Add note",
+		"update": "Update note",
+		"delete": "Delete note",
+		"dialog": {
+			"addTitle": "Add note",
+			"add": "Add",
+			"updateTitle": "Update note",
+			"update": "Update"
+		}
+	},
+	"refundModal": {
+		"title": "Are you sure you want to refund this subscription?",
+		"buttons": {
+			"confirmRefund": "Confirm Refund"
+		},
+		"refundText": {
+			"CurrentSubscription": "Current Subscription:",
+			"SubscriptionAge": "Subscription Age:",
+			"Since": "Since:",
+			"ConfirmingThisProcessWill": "Confirming this process will:",
+			"UnapplyThepaymentFromTheInvoice": "Unapply the payment from the invoice",
+			"CreateA": "Create a",
+			"refundOnZuoraAndACreditMemo": "refund on Zuora and a credit memo",
+			"CancelTheSupbscription": "Cancel the subscription",
+			"ReapplyThePaymentToInvoice": "Reapply the payment to invoice",
+			"ApplyTheInvoiceToTheCreditMemo": "Apply the invoice to the credit memo",
+			"Days": "days"
+		}
+	},
+	"switch": {
+		"title": "Switch this subscription to another product/plan",
+		"info": {
+			"current": "Current subscription:",
+			"id": "Subscription ID: {id}",
+			"sku": "SKU: {sku}",
+			"age": "Subscription age:",
+			"days": "({count, plural, one {# Day} other {# Days}})"
+		},
+		"alerts": {
+			"missingData": "Some data required for switch is missing! Try refreshing the page.",
+			"subCanceled": "The subscription is canceled and it cannot be switched. ",
+			"over30": "A subscription over 30 days cannot be switched. Money back period has ended.",
+			"version2": "The subscription has already been switched/updated. Only version 1 subscriptions can be switched. Check Zuora for more details.",
+			"previewFailed": "Computing a switch preview failed. Please try again in a bit.",
+			"manyActivation": "The plan you’re trying to switch to offers fewer activations/websites than the current plan. ({current}/{available})",
+			"manyTeamMembers": "The plan you’re trying to switch to offers fewer team members than the current plan. ({current}/{available})",
+			"indeterminateQuota": "Could not determine quota for this subscription! Double check the current activations and the new limit before switching!",
+			"missingPaymentMethod": "The subscription owner is missing the default payment method information. Try again once the user sets its default payment.",
+			"generic": "Something went wrong. Please try again in a bit."
+		},
+		"switchResponse": {
+			"title": "Switch response",
+			"success": {
+				"planMsg": "Subscription plan switched successfully from {from} to {to}.",
+				"productMsg": "Subscription product switched successfully from {from} to {to}."
+			},
+			"error": {
+				"title": "Switch error",
+				"msg": "The switch process failed at {step}. Please resume the process manually.",
+				"steps": {
+					"plan": {
+						"generic_error": "An error occurred during the plan switch process",
+						"get_subscription_refund_data": "Get the subscription payment information",
+						"change_subscription_plan": "Change the subscription plan",
+						"update_invoice": "Update the invoice items",
+						"get_required_data": "Prepare refund required data",
+						"unapply_payment": "Unapply the Payment from the Invoice",
+						"refund_payment": "Create the Refund",
+						"apply_payment": "Reapply the Payment to the Invoice",
+						"apply_credit_memo": "Apply the Invoice to the Credit Memo"
+					},
+					"product": {
+						"generic_error": "An error occurred during the plan switch process",
+						"cancel_subscription": "Cancel and refund the current subscription",
+						"create_subscription": "Create a new subscription",
+						"update_invoice": "Update the invoice"
+					}
+				}
+			},
+			"msg": "Due to plan/product switch, it is recommended to reload the backoffice.",
+			"actions": {
+				"refresh": "Refresh",
+				"close": "Close"
+			}
+		},
+		"selectLabel": "Select the action to perform",
+		"refund": "Full refund (issue a full refund for the last order)",
+		"summary": {
+			"title": "Summary",
+			"from": "Switch from",
+			"to": "Switch to",
+			"refund": "Refund amount",
+			"charge": "Charge amount"
+		},
+		"product": {
+			"switchOption": "Switch product",
+			"selectLabel": "Product",
+			"submit": "Switch product",
+			"itemText": "{productName} - {name} [{sku}]"
+		},
+		"plan": {
+			"switchOption": "Switch plan",
+			"selectLabel": "Plan",
+			"submit": "Switch plan",
+			"itemText": "{isDowngrade, select, true { Downgrade } other { Upgrade }} to {name} [{sku}]",
+			"quota": "({um}: {current}/{max})",
+			"quotaOverInfo": "This plan cannot be used due to passing the quota limit!"
+		}
+	}
+}

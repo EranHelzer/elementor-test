@@ -1,0 +1,30 @@
+{
+	"greeting": "Olá, {user}!",
+	"downloads": "Downloads",
+	"myProfile": "Meu perfil",
+	"logOut": "Sair",
+	"websites": "Sites",
+	"billing": "Faturamento",
+	"services": "Serviços",
+	"teams": "Equipes",
+	"business": "Marca e Negócio",
+	"support-center": "Central de suporte",
+	"add-ons": "Complementos",
+	"affiliate": "Afiliado",
+	"new-nav": "Novo",
+	"beta-nav": "Beta",
+	"platinum-support": "Suporte premium",
+	"support": "Suporte",
+	"userMenu": {
+		"settings": "Configurações da conta",
+		"profile": "Meu perfil",
+		"billingDetails": "Detalhes de faturamento",
+		"subscriptions": "Assinaturas",
+		"languages": {
+			"en": "Inglês",
+			"es": "Espanhol",
+			"fr": "Francês"
+		},
+		"logout": "Sair"
+	}
+}

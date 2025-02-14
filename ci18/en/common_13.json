@@ -1,0 +1,18 @@
+{
+	"greeting": "Hi {name}",
+	"navigation": {
+		"homepage": "Homepage",
+		"search": "Search",
+		"users": "Users",
+		"subscriptions": "Subscriptions",
+		"products": "Products",
+		"disputes": "Disputes"
+	},
+	"goHome": "Go to homepage",
+	"401": {
+		"message": "You are not authorized to access this page."
+	},
+	"404": {
+		"message": "Ups! The resource you are trying to access couldn't be found."
+	}
+}

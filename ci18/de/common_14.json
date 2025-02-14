@@ -1,0 +1,13 @@
+{
+	"greeting": "Hallo {name}",
+	"footer": {
+		"copyRights": "© {year} Alle Rechte vorbehalten.",
+		"terms": "Nutzungsbedingungen",
+		"privacy": "Datenschutzrichtlinie"
+	},
+	"errorPage": {
+		"message": "Donnerwetter! Sie sind auf einen Serverfehler gestoßen.",
+		"hint": "Versuchen Sie, erneut eine Verbindung herzustellen",
+		"code": "Fehlercode: {code}"
+	}
+}

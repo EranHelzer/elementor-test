@@ -1,0 +1,182 @@
+{
+    "ELEMENTOR-SERVICES-SETUP-01": {
+        "name": "Initial Site Setup",
+        "summary": "Our experts guide you through Elementor, WordPress, templates, and more.",
+        "description": "Need help setting up your website? Let our experts guide you through using Elementor and WordPress, customizing templates, creating pages, utilizing widgets and more.",
+        "extra": [
+            "Personalized onboarding for Elementor & WordPress",
+            "Custom template setup",
+            "Interactive video training session",
+            "Branded template kit",
+            "Basic training on Elementor functionalities",
+            "Revisions - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-MIGRATION-01": {
+        "name": "Site Migration",
+        "summary": "Seamlessly transfer your site to Elementor Hosting with expert assistance.",
+        "description": "Move your site from any hosting provider to Elementor Hosting with reliable support and minimal downtime. Our standard service covers every step to ensure a smooth transfer process.",
+        "extra": [
+            "Pre-migration planning and compatibility checks",
+            "Complete website data transfer",
+            "Continuous communication",
+            "Comprehensive testing post-migration",
+            "Revisions - 1",
+            "Completion within 3 business days (for faster migration see Priority Site Migration)",
+            "Note: This service is only available for Elementor Hosting websites."
+        ]
+    },
+    "ELEMENTOR-SERVICES-MALWARE-01": {
+        "name": "Malware Cleanup",
+        "summary": "Our Elementor and WordPress experts will help you clean up any malware threats on your site.",
+        "description": "Worried your site was infected by malware? Our experts will help you clean up any possible threat. We quickly identify risks, implement site locks, and perform a thorough cleanup.",
+        "extra": [
+            "Identification and isolation of malware threats",
+            "Comprehensive cleanup of infected files and databases",
+            "Implementation of protective measures, including site locks",
+            "Detailed report on malware removal",
+            "Revisions - 1",
+            "Note: This service is ONLY available for Elementor Hosting websites"
+        ]
+    },
+    "ELEMENTOR-SERVICES-EXIT-01": {
+        "name": "Exit-Intent Popup",
+        "summary": "Create effective exit-intent popups to retain users on your site.",
+        "description": "Exit-intent popups appear when a user is about to leave your site. Our experts will help you create effective popups with the right triggers.",
+        "extra": [
+            "Design and development of a visually appealing, brand-aligned popup",
+            "Custom graphics, typography, and layout",
+            "Technical setup and website integration",
+            "Tailored recommendations to enhance popup effectiveness",
+            "User behavior trigger integration",
+            "Revisions - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-LEADS-01": {
+        "name": "Boost Conversions",
+        "summary": "Are you ready to get more conversions? Our Boost Conversions service helps you set up a high-converting site that attracts leads and drives sales.",
+        "description": "Ready to get more conversions? Our team will enhance your website with tailored services—engaging pop-ups, seamless form integrations, or Google Analytics setup. This ensures you can capture leads effectively and make data-driven decisions to boost your conversion rates.Choose one of these services:",
+        "extra": [
+            "Exit Intent Popup",
+            "Lead collection Popup",
+            "Form Integration",
+            "Connect Google Analytics"
+        ]
+    },
+    "ELEMENTOR-SERVICES-FORMS-01": {
+        "name": "Form Integration",
+        "summary": "Easily integrate your favorite marketing or CRM platform with WordPress and Elementor.",
+        "description": "Get help integrating your favorite marketing platform to WordPress and Elementor. The list of marketing platforms include Mailchimp, MailerLite, ActiveCampaign, GetResponse, Google Sheets, Drip and Convertkit.",
+        "extra": [
+            "Integration with major email marketing platforms",
+            "Automated email responses setup",
+            "Subscriber segmentation for targeted campaigns",
+            "Detailed testing and QA",
+            "Form customization",
+            "Revisions - 2"
+        ]
+    },
+    "ELEMENTOR-SERVICES-GOOGLE-01": {
+        "name": "Google Analytics Setup",
+        "summary": "Get hands-on, real-time assistance with integrating Google Analytics into your Elementor site.",
+        "description": "Get the insights you need to make data-driven decisions with our Google Analytics Setup service. We’ll make sure it’s set up right so you can track what matters most.",
+        "extra": [
+            "Expert guidance",
+            "Personalized setup",
+            "Full integration",
+            "Enhanced data insights"
+        ]
+    },
+    "ELEMENTOR-SERVICES-RESPONSIVE-01": {
+        "name": "Responsive Design Setup",
+        "summary": "Ensure your Elementor site looks great on mobile and tablet.",
+        "description": "Make sure your Elementor site looks great on any device with our Responsive Design Setup service. We optimize up to 5 pages to ensure a smooth, responsive experience on mobile and tablet.",
+        "extra": [
+            "Improved readability",
+            "Optimized navigation",
+            "Seamless user experience",
+            "One-time revision"
+        ]
+    },
+    "ELEMENTOR-SERVICES-CREATION-01": {
+        "name": "Landing Page Creation",
+        "summary": "Boost conversions with a professionally designed landing page.",
+        "description": "Drive more conversions with a professionally designed landing page. We’ll customize one of our stunning templates to match your brand and captivate your audience from the first click.",
+        "extra": [
+            "Professional quality",
+            "Template selection",
+            "Custom Branding",
+            "Mobile-responsive",
+            "One-time revision"
+        ]
+    },
+    "ELEMENTOR-SERVICES-LINK-01": {
+        "name": "Link in Bio Setup",
+        "summary": "Simplify your online presence with a custom \"Link in Bio\" page.",
+        "description": "Connect with your audience across all platforms with a custom-designed Link in Bio page. It’s your one-stop hub, optimized for every device.",
+        "extra": [
+            "Link integration",
+            "Template selection",
+            "Brand consistency",
+            "Enhanced engagement",
+            "One-time revision"
+        ]
+    },
+    "ELEMENTOR-SERVICES-TRAINING-01": {
+        "name": "Tailored Elementor Training",
+        "summary": "Boost your Elementor skills with a personalized, hands-on 60-minutes training session.",
+        "description": "Take your Elementor skills to the next level with our personalized, hands-on training sessions. These one-hour video calls are customized just for you, helping you master the key features of Elementor.",
+        "extra": [
+            "60-minute training session",
+            "Expert guidance",
+            "Flexible scheduling",
+            "Post-session resources"
+        ]
+    },
+    "ELEMENTOR-SERVICES-UPDATE-01": {
+        "name": "Site Update",
+        "summary": "Ensure your site runs smoothly with the latest WordPress, theme, and plugin updates.",
+        "description": "Keep your Elementor site running smoothly with our all-inclusive update service. We handle everything from backups to live updates, so you don’t have to worry.",
+        "extra": [
+            "Up-to-date plugins and themes",
+            "Full site backup",
+            "Thorough testing",
+            "One-time revision"
+        ]
+    },
+    "ELEMENTOR-SERVICES-REMOVAL-01": {
+        "name": "Comment Spam Removal",
+        "summary": "Eliminate unwanted spam and enjoy a clean comment section.",
+        "description": "Say goodbye to spam and keep your website looking professional with our Spam Removal service. We clean up your comment section to boost performance and user experience.",
+        "extra": [
+            "Thorough cleanup",
+            "Enhanced performance",
+            "Better user experience",
+            "One-time revision"
+        ]
+    },
+    "ELEMENTOR-SERVICES-CONSULTATION-01": {
+        "name": "Specific Issue Consultation",
+        "summary": "Get personalized support through a one-on-one consultation with one of our experts.",
+        "description": "Get the answers you need with a 45-minute one-on-one video call. Our experts are here to help you elevate your Elementor site and achieve your goals.",
+        "extra": [
+            "Dedicated support",
+            "Customization tips",
+            "Expert insights",
+            "Tailored recommendations"
+        ]
+    },
+    "ELEMENTOR-SERVICES-PRIORITY-01": {
+        "name": "Priority Site Migration",
+        "summary": "Fast-track your site migration with priority service. Migration completed within 1 business day.",
+        "description": "Our Priority Site Migration service offers an accelerated transfer of your site from any hosting provider to Elementor Hosting with expert-level support and minimal downtime. Enjoy a streamlined process with:",
+        "extra": [
+            "Pre-migration planning and compatibility checks",
+            "Complete website data transfer",
+            "Continuous communication",
+            "Comprehensive testing post-migration",
+            "Revisions - 1",
+            "Note: This service is ONLY available for Elementor Hosting websites"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+  "signIn": {
+    "title": "Sign in to Elementor",
+    "titleKit": "Sign into Elementor to create a{br} new website with this Kit.",
+    "templateTitle": "{template, select, trial {Claim Your 7-Day Free Trial} other {}}",
+    "templateSubtitle": "{template, select, trial {No credit card required. Let's get you signed up!} other {}}",
+    "question": "New to Elementor? ",
+    "question2": "Don't have an account? ",
+    "forgotPassword": "Forgot your Password?",
+    "successMessage": "You're signed in. Welcome!"
+  },
+  "signUp": {
+    "title": "Let's create your {br} Elementor account.",
+    "titleKit": "{isMobile, select, true {Nice choice! Create an account to get this Kit.} other {We like your style!{br} Create an Elementor account to get this Kit.}}",
+    "subtitle": "For your security, we recommend using an email{br} that you'll have easy access to in the future.",
+    "question": "Already have an account? ",
+    "successMessage": "You have successfully registered."
+  },
+  "socialAuthAlert": {
+    "title": "Use your social account to skip authentication",
+    "text": "Otherwise, you'll need a verification code every time you sign in with your email.",
+    "fbBrowser": "For the best experience, open this page in your default browser",
+    "fbBrowserTitle": "Finish signing in",
+    "copyLink": "Copy link"
+  },
+  "emailForm": {
+    "emailLabel": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordValidationRule": "Must be 8+ characters with a mix of upper/lower case, numbers, and special characters.",
+    "createAccSubmitText": "Create my account",
+    "emailHelperText": "We'll need to verify your account, so keep this inbox accessible.",
+    "invalidEmailFormat": "Please enter a valid email address. Example: username@domain.com",
+    "invalidEmail": "After checking it out, we can't deliver emails to that address. Try a different one.",
+    "badEmail": "You can use this address, but we might not be able to verify it later. Try a different one.",
+    "emailSuggestion": "Did you mean {suggestion}?",
+    "fieldRequired": "The field is required."
+  },
+  "verifiedEmail": {
+    "success": {
+      "title": "Thanks for verifying your email",
+      "description": "You're all set to start building awesome sites with us.",
+      "buttonText": "Go to My Elementor"
+    },
+    "fail": {
+      "title": "That link didn't work.",
+      "description": "Log back into your account to resend the verification email or",
+      "buttonText": "contact support"
+    }
+  },
+  "forgotPassword": {
+    "title": "Reset Your Password",
+    "description": "Please enter your email and we'll send you a link that will reset your password.",
+    "emailField": "Email",
+    "resetButton": "Reset Password",
+    "successAlert": "We sent you a link that will reset your password.",
+    "failureAlert": "Invalid username or email."
+  },
+  "resetPassword": {
+    "title": "Reset password",
+    "description": "Enter your new password, and you're good to go.",
+    "passwordField": "Enter new password",
+    "savePasswordButton": "Save Password",
+    "resetSuccess": "Your password has been reset."
+  },
+  "totp": {
+    "title": "Let's verify your account.",
+    "description": "We sent a verification code to the email address that's connected to this Elementor account.",
+    "verificationCode": "Enter the 6-digit code:",
+    "verifyAccount": "Verify my account",
+    "resendCode": "Resend the code",
+    "sendToEmail": "Send to a different email",
+    "whereCode": "Where's my code?",
+    "checkSpam": "Check your spam folder.",
+    "emailDelay": "The email might take a few minutes to appear.",
+    "codeSent": "Verification code sent"
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "billingInfoForm": {
+        "labels": {
+            "firstName": "Nome",
+            "lastName": "Sobrenome",
+            "email": "E-mail para receber faturas",
+            "companyName": "Nome da empresa",
+            "vatNumber": "Número de IVA / Identificação fiscal",
+            "countryCode": "País / Região",
+            "address1": "Endereço 1",
+            "address2": "Endereço 2",
+            "state": "Estado",
+            "city": "Cidade",
+            "zipCode": "Código postal / CEP"
+        },
+        "errors": {
+            "defaultErrorMessage": "Por favor, insira um {fieldName} válido.",
+            "firstName": {
+                "required": "Por favor, insira seu nome.",
+                "invalid": "Por favor, use apenas letras, hífens e apóstrofos"
+            },
+            "lastName": {
+                "required": "Por favor, insira seu sobrenome.",
+                "invalid": "Por favor, use apenas letras, hífens e apóstrofos"
+            },
+            "address1": {
+                "required": "Por favor, insira seu endereço principal.",
+                "invalid": "O endereço pode incluir caracteres alfanuméricos e pontuação."
+            },
+            "address2": {
+                "invalid": "O endereço pode incluir caracteres alfanuméricos e pontuação."
+            },
+            "countryCode": {
+                "required": "Por favor, selecione um país da lista."
+            },
+            "state": {
+                "required": "Por favor, selecione um estado da lista."
+            },
+            "city": {
+                "required": "Por favor, insira o nome da cidade.",
+                "invalid": "O nome da cidade deve conter apenas letras e apóstrofos."
+            },
+            "zipCode": {
+                "required": "Por favor, insira um código postal / CEP válido.",
+                "invalid": "Por favor, insira um código postal / CEP válido."
+            }
+        },
+        "noMatch": "Nenhuma correspondência encontrada"
+    }
+}

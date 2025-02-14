@@ -1,0 +1,130 @@
+{
+    "mainTitle": {
+        "title": "Let's complete your purchase",
+        "subtitle": "Almost there! Review your billing info and payment method details."
+    },
+    "checkoutAccordion": {
+        "signedIn": "Signed in",
+        "confirmYourPlan": "Confirm your plan",
+        "enterBillingInfo": "Enter your billing address",
+        "enterBillingInfoSubtitle": "This is the information we use to calculate tax and send invoices for all your subscriptions.",
+        "choosePaymentMethod": "Choose a payment method"
+    },
+    "billingInfoForm": {
+        "firstName": "First name",
+        "lastName": "Last name",
+        "email": "Email to receive invoices",
+        "companyName": "Company name",
+        "vatNumber": "VAT number / Tax ID",
+        "countryCode": "Country / Region",
+        "address1": "Address 1",
+        "address2": "Address 2",
+        "state": "State",
+        "city": "City",
+        "zipCode": "Postal / ZIP code",
+        "continue": "Continue",
+        "errors": {
+            "defaultErrorMessage": "Please enter a valid {fieldName}.",
+            "firstName": {
+                "required": "Please enter your first name.",
+                "invalid": "Please use only letters, hyphens, and apostrophes"
+            },
+            "lastName": {
+                "required": "Please enter your last name.",
+                "invalid": "Please use only letters, hyphens, and apostrophes"
+            },
+            "address1": {
+                "required": "Please enter your primary address.",
+                "invalid": "Address can include alphanumeric characters and punctuation."
+            },
+            "address2": {
+                "invalid": "Address can include alphanumeric characters and punctuation."
+            },
+            "countryCode": {
+                "required": "Please select a country from the list."
+            },
+            "state": {
+                "required": "Please select a state from the list."
+            },
+            "city": {
+                "required": "Please enter a city name.",
+                "invalid": "City name should only contain letters and apostrophes."
+            },
+            "zipCode": {
+                "required": "Please enter a valid postal / Zip code.",
+                "invalid": "Please enter a valid postal / Zip code."
+            },
+            "vatNumber": {
+                "invalid": "Please enter a valid VAT number / Tax ID."
+            }
+        }
+    },
+    "paymentMethods": {
+        "addPaymentMethod": "Add payment method"
+    },
+    "summary": {
+        "title": "Summary",
+        "total": "Total",
+        "subtotal": "Subtotal",
+        "vat": "VAT",
+        "payNow": "Pay now",
+        "yearlyInterval": "{price}/mo x 12 months",
+        "upgradeBalance": "Upgrade balance",
+        "upgradeSubtractedCost": "We've subtracted the remaining value of your current plan from the cost of this upgrade.",
+        "upgradeNextCycleAmount": "Your new billing cycle starts today, in your next billing cycle you'll pay the full {amount} / year + sales tax / VAT.",
+        "legalText": "By purchasing, you acknowledge that your subscription will be renewed annually, unless you switch to manual renewal.",
+        "ioLegalText": "By purchasing Image Optimizer by Elementor, you agree to our <0>Image Optimizer Terms & Conditions</0>",
+        "siteMailerLegalText": "By purchasing Site Mailer by Elementor, you agree to our <0>Site Mailer Terms & Conditions</0>",
+        "appAccessLegalText": "By purchasing Accessibility by Elementor, you agree to our <0>Accessibility Terms & Conditions</0> and <1>Privacy Policy</1>",
+        "priceDisclaimerText": "Unless specified otherwise, all $ prices are in USD",
+        "ILSLegalText": "If your subscription was originally purchased in USD, you can switch to ILS by contacting support. Current ILS pricing is on our <0>pricing page.</0>",
+        "footer": {
+            "securePayment": "Secure SSL encrypted payment",
+            "moneyBack": "30-day money back guarantee for Pro or Hosting plans only",
+            "mobileLinks": "<0>Privacy Policy</0> and <1>Terms of Service</1> apply."
+        }
+    },
+    "footer": {
+        "securePayment": "Secure SSL encrypted payment",
+        "moneyBack": "30-day money back guarantee for Pro or Hosting plans only",
+        "protectedBy": "This site is protected by reCAPTCHA and the Google <0>Privacy Policy</0> and <1>Terms of Service</1> apply."
+    },
+    "paymentFailed": {
+        "title": "Payment failed.",
+        "subtitle": "Sorry, we are unable to process your payment at this time. Please try again later."
+    },
+    "promoCodes": {
+        "invalid": "The promo code you entered is invalid.",
+        "generalError": "There was an issue with the promo code. Please try again or contact support.",
+        "duplicate": "Promo code already applied."
+    },
+    "thankYou": {
+        "title": "Thank you for your purchase {firstName}!",
+        "subtitle": "Once the receipt is ready, we will send it to {email} with the next steps.",
+        "transactionComplete": "Transaction {invoiceNumber} is complete.",
+        "purchaseDate": "purchase date",
+        "renewalDate": "renewal date",
+        "vat": "VAT",
+        "subtotal": "subtotal",
+        "discount": "discount",
+        "total": "total",
+        "cta": {
+            "primary": {
+                "PLUGIN": "Download Elementor Pro",
+                "APP_IO": "Download Image Optimizer",
+                "APP_AI": "Start creating with AI",
+                "HOSTING": "Start creating your website",
+                "APP_STRATTIC": "Start creating your website",
+                "APP_BKP": "Download Site Backup Plugin",
+                "APP_MAILER": "Download Zip",
+                "APP_ACCESS": "Download Zip",
+                "APP_SUPPORT": "Support Center",
+                "HOSTING_TRANSFER_SITE": "Complete the transfer",
+                "default": "Start creating your website"
+            },
+            "secondary": {
+                "APP_SUPPORT": "Submit a ticket"
+            }
+        }
+    }
+}

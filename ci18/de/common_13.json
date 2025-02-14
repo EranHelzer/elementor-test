@@ -1,0 +1,18 @@
+{
+	"greeting": "Hallo {name}",
+	"navigation": {
+		"homepage": "Startseite",
+		"search": "Suche",
+		"users": "Benutzer",
+		"subscriptions": "Abonnements",
+		"products": "Produkte",
+		"disputes": "Streitfälle"
+	},
+	"goHome": "Zur Startseite gehen",
+	"401": {
+		"message": "Sie sind nicht berechtigt, auf diese Seite zuzugreifen."
+	},
+	"404": {
+		"message": "Ups! Die Ressource, auf die Sie zugreifen möchten, konnte nicht gefunden werden."
+	}
+}

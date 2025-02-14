@@ -1,0 +1,107 @@
+{
+	"title": "Prodotti",
+	"apps": {
+		"hosting": "Hosting",
+		"ai": "IA",
+		"io": "Ottimizzatore di immagini",
+		"siteMailer": "Mailer del sito",
+		"plugin": "Elementor Pro",
+		"platinumSupport": "Supporto Platinum"
+	},
+	"plan": "Piano",
+	"generalFetchError": "Si è verificato un errore durante il recupero dei dati",
+	"generalErrorMessage": "Si è verificato un errore",
+	"groupRules": {
+		"title": "Regole del gruppo",
+		"noGroupRulesTitle": "Non sono state trovate regole di gruppo",
+		"activeSubsOnly": "Solo abbonamenti attivi",
+		"maxActivations": "attivazioni massime",
+		"customerRules": "regole del cliente",
+		"backButton": "Torna indietro",
+		"noRule": "Nessuna regola trovata"
+	},
+	"buttons": {
+		"cancelButton": "Annulla",
+		"deleteButton": "Elimina",
+		"editButton": "Modifica",
+		"saveButton": "Salva",
+		"createButton": "Crea"
+	},
+	"entitlementRules": {
+		"title": "Regole di diritto",
+		"createRuleButton": "Crea regola",
+		"updateRuleButton": "Aggiorna",
+		"group": "Gruppo",
+		"toasterMessages": {
+			"ruleDeletedSuccessfully": "Regola eliminata con successo",
+			"ruleUpdatedSuccessfully": "Regola aggiornata con successo"
+		},
+		"deleteRuleDialog": {
+			"title": "Elimina regola",
+			"message": "Questa azione eliminerà tutte le regole relative a questo {appType, select, app_type {prodotto} group {gruppo} plan {piano} other {prodotto}} e non può essere annullata. Sei sicuro di voler continuare?"
+		},
+		"noRuleTitle": "Nessuna regola trovata",
+		"noRuleDescription": "Questo {appType, select, app_type {prodotto} group {gruppo} plan {piano} other {prodotto}} al momento non ha alcuna regola di autorizzazione associata. Per favore, creane una nuova.",
+		"productSectionTitle": "Regole del prodotto",
+		"planSectionTitle": "Regole del piano",
+		"form": {
+			"name": "Nome",
+			"max": "Max",
+			"activeOnly": "Solo attivi",
+			"customerRules": "Regole del cliente",
+			"bypassElementorEmployees": "Bypassa dipendenti Elementor",
+			"customerFields": {
+				"elementorId": "ID Elementor",
+				"email": "Email",
+				"firstName": "Nome",
+				"lastName": "Cognome",
+				"countryCode": "Codice paese",
+				"city": "Città",
+				"state": "Stato",
+				"zipCode": "CAP",
+				"address1": "Indirizzo 1",
+				"address2": "Indirizzo 2",
+				"companyName": "Nome azienda",
+				"vatNumber": "Partita IVA"
+			},
+			"errors": {
+				"customerFieldRequired": "Il campo cliente è obbligatorio",
+				"regexRuleRequired": "La regola Regex è obbligatoria",
+				"nameFieldRequired": "Il nome è obbligatorio"
+			}
+		},
+		"tooltips": {
+			"addCustomerRule": "Aggiungi regola cliente",
+			"deleteCustomerRule": "Elimina regola cliente"
+		}
+	},
+	"features": {
+		"title": "Funzionalità",
+		"toasterMessages": {
+			"featureDeletedSuccessfully": "Funzionalità eliminata con successo",
+			"featureUpdatedSuccessfully": "Funzionalità aggiornata con successo"
+		},
+		"deleteFeatureDialog": {
+			"title": "Elimina funzionalità",
+			"message": "Questa azione non può essere annullata. Sei sicuro di voler continuare?"
+		},
+		"valueTypes": {
+			"string": "Testo",
+			"number": "Numerico",
+			"boolean": "Interruttore"
+		},
+		"createFeatureButton": "Crea funzionalità",
+		"noFeaturesTitle": "Nessuna funzionalità trovata",
+		"noFeaturesDescription": "Questo piano attualmente non ha funzionalità associate. Si prega di crearne una nuova per prima cosa.",
+		"form": {
+			"valueType": "Tipo di valore",
+			"featureKey": "Chiave della funzionalità",
+			"featureValue": "Valore della funzionalità",
+			"errors": {
+				"featureKeyRequired": "La chiave della funzionalità è obbligatoria",
+				"featureKeyExists": "La chiave esiste già",
+				"featureValueRequired": "Il valore della funzionalità è obbligatorio"
+			}
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"alert": {
+		"title": "Du hast {value, plural, =100 {alle} other {#%}} deines {planName} verbraucht",
+        "genericTitle": "Sie haben Ihre Ressourcen fast ausgeschöpft.",
+        "message":{
+            "APP_AI": "Upgraden Sie jetzt, um mit mehr Credits zu erstellen.",
+            "APP_IO": "Upgraden Sie jetzt, um mehr Bilder zu optimieren.",
+            "HOSTING": "Upgraden Sie jetzt, um Serviceunterbrechungen zu vermeiden.",
+            "DEFAULT": "Upgraden Sie jetzt, um weiterhin alle Web-Erstellungstools von Elementor zu nutzen."
+        }
+	},
+    "tooltip": {
+        "storage": "Dies ist der Speicherplatz, den Sie für Dateien und Inhalte haben.",
+        "bandwidth": "Dies ist die Menge an Datenverkehr, die Ihre Website unterstützen kann."
+    },
+    "metricsType": {
+        "images": "Bilder",
+        "credits": "Credits",
+        "storage": "Speicher",
+        "bandwidth": "Bandbreite"
+    },
+    "usageCard": {
+        "title": {
+            "HOSTING": "Ressourcennutzung",
+            "APP_IO": "Erstellte Inhalte",
+            "APP_AI": "Erstellte Inhalte"
+        }
+    },
+	"general": {
+		"used": "{value}% verwendet",
+		"available": "{left}{units} verfügbar von {total}{units}",
+		"upgrade": "Jetzt upgraden",
+		"totalPerPeriod": "{subName} enthält {total}{units} {metricsType}{measurePeriod, select, yr {/yr} mo {/mo} andere {}}"
+	}
+}

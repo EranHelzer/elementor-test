@@ -1,0 +1,50 @@
+{
+    "billingInfoForm": {
+        "labels": {
+            "firstName": "Vorname",
+            "lastName": "Nachname",
+            "email": "E-Mail für Rechnungsempfang",
+            "companyName": "Firmenname",
+            "vatNumber": "Umsatzsteuer-ID / Steuernummer",
+            "countryCode": "Land / Region",
+            "address1": "Adresse 1",
+            "address2": "Adresse 2",
+            "state": "Bundesland",
+            "city": "Stadt",
+            "zipCode": "Postleitzahl"
+        },
+        "errors": {
+            "defaultErrorMessage": "Bitte geben Sie ein gültiges {fieldName} ein.",
+            "firstName": {
+                "required": "Bitte geben Sie Ihren Vornamen ein.",
+                "invalid": "Bitte verwenden Sie nur Buchstaben, Bindestriche und Apostrophe"
+            },
+            "lastName": {
+                "required": "Bitte geben Sie Ihren Nachnamen ein.",
+                "invalid": "Bitte verwenden Sie nur Buchstaben, Bindestriche und Apostrophe"
+            },
+            "address1": {
+                "required": "Bitte geben Sie Ihre Hauptadresse ein.",
+                "invalid": "Die Adresse kann alphanumerische Zeichen und Satzzeichen enthalten."
+            },
+            "address2": {
+                "invalid": "Die Adresse kann alphanumerische Zeichen und Satzzeichen enthalten."
+            },
+            "countryCode": {
+                "required": "Bitte wählen Sie ein Land aus der Liste aus."
+            },
+            "state": {
+                "required": "Bitte wählen Sie ein Bundesland aus der Liste aus."
+            },
+            "city": {
+                "required": "Bitte geben Sie einen Städtenamen ein.",
+                "invalid": "Der Städtename sollte nur Buchstaben und Apostrophe enthalten."
+            },
+            "zipCode": {
+                "required": "Bitte geben Sie eine gültige Postleitzahl ein.",
+                "invalid": "Bitte geben Sie eine gültige Postleitzahl ein."
+            }
+        },
+        "noMatch": "Keine Übereinstimmungen gefunden"
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"greeting": "Hallo, {user}!",
+	"downloads": "Downloads",
+	"myProfile": "Mijn profiel",
+	"logOut": "Uitloggen",
+	"websites": "Websites",
+	"billing": "Facturering",
+	"services": "Diensten",
+	"teams": "Teams",
+	"business": "Merk & Bedrijf",
+	"support-center": "Ondersteuningscentrum",
+	"add-ons": "Add-ons",
+	"affiliate": "Partner",
+	"new-nav": "Nieuw",
+	"beta-nav": "Beta",
+	"platinum-support": "Platinum ondersteuning",
+	"support": "Ondersteuning",
+	"userMenu": {
+		"settings": "Accountinstellingen",
+		"profile": "Mijn profiel",
+		"billingDetails": "Factureringsgegevens",
+		"subscriptions": "Abonnementen",
+		"languages": {
+			"en": "Engels",
+			"es": "Spaans",
+			"fr": "Frans"
+		},
+		"logout": "Uitloggen"
+	}
+}

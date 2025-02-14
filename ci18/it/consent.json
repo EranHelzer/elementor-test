@@ -1,0 +1,32 @@
+{
+	"header": {
+		"title": {
+			"app_mailer": "Pronto a usare {app}?",
+			"app_empma": "Pronto per {app}?",
+			"default": "Pronto a usare {app} di Elementor?"
+		},
+		"subtitle": {
+			"app_mailer": "Connetti il tuo sito WordPress in modo che possa iniziare a inviare email",
+			"app_empma": "Collega il tuo sito WordPress a {app}.",
+			"default": "{activate, select, true {Collega il tuo sito WordPress e attiva la tua licenza per usare tutte le funzionalità di {app}.} other {Collega il tuo sito WordPress per usare tutte le funzionalità di {app}.}}"
+		}
+	},
+	"switchUser": "Cambia Utente",
+	"chooseSubscription": "Scegli un abbonamento...",
+	"subscriptionName": "{name}",
+	"subscriptionExpireDate": "Data di scadenza: {date}",
+	"shareUsageData": "Condividi i miei dati di utilizzo (in modo anonimo) per aiutare a migliorare l'esperienza per me e per gli altri.",
+	"submit": {
+		"app_empma": "Connetti",
+		"default": "Connetti e Continua"
+	},
+	"customer": {
+		"firstName": "Nome",
+		"lastName": "Cognome",
+		"postcode": "Codice postale / CAP",
+		"message": {
+			"firstPart": "Aggiungi i tuoi dettagli per attivare la prova gratuita.",
+			"secondPart": "Non preoccuparti, non salveremo alcuna informazione di pagamento e non ti verrà addebitato nulla."
+		}
+	}
+}

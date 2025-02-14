@@ -1,0 +1,69 @@
+{
+    "supportCardsGrid":{
+        "title": "Supporto",
+        "titlePlatinum": "Supporto Platinum",
+        "subtitle": "Goditi un'assistenza di alto livello con tempi di risposta più rapidi e aiuto dedicato da parte di esperti ogni volta che ne hai bisogno."
+    },
+    "supportCard":{
+        "upgrade": "Aggiorna",
+        "buttons":{
+            "startChat": "Avvia chat",
+            "submit": "Invia",
+            "myTickets": "I miei ticket",
+            "chat": "Chat",
+            "whatsapp":"Whatsapp",
+            "contact": "Contatto"
+        },
+        "chatbot":{
+            "title": "Chatbot basato su IA",
+            "description": "Ottieni risposte immediate con il nostro servizio di chat basato su IA."
+        },
+        "submitTicket":{
+            "title": "Invia un ticket",
+            "description": "Segnala problemi o richiedi assistenza creando un ticket di supporto."
+        },
+        "myActivity":{
+            "title": "La mia attività",
+            "description": "Accedi alle tue interazioni di supporto passate, incluse chat, email e WhatsApp."
+        },
+        "liveChat":{
+            "title": "Chat dal vivo",
+            "description": "Goditi un'assistenza personalizzata 24 ore su 24 tramite chat."
+        },
+        "whatsappSupport":{
+            "title": "Supporto Whatsapp",
+            "description": "Contattaci su WhatsApp ogni volta che hai bisogno di assistenza."
+        },
+        "csm":{
+            "title": "CSM dedicato",
+            "description": "Resta in contatto con il tuo customer success manager dedicato."
+        }
+    },
+    "usefulLinksGridTitle": "Link utili",
+    "usefulLinks":{
+        "whatsNew":{
+            "title": "Novità",
+            "description": "Rimani aggiornato con le ultime funzionalità e gli aggiornamenti."
+        },
+        "helpCenter":{
+            "title": "Centro assistenza",
+            "description": "Trova risposte alle domande e ai problemi comuni."
+        },
+        "academy":{
+            "title": "Academy",
+            "description": "Impara a utilizzare i nostri prodotti con i nostri corsi gratuiti."
+        },
+        "community":{
+            "title": "Community",
+            "description": "Unisciti alla nostra community per condividere idee e ottenere aiuto."
+        },
+        "feedback":{
+            "title": "Com'è stata la tua esperienza?",
+            "description": "Dicci come possiamo migliorare i nostri servizi di supporto."
+        }
+    },
+    "help": {
+        "title": "Hai domande sul passaggio al Platinum? I nostri esperti possono aiutarti.",
+        "buttonText": "Prenota una chiamata"
+    }
+}

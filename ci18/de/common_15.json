@@ -1,0 +1,30 @@
+{
+	"greeting": "Hallo, {user}!",
+	"downloads": "Downloads",
+	"myProfile": "Mein Profil",
+	"logOut": "Abmelden",
+	"websites": "Webseiten",
+	"billing": "Abrechnung",
+	"services": "Dienstleistungen",
+	"teams": "Teams",
+	"business": "Marke & Geschäft",
+	"support-center": "Support-Center",
+	"add-ons": "Add-ons",
+	"affiliate": "Partner",
+	"new-nav": "Neu",
+	"beta-nav": "Beta",
+	"platinum-support": "Platinum-Support",
+	"support": "Support",
+	"userMenu": {
+		"settings": "Kontoeinstellungen",
+		"profile": "Mein Profil",
+		"billingDetails": "Abrechnungsdetails",
+		"subscriptions": "Abonnements",
+		"languages": {
+			"en": "Englisch",
+			"es": "Spanisch",
+			"fr": "Französisch"
+		},
+		"logout": "Abmelden"
+	}
+}

@@ -1,0 +1,69 @@
+{
+    "supportCardsGrid":{
+        "title": "Support",
+        "titlePlatinum": "Platinum support",
+        "subtitle": "Enjoy top-tier assistance with faster response times and dedicated expert help whenever you need it."
+    },
+    "supportCard":{
+        "upgrade": "Upgrade",
+        "buttons":{
+            "startChat": "Start chat",
+            "submit": "Submit",
+            "myTickets": "My tickets",
+            "chat": "Chat",
+            "whatsapp":"Whatsapp",
+            "contact": "Contact"
+        },
+        "chatbot":{
+            "title": "AI-powered chatbot",
+            "description": "Get instant answers with our AI-powered chat service."
+        },
+        "submitTicket":{
+            "title": "Submit a ticket",
+            "description": "Report issues or request assistance by creating a support ticket."
+        },
+        "myActivity":{
+            "title": "My activity",
+            "description": "Access your past support interactions, including chats, emails, and WhatsApp."
+        },
+        "liveChat":{
+            "title": "Live chat",
+            "description": "Enjoy personalized round-the-clock assistance via chat."
+        },
+        "whatsappSupport":{
+            "title": "Whatsapp support",
+            "description": "Reach out to us on WhatsApp anytime you need assistance."
+        },
+        "csm":{
+            "title": "Dedicated CSM",
+            "description": "Be in touch with your dedicated customer success manager."
+        }
+    },
+    "usefulLinksGridTitle": "Useful links",
+    "usefulLinks":{
+        "whatsNew":{
+            "title": "What’s new",
+            "description": "Stay updated with the latest features and updates."
+        },
+        "helpCenter":{
+            "title": "Help center",
+            "description": "Find answers to common questions and issues."
+        },
+        "academy":{
+            "title": "Academy",
+            "description": "Learn how to use our products with our free courses."
+        },
+        "community":{
+            "title": "Community",
+            "description": "Join our community to share ideas and get help."
+        },
+        "feedback":{
+            "title": "How was your experience?",
+            "description": "Tell us how we can improve our support services."
+        }
+    },
+    "help": {
+        "title": "Have questions about upgrading to Platinum? Our experts can help.",
+        "buttonText": "Schedule a call"
+    }
+}

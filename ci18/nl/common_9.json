@@ -1,0 +1,36 @@
+{
+	"title": "Geschillen",
+	"table": {
+		"columns": {
+			"id": "ID",
+			"orderId": "Bestelnummer",
+			"disputeId": "Geschil-ID",
+			"customerId": "Klant-ID",
+			"agent": "Agent",
+			"status": "Status",
+			"paymentMethod": "Betaalmethode",
+			"reason": "Reden",
+			"amount": "Bedrag",
+			"acceptanceReason": "Acceptatiereden",
+			"respondDueDate": "Reactiedatum",
+			"actions": "Acties"
+		},
+		"actions": {
+			"accept": "Geschil accepteren",
+			"redirect": "Ga naar betaalpagina",
+			"export": "Exporteren",
+			"downloadAsCSV": "Downloaden als CSV"
+		},
+		"acceptDisputeDialog": {
+			"title": "#{rowId} Accepteer geschil",
+			"content": "Weet u zeker dat u dit geschil wilt accepteren?",
+			"accept": "Accepteren",
+			"cancel": "Annuleren"
+		},
+		"messages": {
+			"disputeAccepted": "Geschil geaccepteerd",
+			"disputeAcceptanceFailed": "Geschil accepteren mislukt"
+		}
+	},
+	"unknown": "Onbekend"
+}

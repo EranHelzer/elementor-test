@@ -1,0 +1,20 @@
+{
+	"alertError": {
+		"defaultTitle": "Algo deu errado!",
+		"defaultMessage": "Por favor, atualize esta página.",
+		"refreshBtn": "Atualizar",
+		"okBtn": "Ok"
+	},
+	"errorBoundary": {
+		"default": {
+			"title": "Algo deu errado!",
+			"message": "Por favor, atualize esta página.",
+			"btn": "Atualizar"
+		},
+		"newVersion": {
+			"title": "Nova versão disponível!",
+			"message": "Por favor, atualize esta página.",
+			"btn": "Atualizar"
+		}
+	}
+}

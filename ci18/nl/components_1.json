@@ -1,0 +1,35 @@
+{
+	"alert": {
+		"title": "Je hebt {value, plural, =100 {al} other {#%}} van je {planName} gebruikt",
+        "genericTitle": "Je hebt bijna al je bronnen opgebruikt.",
+        "message":{
+            "APP_AI": "Upgrade nu om met meer credits te creëren.",
+            "APP_IO": "Upgrade nu om meer afbeeldingen te optimaliseren.",
+            "HOSTING": "Upgrade nu om service-onderbrekingen te voorkomen.",
+            "DEFAULT": "Upgrade nu om alle webcreatietools van Elementor te blijven gebruiken."
+        }
+	},
+    "tooltip": {
+        "storage": "Dit is de hoeveelheid ruimte die je hebt voor bestanden en inhoud.",
+        "bandwidth": "Dit is de hoeveelheid verkeer dat je site kan ondersteunen."
+    },
+    "metricsType": {
+        "images": "Afbeeldingen",
+        "credits": "Credits",
+        "storage": "Opslag",
+        "bandwidth": "Bandbreedte"
+    },
+    "usageCard": {
+        "title": {
+            "HOSTING": "Bronnengebruik",
+            "APP_IO": "Gemaakte Inhoud",
+            "APP_AI": "Gemaakte Inhoud"
+        }
+    },
+	"general": {
+		"used": "{value}% gebruikt",
+		"available": "{left}{units} beschikbaar van {total}{units}",
+		"upgrade": "Nu Upgraden",
+		"totalPerPeriod": "{subName} omvat {total}{units} {metricsType}{measurePeriod, select, yr {/yr} mnd {/mo} andere {}}"
+	}
+}

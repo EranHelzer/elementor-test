@@ -1,0 +1,33 @@
+{
+    "userOverview": {
+        "id": "ID {id}",
+        "emailVerified": "E-mail geverifieerd {value}",
+        "supportLevel": "Ondersteuningsniveau {value}",
+        "newStore": "Nieuwe winkel {value}",
+        "registeredOn": "Geregistreerd {date}",
+        "links": {
+            "zuora": "Beheren in Zuora",
+            "kustomer": "Vinden op Kustomer",
+            "switch": "Overschakelen naar Gebruiker",
+            "wp": "Openen in WooCommerce"
+        }
+    },
+    "subscriptionOverview": {
+        "id": "ID {id}",
+        "internalId": "Intern ID {id}",
+        "ownerId": "Gebruikers-ID {value}",
+        "startDate": "Startdatum {date}",
+        "links": {
+            "zuora": "Beheren in Zuora"
+        }
+    },
+    "subscriptionStatus": {
+        "active": "Actief",
+        "expired": "Verlopen",
+        "onHold": "In de wacht",
+        "canceled": "Geannuleerd",
+        "transferring": "Overdragen",
+        "transferred": "Overgedragen",
+        "aboutToExpire": "Bijna verlopen"
+    }
+}

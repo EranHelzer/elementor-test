@@ -1,0 +1,77 @@
+{
+  "signIn": {
+    "title": "Inloggen bij Elementor",
+    "titleKit": "Log in bij Elementor om een{br} nieuwe website te maken met deze Kit.",
+    "templateTitle": "{template, select, trial {Claim je 7-daagse gratis proefperiode} other {}}",
+    "templateSubtitle": "{template, select, trial {Geen creditcard nodig. Laten we je inschrijven!} other {}}",
+    "question": "Nieuw bij Elementor? ",
+    "question2": "Nog geen account? ",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "successMessage": "U bent ingelogd. Welkom!"
+  },
+  "signUp": {
+    "title": "Laten we uw {br} Elementor account aanmaken.",
+    "titleKit": "{isMobile, select, true {Goede keus! Maak een account aan om deze Kit te krijgen.} other {We vinden je stijl leuk!{br} Maak een Elementor-account aan om deze Kit te krijgen.}}",
+    "subtitle": "Voor uw veiligheid raden we aan een e-mailadres{br} te gebruiken dat u in de toekomst gemakkelijk kunt bereiken.",
+    "question": "Heeft u al een account? ",
+    "successMessage": "U bent succesvol geregistreerd."
+  },
+  "socialAuthAlert": {
+    "title": "Gebruik uw sociale account om authenticatie over te slaan",
+    "text": "Anders heeft u elke keer dat u inlogt met uw e-mail een verificatiecode nodig.",
+    "fbBrowser": "Voor de beste ervaring opent u deze pagina in uw standaardbrowser",
+    "fbBrowserTitle": "Voltooi het inloggen",
+    "copyLink": "Link kopiëren"
+  },
+  "emailForm": {
+    "emailLabel": "Voer uw e-mailadres in",
+    "passwordLabel": "Wachtwoord",
+    "passwordValidationRule": "Moet 8+ tekens bevatten met een mix van hoofd-/kleine letters, cijfers en speciale tekens.",
+    "createAccSubmitText": "Maak mijn account aan",
+    "emailHelperText": "We moeten uw account verifiëren, dus houd deze inbox toegankelijk.",
+    "invalidEmailFormat": "Voer een geldig e-mailadres in. Voorbeeld: username@domain.com",
+    "invalidEmail": "Na controle kunnen we geen e-mails naar dat adres sturen. Probeer een ander adres.",
+    "badEmail": "U kunt dit adres gebruiken, maar we kunnen het mogelijk later niet verifiëren. Probeer een ander adres.",
+    "emailSuggestion": "Bedoelde u {suggestion}?",
+    "fieldRequired": "Dit veld is verplicht."
+  },
+  "verifiedEmail": {
+    "success": {
+      "title": "Bedankt voor het verifiëren van uw e-mail",
+      "description": "U bent klaar om te beginnen met het bouwen van geweldige sites met ons.",
+      "buttonText": "Ga naar Mijn Elementor"
+    },
+    "fail": {
+      "title": "Die link werkte niet.",
+      "description": "Log opnieuw in op uw account om de verificatie-e-mail opnieuw te verzenden of",
+      "buttonText": "neem contact op met ondersteuning"
+    }
+  },
+  "forgotPassword": {
+    "title": "Herstel uw wachtwoord",
+    "description": "Voer uw e-mailadres in en we sturen u een link om uw wachtwoord te herstellen.",
+    "emailField": "E-mail",
+    "resetButton": "Wachtwoord herstellen",
+    "successAlert": "We hebben u een link gestuurd om uw wachtwoord te herstellen.",
+    "failureAlert": "Ongeldige gebruikersnaam of e-mail."
+  },
+  "resetPassword": {
+    "title": "Wachtwoord herstellen",
+    "description": "Voer uw nieuwe wachtwoord in en u bent klaar om te gaan.",
+    "passwordField": "Voer nieuw wachtwoord in",
+    "savePasswordButton": "Wachtwoord opslaan",
+    "resetSuccess": "Uw wachtwoord is hersteld."
+  },
+  "totp": {
+    "title": "Laten we uw account verifiëren.",
+    "description": "We hebben een verificatiecode gestuurd naar het e-mailadres dat is gekoppeld aan dit Elementor account.",
+    "verificationCode": "Voer de 6-cijferige code in:",
+    "verifyAccount": "Verifieer mijn account",
+    "resendCode": "Code opnieuw verzenden",
+    "sendToEmail": "Verzenden naar een ander e-mailadres",
+    "whereCode": "Waar is mijn code?",
+    "checkSpam": "Controleer uw spammap.",
+    "emailDelay": "Het kan een paar minuten duren voordat de e-mail verschijnt.",
+    "codeSent": "Verificatiecode verzonden"
+  }
+}

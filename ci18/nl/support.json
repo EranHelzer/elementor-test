@@ -1,0 +1,69 @@
+{
+    "supportCardsGrid":{
+        "title": "Ondersteuning",
+        "titlePlatinum": "Platinum ondersteuning",
+        "subtitle": "Geniet van eersteklas assistentie met snellere responstijden en toegewijde experthulp wanneer u die nodig hebt."
+    },
+    "supportCard":{
+        "upgrade": "Upgraden",
+        "buttons":{
+            "startChat": "Start chat",
+            "submit": "Versturen",
+            "myTickets": "Mijn tickets",
+            "chat": "Chat",
+            "whatsapp":"WhatsApp",
+            "contact": "Contact"
+        },
+        "chatbot":{
+            "title": "AI-aangedreven chatbot",
+            "description": "Krijg directe antwoorden met onze AI-aangedreven chatservice."
+        },
+        "submitTicket":{
+            "title": "Een ticket indienen",
+            "description": "Meld problemen of vraag assistentie aan door een ondersteuningsticket aan te maken."
+        },
+        "myActivity":{
+            "title": "Mijn activiteit",
+            "description": "Bekijk uw eerdere ondersteuningsinteracties, inclusief chats, e-mails en WhatsApp."
+        },
+        "liveChat":{
+            "title": "Live chat",
+            "description": "Geniet van gepersonaliseerde 24/7 assistentie via chat."
+        },
+        "whatsappSupport":{
+            "title": "WhatsApp ondersteuning",
+            "description": "Neem contact met ons op via WhatsApp wanneer u hulp nodig hebt."
+        },
+        "csm":{
+            "title": "Toegewijde CSM",
+            "description": "Blijf in contact met uw toegewijde customer success manager."
+        }
+    },
+    "usefulLinksGridTitle": "Nuttige links",
+    "usefulLinks":{
+        "whatsNew":{
+            "title": "Wat is er nieuw",
+            "description": "Blijf op de hoogte van de nieuwste functies en updates."
+        },
+        "helpCenter":{
+            "title": "Helpcentrum",
+            "description": "Vind antwoorden op veelvoorkomende vragen en problemen."
+        },
+        "academy":{
+            "title": "Academie",
+            "description": "Leer hoe u onze producten kunt gebruiken met onze gratis cursussen."
+        },
+        "community":{
+            "title": "Community",
+            "description": "Word lid van onze community om ideeën te delen en hulp te krijgen."
+        },
+        "feedback":{
+            "title": "Hoe was uw ervaring?",
+            "description": "Vertel ons hoe we onze ondersteuningsdiensten kunnen verbeteren."
+        }
+    },
+    "help": {
+        "title": "Hebt u vragen over upgraden naar Platinum? Onze experts kunnen u helpen.",
+        "buttonText": "Een gesprek inplannen"
+    }
+}

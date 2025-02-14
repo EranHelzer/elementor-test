@@ -1,0 +1,107 @@
+{
+	"title": "Produtos",
+	"apps": {
+		"hosting": "Hospedagem",
+		"ai": "IA",
+		"io": "Otimizador de imagens",
+		"siteMailer": "Envio de e-mails do site",
+		"plugin": "Elementor Pro",
+		"platinumSupport": "Suporte Platinum"
+	},
+	"plan": "Plano",
+	"generalFetchError": "Ocorreu um erro ao buscar os dados",
+	"generalErrorMessage": "Algo deu errado",
+	"groupRules": {
+		"title": "Regras de grupo",
+		"noGroupRulesTitle": "Nenhuma regra de grupo foi encontrada",
+		"activeSubsOnly": "Apenas assinaturas ativas",
+		"maxActivations": "ativações máximas",
+		"customerRules": "regras de cliente",
+		"backButton": "Voltar",
+		"noRule": "Nenhuma regra foi encontrada"
+	},
+	"buttons": {
+		"cancelButton": "Cancelar",
+		"deleteButton": "Excluir",
+		"editButton": "Editar",
+		"saveButton": "Salvar",
+		"createButton": "Criar"
+	},
+	"entitlementRules": {
+		"title": "Regras de direito",
+		"createRuleButton": "Criar regra",
+		"updateRuleButton": "Atualizar",
+		"group": "Grupo",
+		"toasterMessages": {
+			"ruleDeletedSuccessfully": "Regra excluída com sucesso",
+			"ruleUpdatedSuccessfully": "Regra atualizada com sucesso"
+		},
+		"deleteRuleDialog": {
+			"title": "Excluir regra",
+			"message": "Esta ação vai apagar todas as regras relacionadas com este {appType, select, app_type {produto} group {grupo} plan {plano} other {produto}} e não pode ser revertida. Tens a certeza que queres continuar?"
+		},
+		"noRuleTitle": "Nenhuma regra foi encontrada",
+		"noRuleDescription": "Este {appType, select, app_type {produto} group {grupo} plan {plano} other {produto}} não tem atualmente nenhuma regra de direito associada. Por favor, cria uma nova.",
+		"productSectionTitle": "Regras de produto",
+		"planSectionTitle": "Regras de plano",
+		"form": {
+			"name": "Nome",
+			"max": "Máx",
+			"activeOnly": "Apenas ativos",
+			"customerRules": "Regras de cliente",
+			"bypassElementorEmployees": "Ignorar funcionários Elementor",
+			"customerFields": {
+				"elementorId": "ID Elementor",
+				"email": "E-mail",
+				"firstName": "Primeiro nome",
+				"lastName": "Sobrenome",
+				"countryCode": "Código do país",
+				"city": "Cidade",
+				"state": "Estado",
+				"zipCode": "CEP",
+				"address1": "Endereço 1",
+				"address2": "Endereço 2",
+				"companyName": "Nome da empresa",
+				"vatNumber": "Número de IVA"
+			},
+			"errors": {
+				"customerFieldRequired": "O campo do cliente é obrigatório",
+				"regexRuleRequired": "A regra Regex é obrigatória",
+				"nameFieldRequired": "O nome é obrigatório"
+			}
+		},
+		"tooltips": {
+			"addCustomerRule": "Adicionar regra de cliente",
+			"deleteCustomerRule": "Excluir regra de cliente"
+		}
+	},
+	"features": {
+		"title": "Recursos",
+		"toasterMessages": {
+			"featureDeletedSuccessfully": "Recurso excluído com sucesso",
+			"featureUpdatedSuccessfully": "Recurso atualizado com sucesso"
+		},
+		"deleteFeatureDialog": {
+			"title": "Excluir recurso",
+			"message": "Esta ação não pode ser revertida. Tem certeza de que deseja continuar?"
+		},
+		"valueTypes": {
+			"string": "Texto",
+			"number": "Numérico",
+			"boolean": "Interruptor"
+		},
+		"createFeatureButton": "Criar recurso",
+		"noFeaturesTitle": "Nenhum recurso foi encontrado",
+		"noFeaturesDescription": "Este plano atualmente não tem recursos associados a ele. Por favor, crie um novo primeiro.",
+		"form": {
+			"valueType": "Tipo de valor",
+			"featureKey": "Chave do recurso",
+			"featureValue": "Valor do recurso",
+			"errors": {
+				"featureKeyRequired": "A chave do recurso é obrigatória",
+				"featureKeyExists": "A chave já existe",
+				"featureValueRequired": "O valor do recurso é obrigatório"
+			}
+		}
+	}
+}

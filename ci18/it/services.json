@@ -1,0 +1,35 @@
+{
+    "title": "Servizi",
+    "subtitle": "Ottieni assistenza pratica da una persona reale.\nIl nostro team di supporto è qui per migliorare la funzionalità e la sicurezza del tuo sito.",
+    "myServices": "I miei acquisti",
+    "availableServices": "Servizi disponibili",
+    "servicesTermsLink": "Termini e Condizioni dei Servizi Elementor",
+    "servicesTerms": "Acquistando un servizio Elementor, accetti i nostri",
+    "filters": {
+        "all": "Tutti ({count})",
+        "design": "Design ({count})",
+        "maintenance": "Manutenzione del sito ({count})",
+        "training": "Formazione e Consulenza ({count})"
+    },
+    "price": {
+        "oneTime": "{price}/Una tantum"
+    },
+    "actions": {
+        "claim": "Richiedi",
+        "buyNow": "Acquista ora",
+        "buyAgain": "Acquista di nuovo",
+        "remove": "Rimuovi"
+    },
+    "status": {
+        "pending": "Ci stiamo lavorando",
+        "no-show": "Ci stiamo lavorando",
+        "completed": "Completato"
+    },
+    "noFilteredServices": "Hmm... Niente da mostrare.",
+    "noFilteredServicesSub": "Non ci sono servizi aggiuntivi da mostrare.",
+    "readMore": "Leggi di più",
+    "showMore": "Mostra di più",
+    "showLess": "Mostra meno",
+    "learnMore": "Scopri di più",
+    "comingSoon": "Prossimamente{extra}"
+}

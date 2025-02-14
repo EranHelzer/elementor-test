@@ -1,0 +1,55 @@
+{
+	"page": {
+		"back": "Terug naar gebruikers",
+		"reload": "Gegevens herladen",
+		"info": {
+			"id": "ID {id}",
+			"emailVerified": "E-mail geverifieerd {value}",
+			"supportLevel": "Ondersteuningsniveau {value}",
+			"newStore": "Nieuwe winkel {value}",
+			"registeredOn": "Geregistreerd {date}"
+		},
+		"assets": {
+			"websites": "Websites",
+			"subscriptions": "Abonnementen"
+		},
+		"subscriptions": {
+			"title": "Abonnementen({value})",
+			"empty": "Geen abonnementen gevonden"
+		},
+		"actions": {
+			"title": "Acties",
+			"zuora": "Beheren in Zuora",
+			"kustomer": "Zoeken in Kustomer",
+			"switch": "Overschakelen naar gebruiker",
+			"wp": "Openen in WooCommerce"
+		},
+		"userDeletion": {
+			"title": "Gevarenzone",
+			"button": "Klantgegevens verwijderen...",
+			"description": "Deze actie maakt klantgegevens anoniem, annuleert abonnementen, ontkoppelt ondersteuningsgegevens en verwijdert alle media veilig.",
+			"userDeletionInfoModal": {
+				"title": "Klantgegevens permanent verwijderen?",
+				"alertTitle": "Deze actie is permanent",
+				"alertDescription": "Doorgaan met deze verwijdering zal alle klantgerelateerde gegevens permanent verwijderen en anonimiseren zoals hieronder beschreven. Dit kan niet ongedaan worden gemaakt.",
+				"button": "Verwijderen",
+				"infoTitle": "Het verwijderen van klantinformatie zal:",
+				"infoText1": "Alle persoonlijke informatie zoals naam en e-mail worden vervangen door geanonimiseerde gegevens.",
+				"infoText2": "Alle actieve abonnementen en bijbehorende betaalmethoden worden permanent geannuleerd.",
+				"infoText3": "Ondersteuningstickets, logboeken en andere metadata zullen niet langer aan de klant gekoppeld zijn.",
+				"infoText4": "Alle opgeslagen media, bestanden en back-upgegevens met betrekking tot deze klant worden gewist of geanonimiseerd.",
+				"checkboxLabel": "Ik begrijp dat deze actie onomkeerbaar is en alle klantgegevens permanent zal verwijderen zoals beschreven."
+			},
+			"userDeletionStepsModal": {
+				"title": "Verwijdering van klantgegevens in uitvoering...",
+				"button": "Voltooid",
+				"step1": "Klantgegevens anonimiseren",
+				"step2": "Abonnementen annuleren",
+				"successTitle": "Verwijdering klant succesvol",
+				"successDescription": "Alle processen zijn voltooid.",
+				"errorTitle": "Sommige verwijderingsacties konden niet worden voltooid",
+				"errorDescription": "Hervat het proces handmatig."
+			}
+		}
+	}
+}

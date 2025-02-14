@@ -1,0 +1,13 @@
+{
+	"greeting": "Ciao {name}",
+	"footer": {
+		"copyRights": "© {year} Tutti i diritti riservati.",
+		"terms": "Termini di servizio",
+		"privacy": "Informativa sulla privacy"
+	},
+	"errorPage": {
+		"message": "Accidenti! Hai incontrato un errore del server.",
+		"hint": "Prova a connetterti di nuovo",
+		"code": "Codice di errore: {code}"
+	}
+}

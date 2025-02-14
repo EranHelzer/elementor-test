@@ -1,0 +1,107 @@
+{
+	"title": "Products",
+	"apps": {
+		"hosting": "Hosting",
+		"ai": "AI",
+		"io": "Image optimizer",
+		"siteMailer": "Site mailer",
+		"plugin": "Elementor Pro",
+		"platinumSupport": "Platinum support"
+	},
+	"plan": "Plan",
+	"generalFetchError": "Something went wrong while fetching the data",
+	"generalErrorMessage": "Something went wrong",
+	"groupRules": {
+		"title": "Group rules",
+		"noGroupRulesTitle": "No group rules were found",
+		"activeSubsOnly": "Active subscriptions only",
+		"maxActivations": "maximum activations",
+		"customerRules": "customer rules",
+		"backButton": "Go back",
+		"noRule": "No rule was found"
+	},
+	"buttons": {
+		"cancelButton": "Cancel",
+		"deleteButton": "Delete",
+		"editButton": "Edit",
+		"saveButton": "Save",
+		"createButton": "Create"
+	},
+	"entitlementRules": {
+		"title": "Entitlement rules",
+		"createRuleButton": "Create rule",
+		"updateRuleButton": "Update",
+		"group": "Group",
+		"toasterMessages": {
+			"ruleDeletedSuccessfully": "Rule deleted successfully",
+			"ruleUpdatedSuccessfully": "Rule updated successfully"
+		},
+		"deleteRuleDialog": {
+			"title": "Delete rule",
+			"message": "This action will delete all rules related to this {appType, select, app_type {product} group {group} plan {plan} other {product}} and cannot be reverted. Are you sure you want to continue?"
+		},
+		"noRuleTitle": "No rule was found",
+		"noRuleDescription": "This {appType, select, app_type {product} group {group} plan {plan} other {product}} currently has no entitlement rule associated with it. Please create a new one.",
+		"productSectionTitle": "Product rules",
+		"planSectionTitle": "Plan rules",
+		"form": {
+			"name": "Name",
+			"max": "Max",
+			"activeOnly": "Active only",
+			"customerRules": "Customer rules",
+			"bypassElementorEmployees": "Bypass Elementor employees",
+			"customerFields": {
+				"elementorId": "Elementor ID",
+				"email": "Email",
+				"firstName": "First name",
+				"lastName": "Last name",
+				"countryCode": "Country code",
+				"city": "City",
+				"state": "State",
+				"zipCode": "Zip code",
+				"address1": "Address 1",
+				"address2": "Address 2",
+				"companyName": "Company name",
+				"vatNumber": "VAT number"
+			},
+			"errors": {
+				"customerFieldRequired": "Customer field is required",
+				"regexRuleRequired": "Regex rule is required",
+				"nameFieldRequired": "Name is required"
+			}
+		},
+		"tooltips": {
+			"addCustomerRule": "Add customer rule",
+			"deleteCustomerRule": "Delete customer rule"
+		}
+	},
+	"features": {
+		"title": "Features",
+		"toasterMessages": {
+			"featureDeletedSuccessfully": "Feature deleted successfully",
+			"featureUpdatedSuccessfully": "Feature updated successfully"
+		},
+		"deleteFeatureDialog": {
+			"title": "Delete feature",
+			"message": "This action cannot be reverted. Are you sure you want to continue?"
+		},
+		"valueTypes": {
+			"string": "Text",
+			"number": "Numeric",
+			"boolean": "Switch"
+		},
+		"createFeatureButton": "Create feature",
+		"noFeaturesTitle": "No features were found",
+		"noFeaturesDescription": "This plan currently has no features associated with it. Please create a new one first.",
+		"form": {
+			"valueType": "Value type",
+			"featureKey": "Feature key",
+			"featureValue": "Feature value",
+			"errors": {
+				"featureKeyRequired": "Feature key is required",
+				"featureKeyExists": "Key already exists",
+				"featureValueRequired": "Feature value is required"
+			}
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"addons": {
+		"title": "Add-ons",
+		"subtitle": "Verbeter je workflow en ontgrendel je creativiteit met deze add-ons en plugins.",
+		"elementorSection": "Gemaakt door Elementor",
+		"partnerSection": "Add-ons die we aanbevelen",
+		"filters": {
+			"all": "Alles",
+			"appearance": "Uiterlijk van de site ({count})",
+			"functionality": "Functionaliteit ({count})",
+			"performance": "Prestaties ({count})",
+			"security": "Beveiliging ({count})",
+			"compliance": "Naleving ({count})",
+			"marketing": "Marketingtools ({count})",
+			"other": "Overig ({count})"
+		},
+		"noFilteredAddons": "Geen add-ons gevonden",
+		"noFilteredAddonsSub": "",
+		"card": {
+			"by": "Door {author}",
+			"letsgo": "Laten we gaan",
+			"comingSoon": "Binnenkort beschikbaar..."
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+    "userOverview": {
+        "id": "ID {id}",
+        "emailVerified": "Email verificato {value}",
+        "supportLevel": "Livello di supporto {value}",
+        "newStore": "Nuovo negozio {value}",
+        "registeredOn": "Registrato {date}",
+        "links": {
+            "zuora": "Gestisci in Zuora",
+            "kustomer": "Trova su Kustomer",
+            "switch": "Passa all'Utente",
+            "wp": "Apri in WooCommerce"
+        }
+    },
+    "subscriptionOverview": {
+        "id": "ID {id}",
+        "internalId": "ID interno {id}",
+        "ownerId": "ID utente {value}",
+        "startDate": "Data di inizio {date}",
+        "links": {
+            "zuora": "Gestisci in Zuora"
+        }
+    },
+    "subscriptionStatus": {
+        "active": "Attivo",
+        "expired": "Scaduto",
+        "onHold": "In sospeso",
+        "canceled": "Annullato",
+        "transferring": "In trasferimento",
+        "transferred": "Trasferito",
+        "aboutToExpire": "In scadenza"
+    }
+}

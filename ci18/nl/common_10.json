@@ -1,0 +1,218 @@
+{
+	"page": {
+		"back": "Terug naar abonnementen",
+		"reload": "Gegevens herladen",
+		"info": {
+			"id": "ID {id}",
+			"internalId": "Intern ID {id}",
+			"startDate": "Startdatum {value}",
+			"nextPaymentDate": "Volgende betaling {value}",
+			"order": "Bestelnummer {value}"
+		},
+		"actions": {
+			"title": "Acties",
+			"zuora": "Beheren in Zuora",
+			"switch": "Product/plan wijzigen",
+			"refund": "Abonnement terugbetalen"
+		}
+	},
+	"userInfo": {
+		"title": "Abonnementseigenaar"
+	},
+	"activationKey": {
+		"title": "Activeringscode",
+		"copy": "Kopiëren",
+		"regenerate": {
+			"title": "Activeringscode opnieuw genereren",
+			"confirm": "Weet u zeker dat u de activeringscode voor dit abonnement opnieuw wilt genereren?",
+			"action": "Opnieuw genereren",
+			"yes": "Ja",
+			"no": "Nee"
+		}
+	},
+	"activations": {
+		"title": "Activeringen({value})",
+		"noData": "Geen gegevens beschikbaar",
+		"header": {
+			"domain": "Domein",
+			"activationDate": "Activeringsdatum",
+			"deactivationDate": "Deactiveringsdatum",
+			"local": "Lokaal",
+			"actions": "Acties"
+		},
+		"deactivate": {
+			"title": "Deactiveer {value}",
+			"confirm": "Weet je zeker dat je deze activering wilt deactiveren?",
+			"action": "Deactiveren",
+			"yes": "Ja",
+			"no": "Nee"
+		},
+		"deactivateAll": {
+			"title": "Alles deactiveren",
+			"confirm": "Weet je zeker dat je alle activeringen wilt deactiveren?",
+			"action": "Alles deactiveren",
+			"yes": "Ja",
+			"no": "Nee"
+		}
+	},
+	"sitesActivations": {
+		"title": "Websiteactiveringen({value})",
+		"noData": "Geen gegevens beschikbaar",
+		"header": {
+			"url": "Site URL",
+			"connectedDate": "Verbonden datum",
+			"actions": "Acties"
+		},
+		"deactivate": {
+			"title": "Deactiveer {value}",
+			"confirm": "Weet je zeker dat je deze site wilt deactiveren?",
+			"action": "Deactiveren",
+			"yes": "Ja",
+			"no": "Nee"
+		}
+	},
+	"downloadHistory": {
+		"title": "Geschiedenis downloaden({value})",
+		"noData": "Geen gegevens beschikbaar",
+		"header": {
+			"timestamp": "Tijdstempel",
+			"version": "Versie",
+			"ip": "IP-adres"
+		}
+	},
+	"hostingWebsites": {
+		"title": "Websites({value})",
+		"noData": "Geen gegevens beschikbaar",
+		"header": {
+			"id": "Site-ID",
+			"slug": "Slug",
+			"url": "Site URL",
+			"status": "Status",
+			"created": "Aangemaakt",
+			"updated": "Bijgewerkt",
+			"deleted": "Verwijderd",
+			"actions": "Acties"
+		},
+		"delete": {
+			"title": "Verwijder {value}",
+			"confirm": "Weet je zeker dat je deze website wilt verwijderen?",
+			"action": "Verwijderen",
+			"yes": "Ja",
+			"no": "Nee"
+		}
+	},
+	"notes": {
+		"title": "Opmerkingen({value})",
+		"noData": "Geen gegevens beschikbaar",
+		"infoAuthor": "Toegevoegd door {author} op {date}",
+		"info": "{date}",
+		"add": "Notitie toevoegen",
+		"update": "Notitie bijwerken",
+		"delete": "Notitie verwijderen",
+		"dialog": {
+			"addTitle": "Notitie toevoegen",
+			"add": "Toevoegen",
+			"updateTitle": "Notitie bijwerken",
+			"update": "Bijwerken"
+		}
+	},
+	"refundModal": {
+		"title": "Weet je zeker dat je dit abonnement wilt terugbetalen?",
+		"buttons": {
+			"confirmRefund": "Terugbetaling bevestigen"
+		},
+		"refundText": {
+			"CurrentSubscription": "Huidig abonnement:",
+			"SubscriptionAge": "Abonnementsleeftijd:",
+			"Since": "Sinds:",
+			"ConfirmingThisProcessWill": "Het bevestigen van dit proces zal:",
+			"UnapplyThepaymentFromTheInvoice": "De betaling van de factuur ongedaan maken",
+			"CreateA": "Een",
+			"refundOnZuoraAndACreditMemo": "terugbetaling op Zuora en een creditnota creëren",
+			"CancelTheSupbscription": "Het abonnement annuleren",
+			"ReapplyThePaymentToInvoice": "De betaling opnieuw toepassen op de factuur",
+			"ApplyTheInvoiceToTheCreditMemo": "De factuur toepassen op de creditnota",
+			"Days": "dagen"
+		}
+	},
+	"switch": {
+		"title": "Dit abonnement overzetten naar een ander product/plan",
+		"info": {
+			"current": "Huidig abonnement:",
+			"id": "Abonnement-ID: {id}",
+			"sku": "SKU: {sku}",
+			"age": "Abonnementsleeftijd:",
+			"days": "({count, plural, one {# Dag} other {# Dagen}})"
+		},
+		"alerts": {
+			"missingData": "Sommige gegevens die nodig zijn voor overstappen ontbreken! Probeer de pagina te vernieuwen.",
+			"subCanceled": "Het abonnement is geannuleerd en kan niet worden overgezet.",
+			"over30": "Een abonnement ouder dan 30 dagen kan niet worden overgezet. De geld-terug-periode is verstreken.",
+			"version2": "Het abonnement is al overgezet/bijgewerkt. Alleen versie 1 abonnementen kunnen worden overgezet. Controleer Zuora voor meer details.",
+			"previewFailed": "Het berekenen van een overzichtsvoorbeeld is mislukt. Probeer het over een tijdje opnieuw.",
+			"manyActivation": "Het plan waarnaar u probeert over te schakelen biedt minder activeringen/websites dan het huidige plan. ({current}/{available})",
+			"manyTeamMembers": "Het plan waarnaar u probeert over te schakelen biedt minder teamleden dan het huidige plan. ({current}/{available})",
+			"indeterminateQuota": "Kon het quotum voor dit abonnement niet bepalen! Controleer de huidige activeringen en de nieuwe limiet nogmaals voor het overstappen!",
+			"missingPaymentMethod": "De abonnementseigenaar mist de standaard betalingsmethode informatie. Probeer het opnieuw zodra de gebruiker zijn standaard betaling heeft ingesteld.",
+			"generic": "Er is iets misgegaan. Probeer het over een tijdje opnieuw."
+		},
+		"switchResponse": {
+			"title": "Overstap reactie",
+			"success": {
+				"planMsg": "Abonnementsplan succesvol gewijzigd van {from} naar {to}.",
+				"productMsg": "Abonnementsproduct succesvol gewijzigd van {from} naar {to}."
+			},
+			"error": {
+				"title": "Overstap fout",
+				"msg": "Het overschakelproces is mislukt op {step}. Hervat het proces alstublieft handmatig.",
+				"steps": {
+					"plan": {
+						"generic_error": "Er is een fout opgetreden tijdens het overstapproces van het plan",
+						"get_subscription_refund_data": "Haal de betalingsinformatie van het abonnement op",
+						"change_subscription_plan": "Wijzig het abonnementsplan",
+						"update_invoice": "Werk de factuuritems bij",
+						"get_required_data": "Bereid de vereiste terugbetalingsgegevens voor",
+						"unapply_payment": "Maak de betaling van de factuur ongedaan",
+						"refund_payment": "Creëer de terugbetaling",
+						"apply_payment": "Pas de betaling opnieuw toe op de factuur",
+						"apply_credit_memo": "Pas de factuur toe op de creditnota"
+					},
+					"product": {
+						"generic_error": "Er is een fout opgetreden tijdens het overstapproces van het plan",
+						"cancel_subscription": "Annuleer en betaal het huidige abonnement terug",
+						"create_subscription": "Maak een nieuw abonnement aan",
+						"update_invoice": "Werk de factuur bij"
+					}
+				}
+			},
+			"msg": "Vanwege de plan/product overstap wordt aanbevolen om de backoffice opnieuw te laden.",
+			"actions": {
+				"refresh": "Vernieuwen",
+				"close": "Sluiten"
+			}
+		},
+		"selectLabel": "Selecteer de uit te voeren actie",
+		"refund": "Volledige terugbetaling (geef een volledige terugbetaling voor de laatste bestelling)",
+		"summary": {
+			"title": "Samenvatting",
+			"from": "Overstappen van",
+			"to": "Overstappen naar",
+			"refund": "Terug te betalen bedrag",
+			"charge": "In rekening te brengen bedrag"
+		},
+		"product": {
+			"switchOption": "Product overzetten",
+			"selectLabel": "Product",
+			"submit": "Product overzetten",
+			"itemText": "{productName} - {name} [{sku}]"
+		},
+		"plan": {
+			"switchOption": "Plan overzetten",
+			"selectLabel": "Plan",
+			"submit": "Plan overzetten",
+			"itemText": "{isDowngrade, select, true { Downgraden } other { Upgraden }} naar {name} [{sku}]",
+			"quota": "({um}: {current}/{max})",
+			"quotaOverInfo": "Dit plan kan niet worden gebruikt vanwege het overschrijden van de quotumlimiet!"
+		}
+	}
+}
