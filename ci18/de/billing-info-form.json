@@ -3,25 +3,25 @@
         "labels": {
             "firstName": "Vorname",
             "lastName": "Nachname",
-            "email": "E-Mail für Rechnungsempfang",
+            "email": "E-Mail-Adresse für den Rechnungsempfang",
             "companyName": "Firmenname",
-            "vatNumber": "Umsatzsteuer-ID / Steuernummer",
+            "vatNumber": "Umsatzsteuer-Identifikationsnummer / Steuernummer",
             "countryCode": "Land / Region",
-            "address1": "Adresse 1",
-            "address2": "Adresse 2",
+            "address1": "Adresszeile 1",
+            "address2": "Adresszeile 2",
             "state": "Bundesland",
             "city": "Stadt",
             "zipCode": "Postleitzahl"
         },
         "errors": {
-            "defaultErrorMessage": "Bitte geben Sie ein gültiges {fieldName} ein.",
+            "defaultErrorMessage": "Bitte geben Sie eine gültige {fieldName} ein.",
             "firstName": {
                 "required": "Bitte geben Sie Ihren Vornamen ein.",
-                "invalid": "Bitte verwenden Sie nur Buchstaben, Bindestriche und Apostrophe"
+                "invalid": "Bitte verwenden Sie ausschließlich Buchstaben, Bindestriche und Apostrophe"
             },
             "lastName": {
                 "required": "Bitte geben Sie Ihren Nachnamen ein.",
-                "invalid": "Bitte verwenden Sie nur Buchstaben, Bindestriche und Apostrophe"
+                "invalid": "Bitte verwenden Sie ausschließlich Buchstaben, Bindestriche und Apostrophe"
             },
             "address1": {
                 "required": "Bitte geben Sie Ihre Hauptadresse ein.",
@@ -38,7 +38,7 @@
             },
             "city": {
                 "required": "Bitte geben Sie einen Städtenamen ein.",
-                "invalid": "Der Städtename sollte nur Buchstaben und Apostrophe enthalten."
+                "invalid": "Der Städtename sollte ausschließlich Buchstaben und Apostrophe enthalten."
             },
             "zipCode": {
                 "required": "Bitte geben Sie eine gültige Postleitzahl ein.",
