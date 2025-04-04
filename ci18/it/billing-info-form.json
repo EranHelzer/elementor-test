@@ -6,45 +6,45 @@
             "email": "Email per ricevere le fatture",
             "companyName": "Nome dell'azienda",
             "vatNumber": "Partita IVA / Codice fiscale",
-            "countryCode": "Paese / Regione",
+            "countryCode": "Paese / regione",
             "address1": "Indirizzo 1",
             "address2": "Indirizzo 2",
-            "state": "Stato",
+            "state": "Provincia",
             "city": "Città",
-            "zipCode": "Codice postale / CAP"
+            "zipCode": "CAP"
         },
         "errors": {
-            "defaultErrorMessage": "Si prega di inserire un {fieldName} valido.",
+            "defaultErrorMessage": "Inserisci un {fieldName} valido, dai.",
             "firstName": {
-                "required": "Si prega di inserire il nome.",
-                "invalid": "Si prega di utilizzare solo lettere, trattini e apostrofi"
+                "required": "Metti il tuo nome, su.",
+                "invalid": "Usa solo lettere, trattini e apostrofi, ok"
             },
             "lastName": {
-                "required": "Si prega di inserire il cognome.",
-                "invalid": "Si prega di utilizzare solo lettere, trattini e apostrofi"
+                "required": "Scrivi il tuo cognome, forza.",
+                "invalid": "Usa solo lettere, trattini e apostrofi, capito"
             },
             "address1": {
-                "required": "Si prega di inserire l'indirizzo principale.",
-                "invalid": "L'indirizzo può includere caratteri alfanumerici e punteggiatura."
+                "required": "Inserisci l'indirizzo principale, dai.",
+                "invalid": "L'indirizzo può avere caratteri alfanumerici e punteggiatura, tranquillo."
             },
             "address2": {
-                "invalid": "L'indirizzo può includere caratteri alfanumerici e punteggiatura."
+                "invalid": "L'indirizzo può avere caratteri alfanumerici e punteggiatura, nessun problema."
             },
             "countryCode": {
-                "required": "Si prega di selezionare un paese dall'elenco."
+                "required": "Scegli un paese dalla lista, su."
             },
             "state": {
-                "required": "Si prega di selezionare uno stato dall'elenco."
+                "required": "Seleziona una provincia dalla lista, dai."
             },
             "city": {
-                "required": "Si prega di inserire il nome della città.",
-                "invalid": "Il nome della città deve contenere solo lettere e apostrofi."
+                "required": "Scrivi il nome della città, forza.",
+                "invalid": "Il nome della città deve avere solo lettere e apostrofi, ok."
             },
             "zipCode": {
-                "required": "Si prega di inserire un codice postale / CAP valido.",
-                "invalid": "Si prega di inserire un codice postale / CAP valido."
+                "required": "Metti un CAP valido, dai.",
+                "invalid": "Inserisci un CAP valido, su."
             }
         },
-        "noMatch": "Nessuna corrispondenza trovata"
+        "noMatch": "Non ho trovato niente, sorry"
     }
 }
